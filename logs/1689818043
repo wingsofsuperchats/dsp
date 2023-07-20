@@ -1,0 +1,458 @@
+[
+    {
+        "event": "start",
+        "time": 1689818043,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1689818043,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening all!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1689818043,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "yeab im not sure how long this game is",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1689818043,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "we'll find out tonight i guess!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1689818140,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay using the bathroom and then we start, brb!",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689819116,
+        "author": "redbandit94",
+        "author_id": "UChBM4Wp5XsjyFvzD_-Q8MPw",
+        "text": "cheers to a good stream!",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689819342,
+        "author": "LittleCr0wxx_ENVTuber_Gaming",
+        "author_id": "UCt28V3rpFTxiOWP7jFzy4yQ",
+        "text": "Sent you a tip",
+        "usd": 2.04
+    },
+    {
+        "event": "superchat",
+        "time": 1689820334,
+        "author": "Lord Prince Albert",
+        "author_id": "UCp4v_7i6KU3tnuFl_y01e4Q",
+        "text": "paulie said dont forget to drop off the \"package\" at Mr. Singh's house tonight & make sure you give him an \"italian goodbye\" im not sure what that is",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1689820496,
+        "author": "Johnny B Smithy",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "GHOSTS!?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689820876,
+        "author": "The cameras been on the whole time huh? 😅",
+        "author_id": "UCHszU5-RkvAngMSUPS_M7pw",
+        "text": "Long time fan here! Just reliving your moment. ",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1689820884,
+        "author": "None",
+        "author_id": "UCHszU5-RkvAngMSUPS_M7pw",
+        "text": "Long time fan here! Just reliving your moment. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689820997,
+        "author": "Johnny B Smithy",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "Hi Derich",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689821618,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "DSP, can you do a zero suit Samus cosplay event?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689821626,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "DSP, can you do a zero suit Samus cosplay event?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689821635,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "DSP, can you do a zero suit Samus cosplay event?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689821643,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "DSP, can you do a zero suit Samus cosplay event?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689821651,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "DSP, can you do a zero suit Samus cosplay event?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689821659,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "DSP, can you do a zero suit Samus cosplay event?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689821667,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "DSP, can you do a zero suit Samus cosplay event?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689821853,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": ":_dspHmm:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689822951,
+        "author": "Johnny B Smithy",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "Time to split the load",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689823210,
+        "author": "Willow",
+        "author_id": "UCC5crOIHrVNjz5r94XYBxpA",
+        "text": "I watch christmas movies & listen to christmas in july before",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689823387,
+        "author": "Goldennobles",
+        "author_id": "UC3jkQD4CMVKAYfTkT_-tAgg",
+        "text": "Grab a shovel and float to the end. Speedrun strat",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1689823622,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "I'm eating brussel sprouts with peanut sauce. It's delicious, you should try it. Protein and vitamins.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689823630,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "I'm eating brussel sprouts with peanut sauce. It's delicious, you should try it. Protein and vitamins.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689823638,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "I'm eating brussel sprouts with peanut sauce. It's delicious, you should try it. Protein and vitamins.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689823646,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "I'm eating brussel sprouts with peanut sauce. It's delicious, you should try it. Protein and vitamins.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689823654,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "I'm eating brussel sprouts with peanut sauce. It's delicious, you should try it. Protein and vitamins.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689823662,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "I'm eating brussel sprouts with peanut sauce. It's delicious, you should try it. Protein and vitamins.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689823670,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "I'm eating brussel sprouts with peanut sauce. It's delicious, you should try it. Protein and vitamins.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689823678,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "I'm eating brussel sprouts with peanut sauce. It's delicious, you should try it. Protein and vitamins.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689823678,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "I'm eating brussel sprouts with peanut sauce. It's delicious, you should try it. Protein and vitamins.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689823686,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "I'm eating brussel sprouts with peanut sauce. It's delicious, you should try it. Protein and vitamins.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689823703,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "I'm eating brussel sprouts with peanut sauce. It's delicious, you should try it. Protein and vitamins.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689823703,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "I'm eating brussel sprouts with peanut sauce. It's delicious, you should try it. Protein and vitamins.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689823711,
+        "author": "Peepo Kekidy",
+        "author_id": "UCBwxqvOGs13vqHozUzAZ_vg",
+        "text": "I'm eating brussel sprouts with peanut sauce. It's delicious, you should try it. Protein and vitamins.",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689823727,
+        "author": "chupamiverga69",
+        "author_id": "UCjSQ3HyddPCEUVz0-s-llbw",
+        "text": "Nice ‘Gief stream today! @DSPGaming",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1689823735,
+        "author": "Gabriel the Blessed ",
+        "author_id": "UCnz7MhTfiVO4SvvOcvYCk5Q",
+        "text": "Oppenheimer would make great movie react/review",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689824179,
+        "author": "LittleCr0wxx_ENVTuber_Gaming",
+        "author_id": "UCt28V3rpFTxiOWP7jFzy4yQ",
+        "text": "Pikmin 1/2 when?",
+        "usd": 2.04
+    },
+    {
+        "event": "ban",
+        "time": 1689825188,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming i love see gta5",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689825414,
+        "author": "Eliza Pancakes",
+        "author_id": "UChO7RTpvjIfiKwzd5_M4ybw",
+        "text": "@DSPGaming should I make a rogue or Necro for season 1 of diablo tomorrow?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689825511,
+        "author": "Eliza Pancakes",
+        "author_id": "UChO7RTpvjIfiKwzd5_M4ybw",
+        "text": "@DSPGaming should I make a rogue or Necro for season 1 of diablo tomorrow?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689825721,
+        "author": "UltraVolt45⚡️",
+        "author_id": "UC_SHur0JTHiKz0pcHTueX3w",
+        "text": "@DSPGaming Dead island 2 be fun to watch",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689825729,
+        "author": "steph",
+        "author_id": "UCW4ikH5BraoFb59RO4774gw",
+        "text": "Bruh Willow wtf",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689825762,
+        "author": "steph",
+        "author_id": "UCW4ikH5BraoFb59RO4774gw",
+        "text": "Sorry Willow just learned about your disability didn’t mean to offend ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689825843,
+        "author": "Eddie Chill",
+        "author_id": "UC6B6JjJUWHq75-bk6Ligv8g",
+        "text": "The govt is having more UFO hearings @DSPGaming",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689825851,
+        "author": "Eddie Chill",
+        "author_id": "UC6B6JjJUWHq75-bk6Ligv8g",
+        "text": "The govt is having more UFO hearings @DSPGaming",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689825907,
+        "author": "Saddy",
+        "author_id": "UCbl49oGDSjaWXPsH8KTYXLA",
+        "text": "begging?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689825907,
+        "author": "Saddy",
+        "author_id": "UCbl49oGDSjaWXPsH8KTYXLA",
+        "text": "begging?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689825931,
+        "author": "Marc Thomas",
+        "author_id": "UCW5h2qoGSryapnY4ohBcm7g",
+        "text": "someone gift, gang",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689826052,
+        "author": "Marc Thomas",
+        "author_id": "UCW5h2qoGSryapnY4ohBcm7g",
+        "text": "what you talking about Tony bologna you step up and give someone a membership Lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689826206,
+        "author": "bill",
+        "author_id": "UCuMps_N6ZOSm2DjTD3cIcjw",
+        "text": "such a tough guy",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689826706,
+        "author": "UltraVolt45⚡️",
+        "author_id": "UC_SHur0JTHiKz0pcHTueX3w",
+        "text": "@DSPGaming Ever played dead by daylight?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689826779,
+        "author": "Cyraxxx The Rapper",
+        "author_id": "UC4oG-NWKyWURt09naLT74Jg",
+        "text": "@dspgaming how has your reacts channel been going? I haven’t had the time to check it out in awhile",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689826795,
+        "author": "Mr Puzzles",
+        "author_id": "UCqFz_gkmfSRjL1bY5D-urrw",
+        "text": "Lol I think that’s D man’s favorite too ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689826949,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "no, the video length is just fine",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1689828316,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 19.049999999999997
+    }
+]
