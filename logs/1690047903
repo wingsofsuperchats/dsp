@@ -1,0 +1,650 @@
+[
+    {
+        "event": "start",
+        "time": 1690047903,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690047904,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good morning everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690047904,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "streaming later? its the same time",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690047904,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "i just forgot to set up the stream but its here now",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690047912,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay here we GO!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690047952,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "hello!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048041,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "doing good thanks! is it finally your independence day?",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048179,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "yes GTAV tonight, although i still have no idea if i have the right version of the game or not",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048179,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "seems they really F'ed it up on xbox live",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048325,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good morning!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048325,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": ":_dspWassap:",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048341,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "got some interesting updates for ya today",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048373,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "i actually did",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048373,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "one is a real trailer, one is not lol",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690048373,
+        "author": "Spaniard Prince",
+        "author_id": "UCMKhoyDZMsom0e6IVudKCMg",
+        "text": "I enjoy watching you play sf6. More blanka please :folded_hands: :victory_hand: ",
+        "usd": 19.99
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048422,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "thanks @Spaniard Prince !",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048430,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "blanka returns on Wednesday!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048430,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "hopefully we get him close to master",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048462,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "4 star diamond i believe",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048502,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "i saw some new Blanka tech vids so i may have even more new stuff for Wednesday",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048511,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "but i am glad to take 2 days off from SF6 for variety and calmness lol",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048672,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay gonna use the restroom andt hen we'll begin, BRB",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048962,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "well today we are doing major story in FFXVI to start",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690048962,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "so tahts good",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690049051,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "thugz on da flo'",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690049084,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "@Muon Tuesday night! Would have been tomorrow but they are taking down servers for the Rashid release on Monday, so it has to be pushed a bit",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690049610,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "intro song = muted",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690049868,
+        "author": "SniperN0Snipen",
+        "author_id": "UCRiES0mNGdauNi41uBuXBCg",
+        "text": "@Dspgaming what do you get any rewards for hitting certain tiers? Like Diamond and Masters?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690050102,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "Fighter's Corner with DSP",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690051225,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "@DSPGaming nowhere to go but up",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690051363,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "more like Duh-Scout",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690051508,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "slap that stick!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690051581,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "ride that spicy chicken!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690051678,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "lol \"Nlanka\"",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690051774,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "we're being punished",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690051782,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "we're being punished",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690051960,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "I had to log in recently for The Division 2",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690052105,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "NFTs? that's rich!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690052153,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "NFTs? that's rich!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690052291,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "Pai Mei",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690052299,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "Pai Mei",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690052380,
+        "author": "Marc Thomas",
+        "author_id": "UCW5h2qoGSryapnY4ohBcm7g",
+        "text": "Tanya was in mkx too @DSPGAMING",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690052396,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "@Cheetah Man how is it?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690052485,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "@Cheetah Man how is it?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690052493,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "@Cheetah Man how is it?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690052606,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "Nlanka",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690052768,
+        "author": "Darth Fig",
+        "author_id": "UCCDShkTZk5EMrQfFJWC-qSA",
+        "text": "After beating FF16, I needed a true RPG fix and got the FF6 pixel remaster. I sat at the main menu for like 10 mins just soaking in that epic theme. Few hours in and I have those adventure feels!",
+        "usd": 10.0
+    },
+    {
+        "event": "ban",
+        "time": 1690052784,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "Tanya the Evil",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690052865,
+        "author": "SDChargers",
+        "author_id": "UCR4ACviyQQOl3XW6YdXw-LQ",
+        "text": "excited for cities 2, i have lots of tips for it",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1690053454,
+        "author": "WULF",
+        "author_id": "UChLCMFZIpB7chFWCTKURPyg",
+        "text": "Like a little goth gorl ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690054002,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Love watching this film together like a community should :_dspThumbsup:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690054010,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "Cast Away",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690054099,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "they should have made Barb-He about a transsexual doll",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690054107,
+        "author": "Slayer0804",
+        "author_id": "UCcl6Vpq3aGii7x_Gpq5L1Fg",
+        "text": "@dspgaming the cast for plays in the barbie movie are older people and not young people",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690054148,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "they should have made Barb-He about a transsexual doll",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690054237,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "@DSPGaming sounds preachy",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690054358,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "Barbie = Doll-Seem",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690054415,
+        "author": "jjns06",
+        "author_id": "UCKgJ0l7jkHjsOD3RGDFxKcQ",
+        "text": "it'll be underwater in a week",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690054948,
+        "author": "Gabriel Figueroa",
+        "author_id": "UCP7ZYs-EavKDUPj_64B8sFQ",
+        "text": "did we ever find out if Phil rode on a llama?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690055725,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "About halfway. About 20 hours left ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690056015,
+        "author": "Destro",
+        "author_id": "UCpznEbs6occx96Y5PuzPcxg",
+        "text": "Man Child",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690056015,
+        "author": "Destro",
+        "author_id": "UCpznEbs6occx96Y5PuzPcxg",
+        "text": "Man Child",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690056968,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@WhoaMoses hi",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690057720,
+        "author": "Bimpson",
+        "author_id": "UCF_UZVw39vpVCkvmZtq5Oxg",
+        "text": "so do you all just wait for overlord phill to give you your opinions on games?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690059376,
+        "author": "Frog King",
+        "author_id": "UCFTLOzmbTDAE0MGGZEIGl4Q",
+        "text": "!tip",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690060936,
+        "author": "Mr Puzzles",
+        "author_id": "UCqFz_gkmfSRjL1bY5D-urrw",
+        "text": "Squeeze the peel ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690061615,
+        "author": "chrisb",
+        "author_id": "UClAkYl8KJg3wgy-hq8o0Gzw",
+        "text": "@DSPGaming I was trying to say before I think gta 5 is the perfect playthrough for your channel right now and I'm super hyped",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690062617,
+        "author": "Mika",
+        "author_id": "UC9Q0S1F-1NX1tO8hL60fEXQ",
+        "text": "ackack",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690062657,
+        "author": "Mika",
+        "author_id": "UC9Q0S1F-1NX1tO8hL60fEXQ",
+        "text": "mee reeeee",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690062665,
+        "author": "Tony Bologna",
+        "author_id": "UC7cuGgDL7j8H8qkDI2oW2aw",
+        "text": "What did Phil mean to say when he said “me reee” ?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690062779,
+        "author": "Mika",
+        "author_id": "UC9Q0S1F-1NX1tO8hL60fEXQ",
+        "text": "it's not ackackack its hahahaha",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690062867,
+        "author": "Mr Puzzles",
+        "author_id": "UCqFz_gkmfSRjL1bY5D-urrw",
+        "text": "Trading vids with haseox I think ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690063391,
+        "author": "Unbiased fan",
+        "author_id": "UCmp_jeF4h_YALX1KIW4FXeA",
+        "text": "“I don’t have an argument so I’ll use and as hominem attack”",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690063641,
+        "author": "Mika",
+        "author_id": "UC9Q0S1F-1NX1tO8hL60fEXQ",
+        "text": "@DSPGaming so far what's your GOTY RE2 remake?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690064076,
+        "author": "Gavin w",
+        "author_id": "UCAH0MfObFZWIuloqpDohGBQ",
+        "text": "this game shouldve been about the darksyde ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690064398,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@Howard Baxter tu i konw goddzilla",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690064858,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Thin ice meatball ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690065075,
+        "author": "Cammy's Fine Arse",
+        "author_id": "UCrjpsBhTSto6Uf6rVxz1bVw",
+        "text": "@DSPGaming do you think this fight kinda feels like Nier?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690065180,
+        "author": "KingCobraJFS",
+        "author_id": "UC00FyKbg-UQSsykHyLdkyXw",
+        "text": "Man I’ve had poo under my finger nails for weeks I can’t get it out ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690065188,
+        "author": "KingCobraJFS",
+        "author_id": "UC00FyKbg-UQSsykHyLdkyXw",
+        "text": "Man I’ve had poo under my finger nails for weeks I can’t get it out ",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1690067932,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 31.99
+    }
+]
