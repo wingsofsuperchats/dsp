@@ -662,5 +662,45 @@
         "author_id": "UChBM4Wp5XsjyFvzD_-Q8MPw",
         "text": "you look incredible",
         "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1690410070,
+        "author": "PB&SWAY",
+        "author_id": "UCTbHX_1xfhZA3-ceSrqvgsA",
+        "text": "no problem man health is important and happiness is extremely important for health thats what try to explain to Ds",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690411045,
+        "author": "M M",
+        "author_id": "UCq1hhSMIT6DQYmNEnSDeBzQ",
+        "text": "for every 10 buttons he presses only one is read:face-blue-wide-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690411456,
+        "author": "M M",
+        "author_id": "UCq1hhSMIT6DQYmNEnSDeBzQ",
+        "text": "@Howard Baxter thinking gets u banned, we just have to accept whatever happens",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690412181,
+        "author": "dabhands44",
+        "author_id": "UCaf6ixOLcwDEvPukafhdPoA",
+        "text": "@DSP Is The Goat i say place this tonight man, its your stream",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1690414215,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 14.1
     }
 ]
