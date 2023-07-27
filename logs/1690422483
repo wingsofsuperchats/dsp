@@ -1,0 +1,410 @@
+[
+    {
+        "event": "start",
+        "time": 1690422483,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690422483,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690423708,
+        "author": "NormousOnTwitch",
+        "author_id": "UCiZahSWXus-FQuHQ4wes9_Q",
+        "text": "extra snorts",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690424014,
+        "author": "redbandit94",
+        "author_id": "UChBM4Wp5XsjyFvzD_-Q8MPw",
+        "text": "Good evening phil! GTA V support!",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690424151,
+        "author": "DIEJAMES",
+        "author_id": "UCI46dQ-dK81h539MVHv6DWg",
+        "text": "More GTA ",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1690424473,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Definite can hear it ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690424731,
+        "author": "Captain DCW",
+        "author_id": "UCtQnZKAb5jpgI0pA-Fahtkw",
+        "text": "I’ve beaten this game a total of 5 times twice on 360 twice on ps4 once on my ps5",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1690424812,
+        "author": "LittleCr0wxx_ENVTuber_Gaming",
+        "author_id": "UCt28V3rpFTxiOWP7jFzy4yQ",
+        "text": "Sent you a tip ",
+        "usd": 2.03
+    },
+    {
+        "event": "ban",
+        "time": 1690424844,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming cool see u tonight",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690425005,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming cool see u tonight",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690425214,
+        "author": "Gavin w",
+        "author_id": "UCAH0MfObFZWIuloqpDohGBQ",
+        "text": "get owned dood",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690425480,
+        "author": "Rob Shekels ",
+        "author_id": "UCOxIMwVrOcziQm_w5bAbtyw",
+        "text": "chat got way too chill and we froze we back now tho ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690425489,
+        "author": "Rob Shekels ",
+        "author_id": "UCOxIMwVrOcziQm_w5bAbtyw",
+        "text": "chat got way too chill and we froze we back now tho ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690425690,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "The first is their son being African American @johnny ?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690425932,
+        "author": "OSCAR HPOINT",
+        "author_id": "UCgjBS97UKnYKEEKV77R4_Rg",
+        "text": "Hey phill did you ever ask your parents for a sibling? That way you could have someone to play with ect ",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1690426190,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming fist time power rangers convention second i don't remember",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690426254,
+        "author": "Gabriel the Blessed ",
+        "author_id": "UCnz7MhTfiVO4SvvOcvYCk5Q",
+        "text": "Leaderboard Leaderboard sup Phil what was dinner",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1690426319,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming fist time power rangers convention second i don't remember",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690426464,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming fist time power rangers convention second i don't remember",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690426472,
+        "author": "Gavin w",
+        "author_id": "UCAH0MfObFZWIuloqpDohGBQ",
+        "text": "its all coming full circle",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690426593,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming fist time power rangers convention second i don't remember",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690426633,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Tongue kissing a younger sibling is a helluva rush",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690426931,
+        "author": "Poke_manx",
+        "author_id": "UCRIQia1bOH72J2F8o9PXTVA",
+        "text": "no more apb",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690427334,
+        "author": "Richard Glücks 🇩🇪",
+        "author_id": "UCpBstvSXUOEg-s9c0YkU3sQ",
+        "text": "Hands up if you have ever kissed your sister ✋🏿",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690427551,
+        "author": "Johnny B Smithy",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "They should call it Mafia",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690427785,
+        "author": "Chad King",
+        "author_id": "UCX2Ujrm3_9rO0IUy1MUs10A",
+        "text": "Lester, Mow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690428003,
+        "author": "SithAlchemist",
+        "author_id": "UCSyKj7Nkdi_Dwhu-Xe-pWqQ",
+        "text": "Anyone remember the mission in Sleeping Dogs when you swat the troll in his apartment?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690428236,
+        "author": "Wiley Coyote",
+        "author_id": "UC1F32XMD6FDi9-Gcs-SZ8BQ",
+        "text": "9 dollars jfc",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690428245,
+        "author": "Richard Glücks 🇩🇪",
+        "author_id": "UCpBstvSXUOEg-s9c0YkU3sQ",
+        "text": "Can I please date Jasper",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690428341,
+        "author": "Chad King",
+        "author_id": "UCX2Ujrm3_9rO0IUy1MUs10A",
+        "text": "Lisa Lou please save us",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690428672,
+        "author": "Joe Vibin",
+        "author_id": "UC-k2nh1ACLjSChXAFBlLqhQ",
+        "text": "Which gta to server is this?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690428728,
+        "author": "M M",
+        "author_id": "UCq1hhSMIT6DQYmNEnSDeBzQ",
+        "text": "I would lobe a job like that",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690429840,
+        "author": "SithAlchemist",
+        "author_id": "UCSyKj7Nkdi_Dwhu-Xe-pWqQ",
+        "text": "Chigurh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690429848,
+        "author": "SithAlchemist",
+        "author_id": "UCSyKj7Nkdi_Dwhu-Xe-pWqQ",
+        "text": "Chigurh",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690429888,
+        "author": "BloomKit",
+        "author_id": "UCw1Y22aKoOXKLDLS7kJjR4A",
+        "text": "Favorite nicktoon?",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1690429937,
+        "author": "Gabriel the Blessed ",
+        "author_id": "UCnz7MhTfiVO4SvvOcvYCk5Q",
+        "text": "Plans on day off tomorrow? ",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1690430041,
+        "author": "Gavin w",
+        "author_id": "UCAH0MfObFZWIuloqpDohGBQ",
+        "text": "Sаm Нydе - \"Lоаd up Dа Ting\"",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690430509,
+        "author": "BloomKit",
+        "author_id": "UCw1Y22aKoOXKLDLS7kJjR4A",
+        "text": "The driving in 4 was way worse tho ",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1690430549,
+        "author": "intelligent critic",
+        "author_id": "UC5g3KzFTpPJF0AAnb_dySig",
+        "text": "dude u cannot blame the driving , u are literally crashing into WALLS and driving off bridges into the water. PUT ON THE GLASSES UR VISION IS OFF RN",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690430565,
+        "author": "Mika",
+        "author_id": "UC9Q0S1F-1NX1tO8hL60fEXQ",
+        "text": "too old for this :face_with_tears_of_joy::face_with_tears_of_joy::face_with_tears_of_joy:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690430807,
+        "author": "G h o s t",
+        "author_id": "UCwsmqhTlF-I7x1gsFSDjF9g",
+        "text": "THIS IS WHY I LIKE THIS SERIES CUZ PHIL KEEPS ON GETTING KILLED AND HAVING WEIRD MOMENTS",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690430807,
+        "author": "G h o s t",
+        "author_id": "UCwsmqhTlF-I7x1gsFSDjF9g",
+        "text": "THIS IS WHY I LIKE THIS SERIES CUZ PHIL KEEPS ON GETTING KILLED AND HAVING WEIRD MOMENTS",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690430839,
+        "author": "Eddie Chill",
+        "author_id": "UC6B6JjJUWHq75-bk6Ligv8g",
+        "text": "NOCs making Phil fail the mission smh",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690430993,
+        "author": "BloomKit",
+        "author_id": "UCw1Y22aKoOXKLDLS7kJjR4A",
+        "text": "Logic says drive into water ",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1690431033,
+        "author": "M M",
+        "author_id": "UCq1hhSMIT6DQYmNEnSDeBzQ",
+        "text": "hahah how ate u going to camouflage amongst the people, all 3 of you holding shotguns",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690431049,
+        "author": "Goldennobles",
+        "author_id": "UC3jkQD4CMVKAYfTkT_-tAgg",
+        "text": "Stop thinking SF blocking and dodge cops on GTA",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1690431291,
+        "author": "KingCobraJFS",
+        "author_id": "UC00FyKbg-UQSsykHyLdkyXw",
+        "text": "Our podcast will be called the kings of YouTube ",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1690432177,
+        "author": "Kozo [Reformed]",
+        "author_id": "UCxkaaaF11P0liYCFuYUV_Yg",
+        "text": "Why not go as an ice cream who sellls delicious mango ice cream ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690432177,
+        "author": "PickleMan72",
+        "author_id": "UCkMkq6-ky_corlBt9bkpGcQ",
+        "text": "@Peanut Butter Rent Free this stream without a fire truck belongs in a garbage truck",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690432370,
+        "author": "Mishael23s",
+        "author_id": "UC7CwfNcK7xN5AvAQX8uOrUA",
+        "text": "The percent is their cut!:_dspFacepalm:",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1690433832,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 37.96
+    }
+]
