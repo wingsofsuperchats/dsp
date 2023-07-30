@@ -1,0 +1,426 @@
+[
+    {
+        "event": "start",
+        "time": 1690739821,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690739822,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good morning everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690739822,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "we are good thanks",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690739822,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "im very busy, doing 100 things now. adding thumbnails, setting up stuff",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690739871,
+        "author": "WorldsMostWantedTerrorist",
+        "author_id": "UCQDmjXiqrST_FGi8t7U1jTA",
+        "text": "Im here for the kahntent",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690739871,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "the Panera was pretty terrible, not gonna lie",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690739887,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "best thing was the tuna salad and there wasn't even a full bite of it on the entire sandwich",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690739967,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "street fighter has been in fortnite for quite some time already",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690740290,
+        "author": "Eddie Chill",
+        "author_id": "UC6B6JjJUWHq75-bk6Ligv8g",
+        "text": "I'm in a full sku suit @RipTheJackR ",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690740435,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay just gonna use the restroom and we'll start, brb",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690740444,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "gonna plan out the anniversary events today!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690741041,
+        "author": "Slimer",
+        "author_id": "UC_cTUM3oPIcun43QzSPpk4g",
+        "text": "when you're doing project 7 make sure not to dox John Rambo again or anyone else while doing it @DSPGaming",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690741380,
+        "author": "Walmart NPC",
+        "author_id": "UCf5znC7opV18gz_kjWld6tw",
+        "text": "sucks you gotta call them morons for not liking how you do it, not everyone pauses that much",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690741994,
+        "author": "Lavinia Whateley",
+        "author_id": "UCNJ0oNZvQgvu51DZb3A2Oug",
+        "text": "#Mearball Man yea plus multiple ppl just gave feedback and what happened",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690742002,
+        "author": "Meatball Man",
+        "author_id": "UCJAqOHTt3OCxrjhUXj3BVJA",
+        "text": "Yep! King of hate! @Daxma",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690742245,
+        "author": "JD TV",
+        "author_id": "UCkfJbStrLMaPICjjrI6SPbA",
+        "text": "Hey Phil! I just looked it up: There will be NO rank reset in SF6! @DSPGaming",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690742375,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@Canadian James Tiberius Kirk (reborn!) yo",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690742375,
+        "author": "JD TV",
+        "author_id": "UCkfJbStrLMaPICjjrI6SPbA",
+        "text": "Super Mario World",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690742722,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "its fun to cam",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690742835,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "hi @Willow ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690743037,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming my membership ends Aug 2 so I have a couple of days to post in the member thread can I also comment in the standard thread ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690743256,
+        "author": "Your Local CrackHead Who Steals",
+        "author_id": "UC39X5e3p2BSJU9kl0osfvgQ",
+        "text": "big ups ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690743336,
+        "author": "Meatball Man",
+        "author_id": "UCJAqOHTt3OCxrjhUXj3BVJA",
+        "text": "Keep the mask on @marchsadness, don’t fly too close to the sun",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690743353,
+        "author": "Eddie Cheese",
+        "author_id": "UCTs_DlWS_H3E-azSym-imiQ",
+        "text": "Derich say......",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690743377,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming when you used to do these Retrospective marathons, you used to use your King of Hate forums for nominations. did you like using it and are you still using it? ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690743393,
+        "author": "Adam Thiry",
+        "author_id": "UCh1mg75BB1_BwY0oRPZLdUA",
+        "text": "None",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1690743434,
+        "author": "Meatball Man",
+        "author_id": "UCJAqOHTt3OCxrjhUXj3BVJA",
+        "text": "You just mentioned them ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690743644,
+        "author": "KingCobraJFS",
+        "author_id": "UC00FyKbg-UQSsykHyLdkyXw",
+        "text": "@dspgaming have you been on my Etsy store I just released new handmade wands",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690743684,
+        "author": "Walmart Npc",
+        "author_id": "UCP0eP8Uh-sDFCFt6OVZ1YGQ",
+        "text": "@Dspgaming thoughts on Derich follow over 100 kids in instagram?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690743846,
+        "author": "JD TV",
+        "author_id": "UCkfJbStrLMaPICjjrI6SPbA",
+        "text": "@DSPGaming The videos we can nominate for you anniversary MUST be from your YouTube channel right? It can‘t be a non detractor third party channel? I am asking cause some of them have the snippets.",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690744137,
+        "author": "KingCobraJFS",
+        "author_id": "UC00FyKbg-UQSsykHyLdkyXw",
+        "text": "I sell homemade wands on Etsy dude I give u discou",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1690744250,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "I love finding out about @DSPGaming through @Willow 's questions",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690744250,
+        "author": "Xshooter",
+        "author_id": "UC88CNmYxuryT6Q5xioeLz_A",
+        "text": "So i just got a ps5 been playing batman Arkham knight, can’t wait for spider man 2",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1690744266,
+        "author": "Carl Johnson (CJ)",
+        "author_id": "UCsFW7HiUqFBFNxEXEx_hxSg",
+        "text": "@DSPGaming well, I tried to mow and it started to rainm",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690744379,
+        "author": "JD TV",
+        "author_id": "UCkfJbStrLMaPICjjrI6SPbA",
+        "text": "@DSPGaming The selsun blue video is the best one. :face_with_tears_of_joy:",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690744509,
+        "author": "guitarplayer1939",
+        "author_id": "UCH_qv369HyoMHgnx7KqQlmg",
+        "text": "When I get home tonight I’ll be sure to post up some videos on your community post.",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1690744590,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming in Justin Wong’s Wikipedia it says Justin Wong was only 15 years old when he traveled to B5 in 2001 and won its Marvel vs. Capcom 2 tournament. B5 is Battle of the Bay ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690744606,
+        "author": "UltraVolt45⚡️",
+        "author_id": "UC_SHur0JTHiKz0pcHTueX3w",
+        "text": "Hey phill when will GTA 6 come out?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690744638,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I mean you went into detail about how you could’ve easily gotten MASTER RANKING weeks ago but like you said you’re a diversity/variety streamer and there’s nothing wrong with that CHAMP",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690744848,
+        "author": "Casanova",
+        "author_id": "UC97FGW5O3qPF1XRNm14fB3w",
+        "text": "@dspgaming we were always a great reviewer too, very informative",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690744921,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Does Maximilian Dood fall under J-Wong’s category ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690744978,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming Disneyland Adventures the game Jayde mentioned is an open world game based on a recreation of Disneyland Park. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690745018,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming Disneyland Adventures the game Jayde mentioned is an open world game based on a recreation of Disneyland Park. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690745059,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I thought the Machinima Event got a lot off your chest and glad you did it CHAMP, can’t wait for the next event coming :soon_arrow: ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690745253,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Are you gonna eventually check out Hypnospace Outlaw and Slayers X that’s available on Game Pass ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690745317,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Are you gonna eventually check out Hypnospace Outlaw and Slayers X that’s available on Game Pass ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690745382,
+        "author": "RadicalJawz Funny Moments",
+        "author_id": "UCUuBeGcl4X7P8YBjsWo1OGQ",
+        "text": "Can I request one of your shorts for the event?",
+        "usd": 2.11
+    },
+    {
+        "event": "ban",
+        "time": 1690745415,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "I was just on a cam, and someone knew I was watching DSP on youtube",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690745495,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "I was just on a cam, and someone knew I was watching DSP on youtube",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690745495,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Are you gonna eventually check out Hypnospace Outlaw and Slayers X that’s available on Game Pass ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690745552,
+        "author": "Your Local CrackHead Who Steals",
+        "author_id": "UC39X5e3p2BSJU9kl0osfvgQ",
+        "text": "Lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690745568,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Are you gonna eventually check out Hypnospace Outlaw and Slayers X that’s available on Game Pass…both of those are like 90s style of games and similar graphics to Duke Nukem and Doom ",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1690746314,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 16.07
+    }
+]
