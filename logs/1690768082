@@ -1,0 +1,506 @@
+[
+    {
+        "event": "start",
+        "time": 1690768082,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690768083,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "you will search for dspgaming once i make the lobby",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690768083,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "then it will prompt you to enter the code",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690768083,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690768083,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "one time warning",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690768083,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "if i see spam tonight its just a ban, no more bs",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690768083,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "no worries @Kagome i laid down the law, now see how many idiots get banned tonight lol",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690768091,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "not you @OSCAR HPOINT ",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690768099,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "no worries there",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690768341,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay gonna use the restroom, then get started",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690768341,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "brb everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690768875,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Casual Gameplay is definitely fitting for Community Lobby Night :_dspThumbsup::_dspCorrect:, and hey CHAMP",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690768899,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Casual Gameplay is definitely fitting for Community Lobby Night :_dspThumbsup::_dspCorrect:, and hey CHAMP",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690768931,
+        "author": "Goldennobles",
+        "author_id": "UC3jkQD4CMVKAYfTkT_-tAgg",
+        "text": "Looking handsome fella",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1690768988,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Kind",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690768988,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Go easy on these cats tonight CHAMP, no need to bring down their fighting spirits :_dspLUL:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690769020,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming i not play love watch hakuna matata",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690769020,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Go easy on these cats tonight CHAMP, no need to bring down their fighting spirits :_dspLUL:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690769060,
+        "author": "Factual Observations",
+        "author_id": "UCOvUmTeVByD-jpW2N24ZRPA",
+        "text": "@Jayde Rasmussen get in there and show phil who is boss",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690769246,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming BisonSydePhil Bout !!!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690769360,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming King Of The Hill sounds cool since they have to take you down somehow ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690769473,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Friday Night Tier Fights ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690769570,
+        "author": "Darthgolbach",
+        "author_id": "UCyHDC93IQZa3Y5WK4MTMGDw",
+        "text": "I liked",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690769675,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Do you know when the next DLC character is coming out for SF6 ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690770047,
+        "author": "DeChamp",
+        "author_id": "UCnl_x8b0WaygSpCLbB0W9AQ",
+        "text": "Truth @stroke face",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690770047,
+        "author": "Factual Observations",
+        "author_id": "UCOvUmTeVByD-jpW2N24ZRPA",
+        "text": "lol stroke face",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690770063,
+        "author": "STROKE FACE WALMART NPC WITH DELUSIONS OF GRANDOOR",
+        "author_id": "UCRuWFER3WLbEQBSuYnCLZ0w",
+        "text": "It was messed up that DSP showed John Rambo's full name during his machinima event. He knew the name was there and didn't hide it",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690770063,
+        "author": "Robie Pezzos",
+        "author_id": "UCIgLSU_QuYqjTkpv0b5SkRA",
+        "text": "what does gran door mean :face-orange-raised-eyebrow:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690770079,
+        "author": "JuhJuhJimmy",
+        "author_id": "UCsCf9ISZbzePV70LrcTPdMg",
+        "text": "wut even is a grandoor?:face-orange-raised-eyebrow:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690770233,
+        "author": "Darth Fig",
+        "author_id": "UCdoD3iuLaL_-QR15zFpKzoA",
+        "text": "It was messed up that DSP showed John Rambo's full name during his machinima event.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690770507,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@Blastoise91 Good to hear, go relax :sweat_droplets: you deserve it ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690770572,
+        "author": "OnlyIcedInfinite",
+        "author_id": "UCfHXz5i9zg1kw0MjnQXwsfg",
+        "text": "When was your peak skill at street fighter?",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1690771008,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Is Ryu saying “Well F**k” when he dies or is it something else ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690771105,
+        "author": "Walter Andrade",
+        "author_id": "UCDoc5mbrx3Q2EZplthQSRUQ",
+        "text": "i thought spamming the same move over and over was scrubby?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690771477,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming That is a troll you just DESTROYED, it’s Gojitenks backwards ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690771687,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Wait I think you just figured out how to stop Cammy’s overhead rush move…just parry or block like you just did right ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690771800,
+        "author": "ppk destroyer",
+        "author_id": "UCgY6S5xhJC1To3upuLi_DGg",
+        "text": "a nice fight against viewers to bump up the ego that was destroyed this week by the masters",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690772035,
+        "author": "Goldennobles",
+        "author_id": "UC3jkQD4CMVKAYfTkT_-tAgg",
+        "text": "Do you use chopsticks when eating sushi?",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1690772553,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": ":_dspThumbsup::_dspCorrect::_dspLeft::_dspRight:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690773096,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Wait who is your second character to use IF you lose with Zangief ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690773201,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@Rugal Bernstein 777 thanks legendary brotha :_dspThumbsup::_dspCorrect::_dspLeft::_dspRight:",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690773306,
+        "author": "Jaxx_Raxor",
+        "author_id": "UCHkOsC8DEztNeAMCKzwgciQ",
+        "text": "In the room now! Now watch me get destroyed!",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1690773945,
+        "author": "Rick Perez",
+        "author_id": "UCsw8oymGV5W47IQRG0opmwQ",
+        "text": "It was messed up DSP exposed John Rambo's full name during the Machinima react. DSP knew very well the name was there and didn't hide it",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690774358,
+        "author": "Unreformable",
+        "author_id": "UC1CVarV0dkHbNZyPv-rRRiQ",
+        "text": "!pateron",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690774721,
+        "author": "Unhoused and hungry in Calabasas",
+        "author_id": "UCspgmN0Sumc8HiuysAGSz7w",
+        "text": "Big ups Snort Hogan",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690774794,
+        "author": "Unreformable",
+        "author_id": "UC1CVarV0dkHbNZyPv-rRRiQ",
+        "text": "@corr",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690774826,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Jab works ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690775384,
+        "author": "Untouchables",
+        "author_id": "UCpGv06EO2hyOr539dlwq-_g",
+        "text": "@Chad King Anything Dman would love lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690775586,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@SF Ken That’s racist ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690775869,
+        "author": "Unhoused and hungry in Calabasas",
+        "author_id": "UCspgmN0Sumc8HiuysAGSz7w",
+        "text": "Rambo got doxxed oh my lawd!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690776233,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Maybe he bought the game just now ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690776265,
+        "author": "Unreformable",
+        "author_id": "UC1CVarV0dkHbNZyPv-rRRiQ",
+        "text": "!pateron",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690776395,
+        "author": "Untouchables",
+        "author_id": "UCpGv06EO2hyOr539dlwq-_g",
+        "text": "That's cause he leaves",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690776395,
+        "author": "Unreformable",
+        "author_id": "UC1CVarV0dkHbNZyPv-rRRiQ",
+        "text": "@Jaxx_Raxor have you tried tipping harder?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690776467,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Kick everyone but Jaxx and Game Trekker ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690776855,
+        "author": "Chad King",
+        "author_id": "UCX2Ujrm3_9rO0IUy1MUs10A",
+        "text": ":_dspSleeper::_dspSleeper:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690777340,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Neutral jump frenzy match ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690777631,
+        "author": "Pug",
+        "author_id": "UCj_Y03skRZfBWvDVq1G4tOw",
+        "text": "None",
+        "usd": 26.44
+    },
+    {
+        "event": "ban",
+        "time": 1690777720,
+        "author": "Untouchables",
+        "author_id": "UCpGv06EO2hyOr539dlwq-_g",
+        "text": "@Tiny Dancer It's dantheman...",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690778181,
+        "author": "Blastoise91",
+        "author_id": "UChJWG7-7plIMGZLgeJpyxPA",
+        "text": ":face_with_tears_of_joy:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690778496,
+        "author": "Tabakai",
+        "author_id": "UCRLRti-xfwsu4VFLBEm5Vhw",
+        "text": "that wasn't the real Derich? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690778755,
+        "author": "PickleMan72",
+        "author_id": "UCkMkq6-ky_corlBt9bkpGcQ",
+        "text": "@DSPGaming I really do enjoy these community night streams! I think Phil's Ladder Fight Nights are a hit! Have a good night, man!",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1690779856,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 34.410000000000004
+    }
+]
