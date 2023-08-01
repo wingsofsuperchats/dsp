@@ -1,0 +1,258 @@
+[
+    {
+        "event": "start",
+        "time": 1690855203,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690855204,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening all",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690855204,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "im wokring on changing my setup",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690855204,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "gonna see how it looks now",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1690855479,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay just gonna use the restroom and then we begin, brb",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690855487,
+        "author": "BloomKit",
+        "author_id": "UCw1Y22aKoOXKLDLS7kJjR4A",
+        "text": "New futurama season been great. Highly recommend ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1690856029,
+        "author": "Adam Thiry",
+        "author_id": "UCh1mg75BB1_BwY0oRPZLdUA",
+        "text": "None",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1690856611,
+        "author": "CosmicChalupa",
+        "author_id": "UCsibGoCjIHomgFfZmtk80Pg",
+        "text": "Happy streaming Phil! Love me some GTA!",
+        "usd": 20.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690857030,
+        "author": "Lord Prince Albert",
+        "author_id": "UCp4v_7i6KU3tnuFl_y01e4Q",
+        "text": "this support is on behalf on everyone in chat who has a Caulk & Bawl. Wishing a positive and fulfilling Monday upon you phil. Praise the sun thank you",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1690857410,
+        "author": "Luna Mills",
+        "author_id": "UCRjw13FHVyTmj6FvcuTd1jg",
+        "text": ":text-green-game-over:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690857756,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Did PayPal fix their notifications ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690857797,
+        "author": "PickleMan72",
+        "author_id": "UCkMkq6-ky_corlBt9bkpGcQ",
+        "text": "@DSPGaming ok Phil. I'll stop asking. Appreciate this playthrough!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690857982,
+        "author": "Robie Pezzos",
+        "author_id": "UCIgLSU_QuYqjTkpv0b5SkRA",
+        "text": " damn this chicken is burnt af ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690858119,
+        "author": "Mallard Legato",
+        "author_id": "UCnEs0eLmKRbTxidKlogcT0g",
+        "text": "press 1 if you want to see DSP",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690858192,
+        "author": "Robie Pezzos",
+        "author_id": "UCIgLSU_QuYqjTkpv0b5SkRA",
+        "text": " overlay is awful",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690858950,
+        "author": "Prisoner",
+        "author_id": "UCsYkIFeJCvVmvJkWaiX6gUw",
+        "text": "Chat keeps breaking on my end. Getting \" Error\" ",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1690859080,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming were you a cargo shorts guy?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690859209,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming wear a gray vest ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690859355,
+        "author": "SithAlchemist",
+        "author_id": "UCSyKj7Nkdi_Dwhu-Xe-pWqQ",
+        "text": "Did you ever wear Jorge?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690860204,
+        "author": "PickleMan72",
+        "author_id": "UCkMkq6-ky_corlBt9bkpGcQ",
+        "text": "@DSPGaming goodnight, man. this part is too dark for me. I'll see ya next time",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1690860599,
+        "author": "Blackout",
+        "author_id": "UC7becUUsx-UcJBa2UaZ3zug",
+        "text": "I think it’s because there is supposed to be music playing ",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1690860680,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "The game is about car facings right ?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690861253,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming can we get Trevor some new clothes? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690861390,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "Goodnight @DSPGaming I am off to rewatch your old retrospectives to find four good video and moments for your 15-year retrospective. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690861535,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming I am also off to find four videos for your upcoming 15-year Retrospective just to let you know also. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690862131,
+        "author": "Cyraxxx The Rapper",
+        "author_id": "UC4oG-NWKyWURt09naLT74Jg",
+        "text": "@dspgaming hope your having a good night ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690862148,
+        "author": "BITW Awesome",
+        "author_id": "UCGTUFC-RaDpft_v_9XmB0lQ",
+        "text": "@Felixrhemaid don't like don't watch ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690862527,
+        "author": "Robie Pezzos",
+        "author_id": "UCIgLSU_QuYqjTkpv0b5SkRA",
+        "text": "“You can do it” - Dan Schneider",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690862551,
+        "author": "PickleMan72",
+        "author_id": "UCkMkq6-ky_corlBt9bkpGcQ",
+        "text": "@DSPGaming I got a job offer from rockstar. Turned them down because the pay was too low",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690863551,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming who are sully oh crap",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1690863938,
+        "author": "Chad King",
+        "author_id": "UCX2Ujrm3_9rO0IUy1MUs10A",
+        "text": "straight to bills",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1690865110,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 35.97
+    }
+]
