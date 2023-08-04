@@ -1,0 +1,410 @@
+[
+    {
+        "event": "start",
+        "time": 1691171643,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691171645,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good morning everyone!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691171646,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "so i have tons of updates and big things to talk abou ttoday",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691171646,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "hold up",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691171646,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay stream is live!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691171646,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "so today the podcast is huge. i have a special unboxing of something unexpected, and then we will talk about the future of fighitng gameson the channel and its interesting discussion for sure",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691171662,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "Baldurs Gate 3 will never fit the format of this channel. its exclusively for people playing 1 major game at a time and can focus on it. it would take me a year to complete and nobody would wait",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691171759,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "we are doing well thanks",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691171783,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "@Lavinia Whateley they said exactly the same thing about Divinity 2 lol",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691171799,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "@LeoKira997 i did, but im not getting a steam deck so i have no idea what you mean",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691171824,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "yeah ive heard divinity 2 is actually quite good in co-op",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691171824,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "i can imagine that making the game way more fun to watch",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691171848,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "@Tryton-a-morris troll bots. before that, we had nonstop troll accounts spamming the chat. literally nobody could talk",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691171961,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "@Tryton-a-morris we had that. trust me, sadly i get far worse trolling than most",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691171985,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "24 hours shuts it down, people have to put concerted effort in. and they do, but its way more manageable",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691172018,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "i would love to have open chat, i dont like moderation at all. but when you get harassed as much as i do for no intelligent reason, you have to roll with what works",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691172058,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay im gonna use the restroom and then we'll begin, brb",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691172471,
+        "author": "Eddie Chill",
+        "author_id": "UC6B6JjJUWHq75-bk6Ligv8g",
+        "text": "Has Capcom fixed the broken Ken's or patched dropped inputs yet? They need to fix their game ffs",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691172528,
+        "author": "Trader Joes Tacos",
+        "author_id": "UCAZV4PYW3hy5GO0GvB2fpoA",
+        "text": "usually the fans who are too involved support wise or in chat get doxxed, its sad.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691172601,
+        "author": "GalacticTrooper30 8000",
+        "author_id": "UCrQTCSuX41wfmA-DytkKQOw",
+        "text": "Shout out to the YouTuber Snort Burnell that exposes a hilarious lolcow on the internet. :face_with_tears_of_joy::rolling_on_the_floor_laughing:",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691172650,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay im back",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691172650,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "lets get started",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691172747,
+        "author": "Adam Thiry",
+        "author_id": "UCh1mg75BB1_BwY0oRPZLdUA",
+        "text": "None",
+        "usd": 9.99
+    },
+    {
+        "event": "ban",
+        "time": 1691174206,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "That’s a lot of pulls ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691174433,
+        "author": "🇨🇴Juan Da Ortega (Colombia)",
+        "author_id": "UCUF1XDXCET5uqxE_rcLryJA",
+        "text": "how you today lady",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691174457,
+        "author": "Clive Baxter",
+        "author_id": "UCheSZAnax9FuAHs5Gy6wLaw",
+        "text": "FF15",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691174490,
+        "author": "JD TV",
+        "author_id": "UCkfJbStrLMaPICjjrI6SPbA",
+        "text": "Which one? @DSPGaming",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691174725,
+        "author": "Eddie Chill",
+        "author_id": "UC6B6JjJUWHq75-bk6Ligv8g",
+        "text": "This wimpy PC can only run SNES games",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691175113,
+        "author": "ShlugTube",
+        "author_id": "UCaRcJ-mGusR3qyZ7VOgCH0w",
+        "text": "Invest or beg donation?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691175234,
+        "author": "Johnny B Smithy",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "Dam all after buying a Stadia",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691175525,
+        "author": "Switch209",
+        "author_id": "UCqBVexZY2lY3R1lHrkQOwiQ",
+        "text": "stop complaining and just buy a new joystick. atop trying to do mind games and guilt trip people into wanting to \"donate\" toward a new joystick. gotta spend money to make money",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691175703,
+        "author": "JD TV",
+        "author_id": "UCkfJbStrLMaPICjjrI6SPbA",
+        "text": "Just keep playing on Xbox and save rhe money honestly. @DSPGaming",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691175840,
+        "author": "Nathan Suojanen",
+        "author_id": "UCcN0vTc6d2qFTE99uTp3Waw",
+        "text": "I'm bored to tears here lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691175848,
+        "author": "Jab masher who gets away with stuff online",
+        "author_id": "UCi0ME7FXDeMnAUe9XucAODQ",
+        "text": "Phil says he makes more than LTG, does LTG ask for donated joysticks?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691176966,
+        "author": "Connor Doering",
+        "author_id": "UCA0VBh2G75UgobaoYUXvRJQ",
+        "text": "PHIL Y DONT U CHOP UP UR STREAMS INTO CLIPS AND POST THOSE ON YT??",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691176966,
+        "author": "Connor Doering",
+        "author_id": "UCA0VBh2G75UgobaoYUXvRJQ",
+        "text": "PHIL Y DONT U CHOP UP UR STREAMS INTO CLIPS AND POST THOSE ON YT??",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691176983,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "Good morning PHIL @DSPGaming :_dspWassap:",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691177233,
+        "author": "Adam Thiry",
+        "author_id": "UCh1mg75BB1_BwY0oRPZLdUA",
+        "text": "Metroid dread is the sequel to fusion ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1691177363,
+        "author": "あやかちゃん",
+        "author_id": "UC6emAYwlSkuC_sKUxVM3xUA",
+        "text": "None",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691177525,
+        "author": "Connor Doering",
+        "author_id": "UCA0VBh2G75UgobaoYUXvRJQ",
+        "text": "New stick on the PS5 sounds like a fresh idea ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1691177533,
+        "author": "Broly the Legendary Super Saiyan",
+        "author_id": "UCQ-8JqHF4XSa8v0tatBIvzw",
+        "text": "Lolcow Podcast is happening w/ TommyC instead of u",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1691178828,
+        "author": "Criz Saturn 2",
+        "author_id": "UCQb4OGW0vI9156sTc230ZEw",
+        "text": "YOU FORGOT THAT I LOVE YOU PHIL!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691181058,
+        "author": "Turd",
+        "author_id": "UCZhXuYCRv3iW0xBUb38GIvA",
+        "text": "!gift",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691181406,
+        "author": "Broly the Legendary Super Saiyan",
+        "author_id": "UCQ-8JqHF4XSa8v0tatBIvzw",
+        "text": "Y can’t u just emulate Chrono Trigger like 2013?",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1691182257,
+        "author": "Antamania",
+        "author_id": "UCMFAoeD-2eCV9QAM7_IWyfQ",
+        "text": "7,000 LP difference. is this game dead? Lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691185961,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "E means extremely good at mashing jab ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691188595,
+        "author": "Joe Vibin",
+        "author_id": "UC-k2nh1ACLjSChXAFBlLqhQ",
+        "text": "Imagine if how much better he’d be doing if one of y’all would buy him a new fighting stick",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691189103,
+        "author": "QuickdrawMcGraw",
+        "author_id": "UCS3mM4Bbk1wb6ZEsPBBUIqA",
+        "text": "he won't play ken cause then excuses won't make sense ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691189627,
+        "author": "Chris G",
+        "author_id": "UCdZru2PdbrhsKlBKLY7-Y6g",
+        "text": "1",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691189659,
+        "author": "Joe Vibin",
+        "author_id": "UC-k2nh1ACLjSChXAFBlLqhQ",
+        "text": "Nothing he could do while doing nothing, makes perfect sense of you don’t think about it",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1691190920,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 22.949999999999996
+    }
+]
