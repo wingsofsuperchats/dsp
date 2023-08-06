@@ -1,0 +1,474 @@
+[
+    {
+        "event": "start",
+        "time": 1691287203,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691287204,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening all",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691287204,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "almost ready, give me a few minutes and we'll begin",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691287204,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "hello!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691287204,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "not late at all, setting stuff up behind the scenes",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691287204,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "doing some testing",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691287204,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay lets get started!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691287204,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "sorry for the delay, was testing a bunch of stuff",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691287220,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "yes it is",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691287228,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "on gamepass that is",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691287236,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "brb gonna use the restroom and then we begin",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691287606,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming i in and out watch summerslam on now k",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691287687,
+        "author": "Clay Hill",
+        "author_id": "UCnTb2T1y46msOEHaTsVhQqA",
+        "text": "oh here he goes begging again'",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691287953,
+        "author": "Adam Thiry",
+        "author_id": "UCh1mg75BB1_BwY0oRPZLdUA",
+        "text": "None",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1691288017,
+        "author": "HELLCAT gaming 249 United Kingdom",
+        "author_id": "UC26dHKIcIkvENmik8Sdw65g",
+        "text": "hi",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691288146,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming awesome shirt ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691288194,
+        "author": "CosmicChalupa",
+        "author_id": "UCsibGoCjIHomgFfZmtk80Pg",
+        "text": "Happy streaming!",
+        "usd": 20.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691288275,
+        "author": "Hans On Gaming",
+        "author_id": "UCay-x6V0DTcd-Qoq1xhrLkQ",
+        "text": "Phil, long time lurker. I think getting a new stick and not a new camera or green screen was not a great streaming upgrade. Just an opinion",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1691288315,
+        "author": "Willow",
+        "author_id": "UCC5crOIHrVNjz5r94XYBxpA",
+        "text": "Phil, long time lurker. I think getting a new stick and not a new camera or green screen was not a great streaming upgrade. Just an opinion",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691288597,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming bitterSweet is a parody of Blackberry. how was it having a Blackberry? ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691288645,
+        "author": "Hans On Gaming",
+        "author_id": "UCay-x6V0DTcd-Qoq1xhrLkQ",
+        "text": "Kirk got the pc? He must eat ferrero rocher ",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1691289225,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming game looks great in these graphics from what I am watching ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691289451,
+        "author": "LittleCr0wxx_ENVTuber_Gaming",
+        "author_id": "UCt28V3rpFTxiOWP7jFzy4yQ",
+        "text": "If you max out all the characters stats it makes the game 50% easier ",
+        "usd": 5.26
+    },
+    {
+        "event": "superchat",
+        "time": 1691289676,
+        "author": "Steven Stone",
+        "author_id": "UCjsHqjrbHK4ZJ5QWHly4WsA",
+        "text": "watching while playing gta5 also loving the channel/stream",
+        "usd": 6.37
+    },
+    {
+        "event": "ban",
+        "time": 1691289837,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming in the original playthrough you thought 1 set was 1 game, but it was first to 6. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691289974,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming me and my mom watch a lot of tennis on TV. the longest tennis match was 11 hours ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691290079,
+        "author": "Mr Puzzles",
+        "author_id": "UCqFz_gkmfSRjL1bY5D-urrw",
+        "text": "@Derich Ip hopefully that’s the only thing you watch with your mom ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691290224,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming later this month on August 18th there will be a movie called Strays and has dogs. Will Ferrell and Jamie Foxx. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691290296,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming later this month on August 18th there will be a movie called Strays and has dogs. Will Ferrell and Jamie Foxx.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691290449,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming right now in Tennis these days there a lot of young players. very few up in their 40s",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691291553,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming in this game they call it the galileo observatory.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691291577,
+        "author": "Broseph Josenbaum",
+        "author_id": "UCm_oANDGgTAmD2NCD_ISblQ",
+        "text": "Lol. What timin g",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691291641,
+        "author": "Broseph Josenbaum",
+        "author_id": "UCm_oANDGgTAmD2NCD_ISblQ",
+        "text": "Oil Derichs?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691291826,
+        "author": "BloomKit",
+        "author_id": "UCw1Y22aKoOXKLDLS7kJjR4A",
+        "text": "Best concert you ever attended? ",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1691291826,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming in this game they call it the galileo observatory. not Griffith",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691291851,
+        "author": "Broseph Josenbaum",
+        "author_id": "UCm_oANDGgTAmD2NCD_ISblQ",
+        "text": "Congrats on beating FFXVI today GTAV is fun so far",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1691292132,
+        "author": "Monkey Spank 2.0",
+        "author_id": "UC5cnF6STHKCHmI3b9_0zqMQ",
+        "text": "Derich only wants to be with DSP ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691292181,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming I Only Wanna Be With You? do you know that one",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691292463,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming you have the same hairline as Michael ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691292543,
+        "author": "Dmanonfan",
+        "author_id": "UCUzxUaNVvtwes0gWTHWK8vw",
+        "text": "why didnt you record that last bit of asking for money?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691292591,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming I wonder how the beard gets on the face at a barber shop. its a video game, I wonder if they apply it on cause they don’t show it",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691292616,
+        "author": "mafost26",
+        "author_id": "UCn0Rd-mfX2YDQ29NC2-D1xA",
+        "text": "dude... don't ask him about stuff just give money",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691292648,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming Michael kinda looks like dean Ambrose ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691292881,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming Morribunda is a new weapon/mechanic in Gtav. I use it occasionally in tests, mostly on Altruist's stone, and on the skull in the cave.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691292914,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming have you ever done Yoga",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691293260,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming I wonder how the beard gets on the face at a barber shop? it is a video game, I wonder if they apply it on the face.TurdGamer words",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691293510,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "I hope jasper never has interests that alienate his father ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691294476,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming I will stay until the end. the moon looks great at night",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691294548,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "listened ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691294573,
+        "author": "Canadian James Tiberius Kirk (reborn!)",
+        "author_id": "UCTr0qojrYOCLqY3ELvhZ0AA",
+        "text": "you havent seen smallville???",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691294581,
+        "author": "Prisoner",
+        "author_id": "UCsYkIFeJCvVmvJkWaiX6gUw",
+        "text": "Are you gonna play Cyberpunk 2077: Phantom Liberty",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1691294589,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming when you told them to stop talking. they listened. I hear no talking now ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691294766,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming good luck going through the video submissions tonight and have fun making the playlist. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691294822,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming good luck to you going over the video submissions and making the playlist for tomorrow later tonight. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691294854,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming have fun going over the video submissions and making the playlist for tomorrow later tonight. ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691295523,
+        "author": "Tyakack",
+        "author_id": "UCU6VncOmcNmtpghbtA6k4cA",
+        "text": "Looking forward to the daytime streams with GTA. I like the night ones but I'm tired alot during these.",
+        "usd": 10.0
+    },
+    {
+        "event": "ban",
+        "time": 1691295804,
+        "author": "JECS GAMING",
+        "author_id": "UCgaDI9C9FHLfHqUjEu7txQw",
+        "text": "There too chill, makes you wanna sleep ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691295869,
+        "author": "OSCAR HPOINT",
+        "author_id": "UCgjBS97UKnYKEEKV77R4_Rg",
+        "text": "Dude you're the only streamer I watch who dosent play a fps like call of duty or battlefield regularly. It's crazy ",
+        "usd": 5.0
+    },
+    {
+        "event": "end",
+        "time": 1691297049,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 64.58000000000001
+    }
+]
