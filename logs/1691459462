@@ -1,0 +1,418 @@
+[
+    {
+        "event": "start",
+        "time": 1691459462,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691459462,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "it just booted to a black screen",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691459462,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "and now wont restart",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691459462,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "i rebooted and its working now",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691459462,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "hopefully thi sworks tonight lol",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691459462,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay lets get started",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691459462,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay stream should be live!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691459462,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "going to use the restroom, then we'll begin so brb",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691459849,
+        "author": "Adam Thiry",
+        "author_id": "UCh1mg75BB1_BwY0oRPZLdUA",
+        "text": "I’m excited for chrono trigger! ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1691460139,
+        "author": "Rahul",
+        "author_id": "UCubqV9usk2sACvgT2g53B4Q",
+        "text": "Nice to see your passion Phil! ",
+        "usd": 1.96
+    },
+    {
+        "event": "ban",
+        "time": 1691460316,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Did I make it in time for Chrono Trigger ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691460397,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I’m ready for Chrono Trigger CHAMP, is this the remastered version ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691460437,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I’m ready for Chrono Trigger CHAMP, is this the remastered version ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691460485,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I’m ready for Chrono Trigger CHAMP, is this the remastered version ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691460550,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I’m ready for Chrono Trigger CHAMP, love the dragon ball z art style too ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691460590,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I’m ready for Chrono Trigger CHAMP, love the dragon ball z art style too ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691460638,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I’m ready for Chrono Trigger CHAMP, love the dragon ball z art style too by Toriyama ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691460703,
+        "author": "BloomKit",
+        "author_id": "UCw1Y22aKoOXKLDLS7kJjR4A",
+        "text": "Did you ever play chrono trigger?",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1691460912,
+        "author": "Sol Berserker",
+        "author_id": "UCmMj7iNeOeedPfpdIYguhzg",
+        "text": "@DSPGaming Phil I dunno if you know this but Detractors are now saying OMM is your Mom tipping you, so watch out for sneak disses ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691461170,
+        "author": "CosmicChalupa",
+        "author_id": "UCsibGoCjIHomgFfZmtk80Pg",
+        "text": "Happy streaming! This is one of my all-time favorites!",
+        "usd": 20.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691461331,
+        "author": "Poolish",
+        "author_id": "UCAWZBlLRw2zYhqaEnsFVTwQ",
+        "text": "I love PC gaming but I have to say at least with consoles everything just works LOL",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1691461460,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "PC SUCKS CONFIRMED ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691461460,
+        "author": "Mishael23s",
+        "author_id": "UC7CwfNcK7xN5AvAQX8uOrUA",
+        "text": "🙏🏻",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691461733,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I’m ready for Chrono Trigger CHAMP, Akira Toriyama’s artstyle gives me that nostalgic feeling ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691461774,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "This PC has issues running a steam port ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691461790,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I’m ready for Chrono Trigger CHAMP, Akira Toriyama’s artstyle gives me that nostalgic feeling ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691461919,
+        "author": "Elbow Hep",
+        "author_id": "UC6G7AyH_4juCxg8VbRriTug",
+        "text": "does Kat like to ride fairies?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691462184,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "This was a better time, a time before vet bills ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691462716,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Can you give the woman clothes? Some of us are married ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691463102,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "This is where Lavinia went ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691463175,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "@screeching it crashed early on first try lol ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691463497,
+        "author": "Tim Mcdonald",
+        "author_id": "UCdLru2I-CMejjuufDbuNa7g",
+        "text": "I legitimately despise apes and monkeys. they are creepy and smelly wastes of oxygen and I will not rest until every last one of these abominations is vanquished..... for the algorithm",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691463738,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "For those who don’t know, we are avoiding the spoilers for newcomers that haven’t heard about the 28 year old game ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691463996,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Are the mods here? We have a troll :_dspBanhammer:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691464068,
+        "author": "marano webon",
+        "author_id": "UC6TwLDOkGhvmgwzGZwAraUw",
+        "text": "hey dsp get a job stop begging",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691464068,
+        "author": "marano webon",
+        "author_id": "UC6TwLDOkGhvmgwzGZwAraUw",
+        "text": "hey dsp get a job stop begging",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691464084,
+        "author": "marano webon",
+        "author_id": "UC6TwLDOkGhvmgwzGZwAraUw",
+        "text": "hey dsp get a job stop begging",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691464487,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Is this entire game about sex?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691464688,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Is there an active time lore like FFXVI? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691464865,
+        "author": "Great Dane",
+        "author_id": "UCGoULXBlLRoQ31yaczWhvhQ",
+        "text": "I think I have 5 active memberships across different leaned accounts ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691464865,
+        "author": "Great Dane",
+        "author_id": "UCGoULXBlLRoQ31yaczWhvhQ",
+        "text": "I think I have 5 active memberships across different leaned accounts ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691464873,
+        "author": "Great Dane",
+        "author_id": "UCGoULXBlLRoQ31yaczWhvhQ",
+        "text": "I think I have 5 active memberships across different leaned accounts ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691464994,
+        "author": "this is how you dont roleplay a blind playthrough",
+        "author_id": "UCoYr-8OH5xKL6sFOfGeXlWw",
+        "text": "None",
+        "usd": 1.0
+    },
+    {
+        "event": "ban",
+        "time": 1691465002,
+        "author": "None",
+        "author_id": "UCoYr-8OH5xKL6sFOfGeXlWw",
+        "text": "None",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691465702,
+        "author": "Robie Pezzos",
+        "author_id": "UCIgLSU_QuYqjTkpv0b5SkRA",
+        "text": " Best song ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691466466,
+        "author": "OnlyIcedInfinite",
+        "author_id": "UCfHXz5i9zg1kw0MjnQXwsfg",
+        "text": "Best game of all time, I was in like elementary school so I don’t remember the sorry a lot tho",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1691467312,
+        "author": "Cameraman Mukesh",
+        "author_id": "UCaZyaZxLaKhSm2qndyVWdCw",
+        "text": "@DSPGaming Have you seen what LTG said about you??",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691467561,
+        "author": "Crimsontide47",
+        "author_id": "UC9YwqnpoucZQ00qcVojBOOg",
+        "text": ":disappointed_face:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691468278,
+        "author": "Chad King",
+        "author_id": "UCX2Ujrm3_9rO0IUy1MUs10A",
+        "text": "why is phil so paranoid",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691468399,
+        "author": "Chad King",
+        "author_id": "UCX2Ujrm3_9rO0IUy1MUs10A",
+        "text": "@Unreformable imagine getting $100 and then immediately accusing the person who gave it to you of being misinformed",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691468536,
+        "author": "Orel Puppington",
+        "author_id": "UC5TjaWj_neNvyWcAgTAsuxQ",
+        "text": "@dspgaming you talk about giving fish to jasper did you know that's not actually healthy?",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1691469788,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 36.92
+    }
+]
