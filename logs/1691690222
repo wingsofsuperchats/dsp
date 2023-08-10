@@ -1,0 +1,714 @@
+[
+    {
+        "event": "start",
+        "time": 1691690222,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691690223,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good morning everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691690224,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "my head got smaller?",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691690224,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "sounds more like losing weight and better camera angles",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691690272,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "yes I have, right now I'm liking GTAV a lot with the character swapping",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691690628,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay im going to use the restroom quickly, then we'll begin. brb",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691693399,
+        "author": "The Heftiest Chonker",
+        "author_id": "UC6Fbnzw9KYyjnNVFqNVPhFA",
+        "text": "Gamemmmm",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691693601,
+        "author": "UnBearified Bear",
+        "author_id": "UCS0DIQI5c6OrK72YRvKCF9w",
+        "text": "\"do my work for me... sounds like a plan..\"",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691693698,
+        "author": "ssjcilentbob",
+        "author_id": "UCn3YQjIeyTnqUG9NCETLp-Q",
+        "text": "hey Phil can you explain to me how I can set up a scam where I fool people to give me money like you?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691694119,
+        "author": "bastian klose",
+        "author_id": "UCupN4iE_6Hy0obfrOjg9GBQ",
+        "text": "is he always rude to viewers? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691694337,
+        "author": "SithAlchemist",
+        "author_id": "UCSyKj7Nkdi_Dwhu-Xe-pWqQ",
+        "text": "JJ K",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691694928,
+        "author": "G h o s t",
+        "author_id": "UCwsmqhTlF-I7x1gsFSDjF9g",
+        "text": "@DSPGaming hello hru?? how did u felt when joel died in the last of us 2",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691695454,
+        "author": "Xshooter",
+        "author_id": "UC88CNmYxuryT6Q5xioeLz_A",
+        "text": " Would you replay bioshock infinite some day ",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1691695640,
+        "author": "Charles Benvoulin",
+        "author_id": "UCTNT9xGzgxRRSjO1DS7XpFA",
+        "text": "@DSPGaming I know you gotta keep up, but any chance of you trying the fighters you skipped on Xbox? I really like JP and would love to see your stab at him. And Ken would of course be \"fun\"",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691695793,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Anyone with a family can’t even have a career these days without abandoning them ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691695906,
+        "author": "Pai0near",
+        "author_id": "UC4ZnFXF7NUIjf9zGHUD17Sw",
+        "text": "@DSPgaming can you just start the game already instead of stupid yapping?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691695923,
+        "author": "David H",
+        "author_id": "UCHmSznnJ6SFHAASVSG7mT4A",
+        "text": "@dspgsming what is your game of the year so far?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691695931,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming i ready play mk1 i play sisters reptile havik smoke sub and scorpion",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691695947,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Business is for the young vagabonds with no responsibilities ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691696044,
+        "author": "jawannaman",
+        "author_id": "UCs-o5T1goUAMG4UYp6347kQ",
+        "text": "yes and outside of this bubble everybody sees you for who you really are.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691696108,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming i ready play mk1 i play sisters reptile havik smoke sub and scorpion",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691696205,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Nice side Ohio ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691696520,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming who u play next in sf6 just ask new",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691696593,
+        "author": "Eliza Pancakes",
+        "author_id": "UChO7RTpvjIfiKwzd5_M4ybw",
+        "text": "ack don't crack!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691696594,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Eliza no ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691696602,
+        "author": "Sweety Pie",
+        "author_id": "UCIBLD_0ilkcNazSMF3p31MA",
+        "text": "It shows you are so stressed",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691696755,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "I should make a new account so I can help the membership goal ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691697419,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming who u play next in sf6 just ask ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691697750,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming imagine if all the cops wipeout and there are no more to chase her. imagine if they run out ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691697783,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming imagine if all the cops wipeout and there are no more to chase her. imagine if they run out ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691697912,
+        "author": "Anon",
+        "author_id": "UCteXO63RhMl2AxrulEeyNjg",
+        "text": "and 217 dislikes :rolling_on_the_floor_laughing:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691698122,
+        "author": "JuhJuhJimmy",
+        "author_id": "UCsCf9ISZbzePV70LrcTPdMg",
+        "text": "bet derichs favorite bubbles are chum bubbles minus the h:_dspShot:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691698219,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming apparently he voiced Dale Gribble from King of the Hill ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691698325,
+        "author": "Iceberg",
+        "author_id": "UCEIjmOJJT8vpgLoj4JRpDxQ",
+        "text": "84 hubner avenue markham Ontario ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691698454,
+        "author": "Old Gregg",
+        "author_id": "UC3Kdl5_NcWskqdITiD5eKCQ",
+        "text": "...is the monster gone??",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691698835,
+        "author": "Captain DCW",
+        "author_id": "UCtQnZKAb5jpgI0pA-Fahtkw",
+        "text": "its inside a car @DSPGaming ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691699239,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming do we know Franklin’s girlfriend in this game. I thought it might have been Tonya. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691699263,
+        "author": "Miguel Gutierrez",
+        "author_id": "UCCDVkFYqVd8W97_BQSDBgPQ",
+        "text": "Imagine paying $100 to see home water a hat lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691699279,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming do we know Franklin’s girlfriend in this game? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691699473,
+        "author": "Mr. Whiskers",
+        "author_id": "UCZcACkyduSu0ljoI4g_qaLQ",
+        "text": "Truck in Murietta Heights, car in the ACTUAL scrapyard in La Puerta @DSPGaming ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691699594,
+        "author": "Mr. Whiskers",
+        "author_id": "UCZcACkyduSu0ljoI4g_qaLQ",
+        "text": "@DSPGaming can we ban @Richard Glücks 🇩🇪 he's being negative and talking about support",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691699626,
+        "author": "Richard Glücks 🇩🇪",
+        "author_id": "UCpBstvSXUOEg-s9c0YkU3sQ",
+        "text": "@Mr. Whiskers must have received a gifted membership, he wasn't a member yesterday (no support)",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691700085,
+        "author": "Eddie Chill",
+        "author_id": "UC6B6JjJUWHq75-bk6Ligv8g",
+        "text": "Chill levels are at unemployed, high & day drunk on a weekday levels",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691700101,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming the old Retrospective marathons were amazing. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691700303,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming the old Retrospective marathons were amazing. we watched all sorts of videos. I remember you found the vest. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691700497,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming the old Retrospective marathons were fun. we watched all sorts of videos. I remember you found the beige vest. ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691700505,
+        "author": "Umy",
+        "author_id": "UC0Qw4yJhPfTmKCoYy19lTFQ",
+        "text": "Out of curiosity, what’s your dream car Phil? ",
+        "usd": 2.52
+    },
+    {
+        "event": "ban",
+        "time": 1691700521,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming you and Franklin both said how slow is this vehicle.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691700529,
+        "author": "Phaser",
+        "author_id": "UCYHs8yblYD2K0x4U8KcPhoA",
+        "text": "@DSPGaming can you read this while driving?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691700634,
+        "author": "Phaser",
+        "author_id": "UCYHs8yblYD2K0x4U8KcPhoA",
+        "text": "@DSPGaming my favorite moment was from your retrospective",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691700666,
+        "author": "Phaser",
+        "author_id": "UCYHs8yblYD2K0x4U8KcPhoA",
+        "text": "@DSPGaming my favorite moment was from you retrospective",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691700715,
+        "author": "Phaser",
+        "author_id": "UCYHs8yblYD2K0x4U8KcPhoA",
+        "text": "@DSPGaming my favorite moment was from your retrospective",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691700812,
+        "author": "Phaser",
+        "author_id": "UCYHs8yblYD2K0x4U8KcPhoA",
+        "text": "maybe people would give more if they knew their money wasn't going an extra copy of SF5 on the PS5..",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691700949,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming Franklin’s home is awesome ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691701232,
+        "author": "Arkham Edits",
+        "author_id": "UCMkojTUgQUdd0_rhXLIZV4A",
+        "text": "G h o s t@Sir Oink reminds me of travis scott putting on batma",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691701256,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming the yellow aviators are similar to your Gunnar glasses",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691701499,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming the yellow aviators are similar to your Gunnar glasses right? cause they have a yellow tint. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691702438,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "check the races after this Rampage",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691702704,
+        "author": "Bojangles",
+        "author_id": "UCuuWPvS9WCiDAS4OD_Z2NiA",
+        "text": "remember that one for your future cases derich",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691702728,
+        "author": "Monkey Spank 2.0",
+        "author_id": "UC5cnF6STHKCHmI3b9_0zqMQ",
+        "text": "This is what Phil does when the trolls ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691702930,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming the Rampage mode reminds me of the Rage mode in Scarface where Tony Montana gets pissed ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691703131,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming back in the day you wanted to pump out a lot of content right? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691703276,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming back in the day you wanted to pump out a lot of content right? and be the first to upload? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691703494,
+        "author": "Arkham Edits",
+        "author_id": "UCMkojTUgQUdd0_rhXLIZV4A",
+        "text": "@dspgaming your trevor when youre mad",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691703711,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming did you ever like the Midnight launch events? I know you went to one for MW2",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691703880,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming now you have a life with your wife Kat and Jasper. you get to spend time with them after your night streams and on your day off. congrats ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691703929,
+        "author": "Mr. Whiskers",
+        "author_id": "UCZcACkyduSu0ljoI4g_qaLQ",
+        "text": "@Derich Ip well said ^^",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691703953,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming now you have a life with your wife Kat and Jasper. you get to spend time with them after your night streams and on your day off. congrats",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691703961,
+        "author": "Mr. Whiskers",
+        "author_id": "UCZcACkyduSu0ljoI4g_qaLQ",
+        "text": "@Derich Ip well said ^^ @DSPGaming ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691704001,
+        "author": "Mr. Whiskers",
+        "author_id": "UCZcACkyduSu0ljoI4g_qaLQ",
+        "text": "@Derich Ip well said ^^",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691704050,
+        "author": "Bojangles",
+        "author_id": "UCuuWPvS9WCiDAS4OD_Z2NiA",
+        "text": "that time you only had to retract 4 times before he read your message @Derich Ip",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691704122,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming a lot of streamers these days just stream all day without taking breaks. your format of streaming on a day stream and a night stream is a great formula ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691704130,
+        "author": "Mr. Whiskers",
+        "author_id": "UCZcACkyduSu0ljoI4g_qaLQ",
+        "text": "@Derich Ip well said ^^",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691704315,
+        "author": "Bojangles",
+        "author_id": "UCuuWPvS9WCiDAS4OD_Z2NiA",
+        "text": "@Derich Ip no offense but you spam a lot, maybe only post seldomly so it's more meaningful when phil reads it",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691704324,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming doing a day stream and then a night stream at night is a great format. that way you have a break in between the two streams ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691704364,
+        "author": "Bojangles",
+        "author_id": "UCuuWPvS9WCiDAS4OD_Z2NiA",
+        "text": "@Derich Ip no offense but you spam a lot, maybe only post seldomly so it's more meaningful when phil reads it",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691704428,
+        "author": "Dumbfounded Kiryu",
+        "author_id": "UCYN7-R86xr0xPx1SIpz1ZLg",
+        "text": "Isn't derich a pdfile?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691704460,
+        "author": "Acid Face",
+        "author_id": "UCrjpsBhTSto6Uf6rVxz1bVw",
+        "text": "@SF Ken do you like to spam dragon punch?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691705113,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming in this game it’s called the Galileo Observatory. not Griffith ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691705258,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming oh the day just went to daytime",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691705605,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming i out soon ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691705653,
+        "author": "bogrito Boy",
+        "author_id": "UCAAyROPe_1b0gPF5Bojg0Sw",
+        "text": "@dspgaming I’m taking off I will see you later I have to go and rub my moms feet",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691705669,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming ah there’s a tiermaker event this weekend? I love the Tiermaker videos. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691705935,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming Devin Weston is a character in the Grand Theft Auto series, appearing as a central character and one of the two main antagonists in Grand Theft Auto 5.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691706112,
+        "author": "Mr. Whiskers",
+        "author_id": "UCZcACkyduSu0ljoI4g_qaLQ",
+        "text": "@DSPGaming BUBBLES TIME 157 LIKES ALERT ALERT BUBBLES TIME",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691706112,
+        "author": "Mr. Whiskers",
+        "author_id": "UCZcACkyduSu0ljoI4g_qaLQ",
+        "text": "@DSPGaming BUBBLES TIME 157 LIKES ALERT ALERT BUBBLES TIME",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691706289,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "Cya @DSPGaming I will be back this Saturday night for your Game of the Year 2010-2022 Tiermaker event on DSPReacts. take care ! ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691706563,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Trevor is a dark joker style crazed lunatic ",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1691709651,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 7.51
+    }
+]
