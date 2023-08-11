@@ -1,0 +1,114 @@
+[
+    {
+        "event": "start",
+        "time": 1691719021,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691719022,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening everyone!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691719022,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "looks fine, i have big picture open and ready to go",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1691719022,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay, giong to use the restroom and then i'll be back to begin! so brb everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691719312,
+        "author": "Pinny",
+        "author_id": "UCdxln5LBgkRl0LUV5ZBqynQ",
+        "text": "As a fellow business owner, I've learnt a lot from DSP. I recently had to replace the computer for my store, so I have been letting my customers know to see if they could help cover the money I spent.",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691720102,
+        "author": "CosmicChalupa",
+        "author_id": "UCsibGoCjIHomgFfZmtk80Pg",
+        "text": "Happy streaming!",
+        "usd": 20.0
+    },
+    {
+        "event": "ban",
+        "time": 1691721270,
+        "author": "Maxed Out Max",
+        "author_id": "UCqraR-ZVvTG1AggmgahfwTw",
+        "text": "Feels like I’m in ten studio with a team of voice actors ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691721625,
+        "author": "Eternal's Undying Spirit",
+        "author_id": "UC3R9s0usv3VA7FxdcpUwPAw",
+        "text": "What kind of work do you do kagome?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691723155,
+        "author": "Tony Grosz",
+        "author_id": "UCLzjtqKN5lSzP4_4vIwi0BQ",
+        "text": "What’s your favorite chip flavor?",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1691724637,
+        "author": "SaltyRamen",
+        "author_id": "UCtjz-ggIKUuA_s3vwXgeHQA",
+        "text": "hahaha omg Dent King",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1691726465,
+        "author": "Brandon Martin",
+        "author_id": "UCVPDIzAyTssvC9724V4237w",
+        "text": "Hey Phil first superchat. Hopefully your night is going well",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1691727005,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Looks like a Mankey from Pokémon lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1691727054,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "Rocket Punch :rocket::right_facing_fist:",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1691728451,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 26.99
+    }
+]
