@@ -1,0 +1,634 @@
+[
+    {
+        "event": "start",
+        "time": 1692754502,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1692754503,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1692754503,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "im going to start running early",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1692755968,
+        "author": "Cosmic Daddy",
+        "author_id": "UCiHnZwE7XEbMfSREwYzr2Xg",
+        "text": "If you could choose any meal what would it be?",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1692756105,
+        "author": "TD0",
+        "author_id": "UCeYLWehg7JRQiUtBzU4HK8g",
+        "text": "He outplayed you",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692756218,
+        "author": "STROKE FACE WALMART NPC WITH AN OVERWEIGHT WIFE",
+        "author_id": "UCkYuJCA5-1XDqveF43CnK7A",
+        "text": "Hello chat. I am concerned with Kat's MASSIVE weight gain recently. Do you have any tips for her to lose weight.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692756306,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@Rain Man are you a troll ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1692756789,
+        "author": "Ian S",
+        "author_id": "UCD1RMbPXaHZo-dGfoGdXz0A",
+        "text": "Why not just use Ken urself and get him to Master?",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1692757047,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@Mikaela Mademoiselle ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692757410,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming The grind is real, hope you get at least one or two more stars on Diamond CHAMP",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1692757603,
+        "author": "CosmicChalupa",
+        "author_id": "UCsibGoCjIHomgFfZmtk80Pg",
+        "text": "Genuine question Phil: why do you play this? I've never seen somebody get as angry at a game as frequently as you do but you keep playing. Do you really find it fun? I'd have stopped if it angered me.",
+        "usd": 10.0
+    },
+    {
+        "event": "ban",
+        "time": 1692757660,
+        "author": "Michael Tacker",
+        "author_id": "UCmJn1whkRQeWnixa0Kdm0tQ",
+        "text": "your trash phil",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692758167,
+        "author": "chrisb",
+        "author_id": "UClAkYl8KJg3wgy-hq8o0Gzw",
+        "text": "@DSPGaming yo whats up darksyde great gta stream today@DSPGaming yo whats up darksyde great gta stream today",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1692758215,
+        "author": "Frostbite",
+        "author_id": "UCeGv5DlYtjow9IPRB3vou2Q",
+        "text": "i have a question is it true you have gout?",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1692758239,
+        "author": "None",
+        "author_id": "UCeGv5DlYtjow9IPRB3vou2Q",
+        "text": "i have a question is it true you have gout?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692758344,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming i not really sick i litt sick ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692758377,
+        "author": "CaydenCrewe",
+        "author_id": "UCQLr3KxSuTWh6gOmUfCvAnQ",
+        "text": "sounds like a you issue chief ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692758513,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming The grind is real, hope you get at least one or two more stars on Diamond CHAMP",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692758570,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming The grind is real, hope you get at least one or two more stars on Diamond CHAMP",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692758634,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming The grind is real, hope you get at least one or two more stars on Diamond CHAMP",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692758650,
+        "author": "Fartpriest69",
+        "author_id": "UCvS-5mDwhSIv1pygVGJFXpw",
+        "text": "No one in fgc ever said sf5 was good tho",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692758658,
+        "author": "Stationary Taco Vendor Man",
+        "author_id": "UCix8FFUWAZTdgjTcWQ3a5kA",
+        "text": "dspositivity",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692758666,
+        "author": "TooOld4Steak",
+        "author_id": "UCtxPKpSbnrGItucf4s8akTg",
+        "text": "Wow trash on me for listening to people that actually went and won evos ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1692758707,
+        "author": "WWEChampz",
+        "author_id": "UCn-w2MrPBfJB_bhVmbJ8ERg",
+        "text": "Hey Phil big fan! Whos cooch stinks worse? PaandyLee or Khet? Are you a sardines or tuna fish kind of man?",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1692758715,
+        "author": "None",
+        "author_id": "UCn-w2MrPBfJB_bhVmbJ8ERg",
+        "text": "Hey Phil big fan! Whos cooch stinks worse? PaandyLee or Khet? Are you a sardines or tuna fish kind of man?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692758723,
+        "author": "Unreformable (Unreformed)",
+        "author_id": "UCloR_KTT0ktWmGCq425PF6w",
+        "text": "@Rebecca she here?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1692758739,
+        "author": "The Rager313",
+        "author_id": "UCH7xGtrV0U-qgDw2gCzHhQw",
+        "text": "yesssss the salt it fuels me :smiling_face_with_horns:",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1692759278,
+        "author": "Mikaela",
+        "author_id": "UCOlj_oIDe4OMD_hswzYNPFQ",
+        "text": "@Junko Animated did dents flood in her stream?:face-blue-smiling:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692759375,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@me",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692759423,
+        "author": "Biff Webster",
+        "author_id": "UCxq3TvPZqnDcUZ_5flTf52g",
+        "text": "sure you didn't",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692759536,
+        "author": "Mikaela",
+        "author_id": "UCOlj_oIDe4OMD_hswzYNPFQ",
+        "text": "uh oh hes getting upset",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692759568,
+        "author": "Mikaela",
+        "author_id": "UCOlj_oIDe4OMD_hswzYNPFQ",
+        "text": "I think he needs a bigger joystick",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692760003,
+        "author": "Mikaela",
+        "author_id": "UCOlj_oIDe4OMD_hswzYNPFQ",
+        "text": "someone give this man money before he goes to the hospital:face-orange-biting-nails:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692760043,
+        "author": "Mikaela",
+        "author_id": "UCOlj_oIDe4OMD_hswzYNPFQ",
+        "text": "Mr Puzzles thanks bae :purple_heart:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692760115,
+        "author": "Michael Gribben",
+        "author_id": "UC9ckMJexvkFMh44yZeJzElQ",
+        "text": "I'm sure it dropped from the 30ms lag",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692760172,
+        "author": "Mikaela",
+        "author_id": "UCOlj_oIDe4OMD_hswzYNPFQ",
+        "text": "mad cuz bad",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692760212,
+        "author": "dramacelcia",
+        "author_id": "UC7KG8BIB5CVUcw-uTiA7mhA",
+        "text": "LOL perfect x2",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692760220,
+        "author": "EpicLod",
+        "author_id": "UCJaVuIvspuoC4rFuQivmDKQ",
+        "text": "bugged whiff punishing mechanics",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692760220,
+        "author": "Twiztidlalo 93",
+        "author_id": "UCR271fpxGln1VshUXKok98Q",
+        "text": "wow shes good",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692760236,
+        "author": "RAZORREVOLUTION1",
+        "author_id": "UC3DGbnvbFnyfhOOMcfRc-yw",
+        "text": "the align",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692760260,
+        "author": "Mango",
+        "author_id": "UCFxZuLQqxWdQuQjrsB0GkVg",
+        "text": "Professional street fighter master blanka 👏🏼",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692761033,
+        "author": "Willow",
+        "author_id": "UCC5crOIHrVNjz5r94XYBxpA",
+        "text": "@Willow I'm not Willow'sbeachbro",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692761089,
+        "author": "Catkicker",
+        "author_id": "UCzKvFTC5nuAVI-KLst0CDTA",
+        "text": "Phil please take off the neckphones and go for a walk. You are tilted and chat is getting very worried about you",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692761097,
+        "author": "Basper Jurnell",
+        "author_id": "UCuzdKP8G8Rgapy4vPLGO1QQ",
+        "text": "@DSPGaming will you be playing armored core 6 ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692761291,
+        "author": "Mikaela",
+        "author_id": "UCOlj_oIDe4OMD_hswzYNPFQ",
+        "text": "bl awk awk awk",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692761733,
+        "author": "Mikaela",
+        "author_id": "UCOlj_oIDe4OMD_hswzYNPFQ",
+        "text": "he needs that money he really does",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692761766,
+        "author": "Felipé Baxter",
+        "author_id": "UCMcvga3gPGtSeWWlUo2KUmQ",
+        "text": "better retract",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692761782,
+        "author": "Mikaela",
+        "author_id": "UCOlj_oIDe4OMD_hswzYNPFQ",
+        "text": "somedays u get tips somedays u don't",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692761943,
+        "author": "Mango",
+        "author_id": "UCFxZuLQqxWdQuQjrsB0GkVg",
+        "text": "Lullaby putting me to sleep :zzz: ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692762080,
+        "author": "M M",
+        "author_id": "UCq1hhSMIT6DQYmNEnSDeBzQ",
+        "text": "@Mr Puzzles and kitteh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692762233,
+        "author": "Mango",
+        "author_id": "UCFxZuLQqxWdQuQjrsB0GkVg",
+        "text": "DSP #1 fan ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1692762249,
+        "author": "SwitchFlipJones",
+        "author_id": "UCf8M_riO3adK6svTdFPQAeQ",
+        "text": "GGs! blanka still confuses me! Am I a spammer tho?",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1692762523,
+        "author": "Mikaela",
+        "author_id": "UCOlj_oIDe4OMD_hswzYNPFQ",
+        "text": "@Mishael23s hellooo joooo",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1692762571,
+        "author": "SwitchFlipJones",
+        "author_id": "UCf8M_riO3adK6svTdFPQAeQ",
+        "text": "Supporting a bit more 4 the love, read the last 1!",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1692762595,
+        "author": "Sandy",
+        "author_id": "UCOE7eEXvyp23nrFvj1EseAQ",
+        "text": "before I leave, I'm hoping I'll get gifted to be a member tomorrow night & that's when I'll be back & not bye everyone see all you tomorrow night",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692762603,
+        "author": "Mango",
+        "author_id": "UCFxZuLQqxWdQuQjrsB0GkVg",
+        "text": "sandy isnt willow like Phil isn’t one minute man cough cough ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1692762821,
+        "author": "SwitchFlipJones",
+        "author_id": "UCf8M_riO3adK6svTdFPQAeQ",
+        "text": "Tried to support ya bro GGs tho here’s a few more",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1692763135,
+        "author": "Bart \"Bubba\" Farkas",
+        "author_id": "UCtmcG_BlJW6lNf9sb0ilyDg",
+        "text": "Xl1200x with Memphis shade fairings and windshield. Custom made mustang seat to match color style. Still under factory warranty",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692763215,
+        "author": "Mango",
+        "author_id": "UCFxZuLQqxWdQuQjrsB0GkVg",
+        "text": "You lost cus you’re 41 years ancient and you’re playing against young people with skills ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692763530,
+        "author": "Bart \"Bubba\" Farkas",
+        "author_id": "UCtmcG_BlJW6lNf9sb0ilyDg",
+        "text": "@DSPGaming have you tried the EL Bruto 298-251 Competition Series 100 ci crate engine? looking at getting one for my son's bike it has Large bore breather for increased crank case and less blow by",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692763586,
+        "author": "Paul Urban",
+        "author_id": "UCZr5lHPLC7sPpqIIFn3JFmA",
+        "text": "I thought switching to playstation was supposed to revive our career ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692763683,
+        "author": "Bart \"Bubba\" Farkas",
+        "author_id": "UCtmcG_BlJW6lNf9sb0ilyDg",
+        "text": "@DSPGaming have you tried the EL Bruto 298-251 Competition Series 100 ci crate engine? looking at getting one for my son it has large bore breather for increased crank case vacuum and less blow by",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692763739,
+        "author": "Junko Animated",
+        "author_id": "UCakFqdfMgrotQ5KRnq8_Ngg",
+        "text": "This is what happens when no whale shows ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692763747,
+        "author": "Daxma",
+        "author_id": "UCCRYIK8Ii1I07YqwFzFXgdg",
+        "text": ":folded_hands: ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692763747,
+        "author": "Nich2440",
+        "author_id": "UCoFNbaPiTZobrm2XKvG5blQ",
+        "text": "we working our way toward a fundraider marathon ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692763844,
+        "author": "Mango",
+        "author_id": "UCFxZuLQqxWdQuQjrsB0GkVg",
+        "text": "Lots of losses barely wins ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692763852,
+        "author": "Mango",
+        "author_id": "UCFxZuLQqxWdQuQjrsB0GkVg",
+        "text": "Lots of losses barely wins ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692763868,
+        "author": "Mango",
+        "author_id": "UCFxZuLQqxWdQuQjrsB0GkVg",
+        "text": "Lots of losses barely wins ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692763972,
+        "author": "Daxma",
+        "author_id": "UCCRYIK8Ii1I07YqwFzFXgdg",
+        "text": "nap guise ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692764109,
+        "author": "Nich2440",
+        "author_id": "UCoFNbaPiTZobrm2XKvG5blQ",
+        "text": "time go xbox you back?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692764158,
+        "author": "Mango",
+        "author_id": "UCFxZuLQqxWdQuQjrsB0GkVg",
+        "text": "Goodnight ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692764206,
+        "author": "Nich2440",
+        "author_id": "UCoFNbaPiTZobrm2XKvG5blQ",
+        "text": "Jayde bed bye bye dreams ok please",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692764254,
+        "author": "Daxma",
+        "author_id": "UCCRYIK8Ii1I07YqwFzFXgdg",
+        "text": "The inputs are just a little shy is all",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692764883,
+        "author": "Mango",
+        "author_id": "UCFxZuLQqxWdQuQjrsB0GkVg",
+        "text": "Last chance to give your money away guys ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1692765648,
+        "author": "500 dahlors no cahmbo",
+        "author_id": "UC6Rt8V4CfElwwg83pmZPlfA",
+        "text": "A bad carpenter blames his tools. Wahhhhhhhhhhhhhh",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1692765672,
+        "author": "None",
+        "author_id": "UC6Rt8V4CfElwwg83pmZPlfA",
+        "text": "A bad carpenter blames his tools. Wahhhhhhhhhhhhhh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1692766042,
+        "author": "Astolfo",
+        "author_id": "UCgSnM4KqWzO4YU2JVV8to-A",
+        "text": "Skill issue, my guy",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1692766678,
+        "author": "2B is Cute!",
+        "author_id": "UCpZWGKmOH8xoSaAxnPd5J7w",
+        "text": "Sorry I'm late, I was ona date, how is it going?",
+        "usd": 2.0
+    },
+    {
+        "event": "end",
+        "time": 1692768373,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 35.959999999999994
+    }
+]
