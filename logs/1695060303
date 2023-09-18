@@ -1,0 +1,714 @@
+[
+    {
+        "event": "start",
+        "time": 1695060303,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695060304,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "hey everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695060304,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "just got intot he office, crazy morning",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695060304,
+        "author": "I'mCummyElizabeth",
+        "author_id": "UCYRyr30GZTay3qonbyYUL7g",
+        "text": ":face-orange-biting-nails:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695060304,
+        "author": "Charles Benvoulin",
+        "author_id": "UCTNT9xGzgxRRSjO1DS7XpFA",
+        "text": "I really hope @I'mCummyElizabeth gets a gift sub :slightly_smiling_face: ",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695060643,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay, i'm ALMOST ready to start",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695060651,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "pretty pissed off, and it has nothing to do with the streams or anything so no worries guys",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695060667,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "just let me use the restroom and then we'll begin",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695061080,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "LOL @Richie Dubbz ",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695061080,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "great song",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695061969,
+        "author": "heterosexualoperations",
+        "author_id": "UCksw-ySgTZ112uwYRUzJuew",
+        "text": "that was my depression",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1695062018,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I live playing starfield but I really don't enjoy watching it.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695062212,
+        "author": "CapnSlayaMan",
+        "author_id": "UCF8b9V4-_DiGgx_j-pyntyQ",
+        "text": "play Master",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695062672,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "maybe unlock all the content off stream?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695062914,
+        "author": "Joe G",
+        "author_id": "UCJ1C7JQ12bq2z6IqNaJfeqg",
+        "text": "rent free ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695064335,
+        "author": "Cool Spot",
+        "author_id": "UCP0Y_GF4y0kjvxXj8v-X-mA",
+        "text": "Is this precorded?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695064505,
+        "author": "MrIcomsic",
+        "author_id": "UCq2VN1iJEN4zFDBpvbJ4-1Q",
+        "text": "Just pay me and dont talk lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695064561,
+        "author": "Cool Spot",
+        "author_id": "UCP0Y_GF4y0kjvxXj8v-X-mA",
+        "text": "!achedule",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695064602,
+        "author": "Wicholas Nilton",
+        "author_id": "UCx44QFcX-FZk68XG10kxmjQ",
+        "text": "this is theater for the absurd",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695064651,
+        "author": "Daniel Holman",
+        "author_id": "UCQI0_pc5_j4q7BIWIeSH7Ww",
+        "text": "So how are you successful? Begging…",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695064828,
+        "author": "Lorne Russell",
+        "author_id": "UC-HbTJtSCiyLFOU_CXYnHig",
+        "text": "beggar",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695064828,
+        "author": "Lorne Russell",
+        "author_id": "UC-HbTJtSCiyLFOU_CXYnHig",
+        "text": "beggar",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695064893,
+        "author": "johnsmith",
+        "author_id": "UCY1UTTnhfHdlgtDc8YG8cjA",
+        "text": "ack ack ack",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695065070,
+        "author": "Geralt of Rivia",
+        "author_id": "UCAILgzBoOFessm8DQs97ivQ",
+        "text": "Greedy huh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695065070,
+        "author": "Roman V",
+        "author_id": "UC33OoQzOdUMSn5stShQfEXQ",
+        "text": "greedy huh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695065078,
+        "author": "Timmy Baxter[Converted]",
+        "author_id": "UCxBIFVw5Wpcs2_GzhlwvCsg",
+        "text": "Greedy hmmm :_dspLUL:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695065135,
+        "author": "I need a cigarette",
+        "author_id": "UC0RWVn_w80Z2mGF08PSC89Q",
+        "text": "Phil, have you considered taking your own advice on feedback?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695065604,
+        "author": "Doctor Oink",
+        "author_id": "UCKZdbPELgL5ltTpsEAYHoSg",
+        "text": "Hey puff mama whats for dinner? chili?",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1695065757,
+        "author": "JD TV",
+        "author_id": "UCkfJbStrLMaPICjjrI6SPbA",
+        "text": "Yeah but Phil, it‘s not the same.. Especially cause there is no interaction like that. @DSPGaming",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695065854,
+        "author": "JD TV",
+        "author_id": "UCkfJbStrLMaPICjjrI6SPbA",
+        "text": "Phil, there are people who work almost the whole day, then when it‘s evening come to watch your live streams. HOW are we supposed to watch the other streams on demand? @DSPGaming",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695066000,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming i love help u fatalities",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695066057,
+        "author": "CypressTV",
+        "author_id": "UCwro4Rd0-FzAWN_xtysxpJA",
+        "text": "have you considered making your raw live streams on demand for members? I know some people offer your streams on demand so why can't you? ",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1695066187,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming i love help u fatalities",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695068780,
+        "author": "1Married Man",
+        "author_id": "UCL1DG8SPNjx6ShRXrhasq-g",
+        "text": "dafuq",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695070127,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@Ultrasonic Assquake well dont love dark souls games",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695070394,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@Ultrasonic Assquake yup",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695070580,
+        "author": "BULLY HUNTER_69",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "another pee break? It's been an hour",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695071380,
+        "author": "Sterben_Alone",
+        "author_id": "UCrc18f8BXOCMf5Oj1QIlzYw",
+        "text": "None",
+        "usd": 1.0
+    },
+    {
+        "event": "ban",
+        "time": 1695072251,
+        "author": "Andy Young",
+        "author_id": "UCpCJYRIQ_aSXkQvEJWOCa4Q",
+        "text": "@DSPGaming i wonder why they changed the name from jiminy to Gemini ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695072420,
+        "author": "Sheleem",
+        "author_id": "UCyX1sqXjFfhSaI1E8aO7RYA",
+        "text": "It looks like in this dystopian world they need a leader to round up the puppets and throw them in the wood chipper. ",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1695072485,
+        "author": "Girth Brooks",
+        "author_id": "UC9LsM-VCmH5pMJzIMjWQEyg",
+        "text": "It’s fine. I just don’t like change ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695072493,
+        "author": "Girth Brooks",
+        "author_id": "UC9LsM-VCmH5pMJzIMjWQEyg",
+        "text": "It’s fine. I just don’t like change ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695072493,
+        "author": "Girth Brooks",
+        "author_id": "UC9LsM-VCmH5pMJzIMjWQEyg",
+        "text": "It’s fine. I just don’t like change ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695072549,
+        "author": "Girth Brooks",
+        "author_id": "UC9LsM-VCmH5pMJzIMjWQEyg",
+        "text": "Dsp audio book",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695072549,
+        "author": "Pila Ciu",
+        "author_id": "UC0bdyMwQ07Kb8zwNP3SSp4Q",
+        "text": "Did my membership not renew again",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695072984,
+        "author": "Doctor Oink",
+        "author_id": "UCKZdbPELgL5ltTpsEAYHoSg",
+        "text": "its good es6 is xbox exclusive",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695073097,
+        "author": "Daddy Pig 🐷",
+        "author_id": "UCl04TVO01O9tbQRorDmkaFw",
+        "text": "Let daddy translate what my child meant, he was asking if lies of P is a Xbox exclusive game, to that is no my child, it’s also on PS5",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1695073178,
+        "author": "Doctor Oink",
+        "author_id": "UCKZdbPELgL5ltTpsEAYHoSg",
+        "text": "elder scrolls 6 is xbox exclusive, confirmed",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073274,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "I mean if people aren't supporting it doesn't that mean automatically that people don't want mk1?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695073919,
+        "author": "Willy",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "he didn't insult the audience. he asked a question about 1 guy.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695075063,
+        "author": "Sheleem",
+        "author_id": "UCyX1sqXjFfhSaI1E8aO7RYA",
+        "text": "Snitches",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695075965,
+        "author": "Doctor Oink",
+        "author_id": "UCKZdbPELgL5ltTpsEAYHoSg",
+        "text": "that puppet walks like he has something in his azz",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695076135,
+        "author": "SirLCL",
+        "author_id": "UC0LZc-fq9M3HiufJscWoPFg",
+        "text": "Keep up the good work man, hope you are doing well",
+        "usd": 2.48
+    },
+    {
+        "event": "ban",
+        "time": 1695077085,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Have you seen the 90s real life Pinocchio film ? Definitely underrated in my opinion ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695077198,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I’m itching for more SF6 gameplay :soon_arrow: CHAMP",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695077568,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Did you just do a Scorpion “GET OVER HERE”?!!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695077898,
+        "author": "Willow",
+        "author_id": "UCC5crOIHrVNjz5r94XYBxpA",
+        "text": "@DSPGaming I'll see you later tonight",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695078092,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "All Dogs Go To Heaven is a Disney movie right ? @DSPGaming ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695078172,
+        "author": "Sterben_Alone",
+        "author_id": "UCrc18f8BXOCMf5Oj1QIlzYw",
+        "text": "None",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695078205,
+        "author": "rat hammer",
+        "author_id": "UC7yF2AjIwV3MjiYGhtQTJUg",
+        "text": "I'm new to your channel and wanted to say that I enjoy your content!",
+        "usd": 5.0
+    },
+    {
+        "event": "end",
+        "time": 1695079030,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 35.45
+    }
+]
