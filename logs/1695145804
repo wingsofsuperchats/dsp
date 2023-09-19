@@ -1,0 +1,402 @@
+[
+    {
+        "event": "start",
+        "time": 1695145804,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695145805,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good morning all",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695145805,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "what a podcast today",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695145805,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "having microsoft leaked this bad is something else",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695146258,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "yes this will be a crazy podcast, the MS leaks are nuts",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695146258,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "never has this happened before",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695146347,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "what did you think?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695146582,
+        "author": "lyciversoul",
+        "author_id": "UCvLH1PJlS-WO35hEDLcjJNA",
+        "text": "why skip Game of The year Baulders Gate 3? it got extra attention because Bethesda is shooting themselves on the foot making games exclusive this far in the life cycle of ps5 and the Xbox 4 ",
+        "usd": 20.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695147844,
+        "author": "spawnkiller",
+        "author_id": "UCBZFLrGHDnPgOdmT4_YQkCg",
+        "text": "I did not know xbox networth is 2 trillion ",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695147884,
+        "author": "Mr Mole",
+        "author_id": "UCcJMPH0oENW8P_DkfFnqxRA",
+        "text": "Phil is an icon. Always nice to watch. ",
+        "usd": 6.41
+    },
+    {
+        "event": "ban",
+        "time": 1695148320,
+        "author": "KingBCruel",
+        "author_id": "UCG6z8Uo0WRLofNW6vcK-OMw",
+        "text": "@Six70two ayy yooo:_dspLeft::_dspRight:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695149119,
+        "author": "The Ghost of Hyrule",
+        "author_id": "UC6uFRriYfXo5_Z9HfY50otw",
+        "text": "Note that you’ve watched guide’s and playthroughs, let’s play more!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695149256,
+        "author": "AAKHBAF",
+        "author_id": "UC8oGTmaAq09vWotsYhE7HmQ",
+        "text": "@DSPGaming lies of P is $44 on steam would u recommend buying it? I'm on the fence of getting it but i'd like to hear your opinion",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695149296,
+        "author": "People Person",
+        "author_id": "UCpN2H2euD2mGK6UYaCc8cNQ",
+        "text": "@dspgaming the main issue is re-sell ability . Many people get 50 percent back after re selling a disc they beat . My theory is this is the main reason ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695149853,
+        "author": "lyciversoul",
+        "author_id": "UCvLH1PJlS-WO35hEDLcjJNA",
+        "text": "how are the sales for starfield compared to thier other games? that's all I wanna say. ",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695150020,
+        "author": "Sterben_Alone",
+        "author_id": "UCrc18f8BXOCMf5Oj1QIlzYw",
+        "text": "Are these games you actually wanna play or if they fail support-wise, are you gonna say \"YOU guys wanted this\"",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1695150020,
+        "author": "None",
+        "author_id": "UCrc18f8BXOCMf5Oj1QIlzYw",
+        "text": "Are these games you actually wanna play or if they fail support-wise, are you gonna say \"YOU guys wanted this\"",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695150473,
+        "author": "spawnkiller",
+        "author_id": "UCBZFLrGHDnPgOdmT4_YQkCg",
+        "text": "do you think Microsoft will buy Nintendo ",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1695150611,
+        "author": "Soda Cup",
+        "author_id": "UCYs0pzWsLjRElFW_xiIZt9Q",
+        "text": "Hello Phil, I love you :heart_suit:@DSPGaming",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695151203,
+        "author": "Six70two",
+        "author_id": "UCf4K-n3BgVVWKujMoAbqPTw",
+        "text": "I liked death counter I don’t wanna go F myself :frowning_face:",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1695151243,
+        "author": "RadicalJawz Funny Moments",
+        "author_id": "UCUuBeGcl4X7P8YBjsWo1OGQ",
+        "text": "Your burps are legendary I don’t even mind LOL",
+        "usd": 2.08
+    },
+    {
+        "event": "superchat",
+        "time": 1695151269,
+        "author": "Doctor Oink",
+        "author_id": "UCKZdbPELgL5ltTpsEAYHoSg",
+        "text": "nah just vaguey if that makes sense in what youdid",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1695151382,
+        "author": "Beaver Bother",
+        "author_id": "UCvajleFIke0sccO8-_Ca_pA",
+        "text": "@DSPGaming you missed my tip",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695151761,
+        "author": "lyciversoul",
+        "author_id": "UCvLH1PJlS-WO35hEDLcjJNA",
+        "text": "kindomcome deliverance is a hidden gem you missed as well ",
+        "usd": 10.0
+    },
+    {
+        "event": "ban",
+        "time": 1695151842,
+        "author": "Jesse Bonemm",
+        "author_id": "UCkIo2R2a7py9ON8CYUGMwLw",
+        "text": "@dspgaming what do you think about us who have donated over $10,000? do you enjoy us more",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695151858,
+        "author": "Comet Frenzy",
+        "author_id": "UC4nagM0uImS3J127zgqnOPQ",
+        "text": "@DSPGaming speaking of improvements, have you considered automating updates to the leaderboard and animations?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695151866,
+        "author": "Comet Frenzy",
+        "author_id": "UC4nagM0uImS3J127zgqnOPQ",
+        "text": "@DSPGaming speaking of improvements, have you considered automating updates to the leaderboard and animations?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695151939,
+        "author": "Comet Frenzy",
+        "author_id": "UC4nagM0uImS3J127zgqnOPQ",
+        "text": "@DSPGaming speaking of improvements, have you considered automating updates to the leaderboard and animations?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695152141,
+        "author": "Derich_IP",
+        "author_id": "UC8dSF8cPGbXJKcY0qb-FUvA",
+        "text": "Phil, please stop talking",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695152327,
+        "author": "Freeternal",
+        "author_id": "UCW0dGUTpOgzjbw2yvAUnZ2g",
+        "text": "Lmao",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695152408,
+        "author": "Adam Thiry",
+        "author_id": "UCh1mg75BB1_BwY0oRPZLdUA",
+        "text": "None",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1695153677,
+        "author": "BULLY HUNTER_69",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "BEAVER STOP BOTHERING",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695153750,
+        "author": "BULLY HUNTER_69",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "OMG BEAVER BOTHER ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695153758,
+        "author": "Freeternal",
+        "author_id": "UCW0dGUTpOgzjbw2yvAUnZ2g",
+        "text": "BEAVER STOP",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695153814,
+        "author": "Mishael23s",
+        "author_id": "UC7CwfNcK7xN5AvAQX8uOrUA",
+        "text": ":_dspThumbsup:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695153838,
+        "author": "Eddie Chill",
+        "author_id": "UCapbaIgreNcEBP5tqq2v3yw",
+        "text": "Let's keep the vibe positive and chill :smiling_face_with_sunglasses:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695156749,
+        "author": "Freeternal",
+        "author_id": "UCW0dGUTpOgzjbw2yvAUnZ2g",
+        "text": "I bet you’ll",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695157588,
+        "author": "Andy Young",
+        "author_id": "UCpCJYRIQ_aSXkQvEJWOCa4Q",
+        "text": "@DSPGaming have you seen the portrait in hotel krat? the more you lie the nose grows",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695157692,
+        "author": "BULLY HUNTER_69",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "I see",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695159320,
+        "author": "Aaron Walker",
+        "author_id": "UC6P3AYhgOG3N-3b-DsG0Jpw",
+        "text": "Did you have a favourite restaurant back in the eightees?",
+        "usd": 2.97
+    },
+    {
+        "event": "ban",
+        "time": 1695159626,
+        "author": "Doctor Oink",
+        "author_id": "UCKZdbPELgL5ltTpsEAYHoSg",
+        "text": "lol",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695160690,
+        "author": "Cyraxxx The Rapper",
+        "author_id": "UC4oG-NWKyWURt09naLT74Jg",
+        "text": "I have the day off from work today I’m watching you on phone and kingcobrajfs on tv he’s passed out drunk and has 1.3 k people watching him sleep lol",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1695161592,
+        "author": "The Intimidator ",
+        "author_id": "UCQYMsJUnFyAxE_wePxAAkmw",
+        "text": "I mean I’m down to party",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695161809,
+        "author": "Derrick Zapedo",
+        "author_id": "UCduXw_ZTV0GLZMZyakV0U6g",
+        "text": "We need to level up vigor",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695162405,
+        "author": "Jon",
+        "author_id": "UC7HDVE0T6EbbqAtDLnneBjA",
+        "text": "tier 4 tips goal should be a hijab",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695163913,
+        "author": "Baby orangutan",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "scroll up in chat dude",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695164010,
+        "author": "Baby orangutan",
+        "author_id": "UC7Q1DTCGEU3YRLPMkVeO1qA",
+        "text": "they should have a giant sign with a yellow brick road straight to it only for dsp",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695164469,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I’m catching up with your other parts of this playthrough ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695164889,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming are you loving the game more and more you play it ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1695166216,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 66.42999999999999
+    }
+]
