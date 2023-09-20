@@ -1,0 +1,386 @@
+[
+    {
+        "event": "start",
+        "time": 1695174603,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695174604,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695174604,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "we will probably do some of that onight",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695174604,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "tonight",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695174637,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay gonna use the restroom and then we'll begin, brb",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695174831,
+        "author": "Girth Brooks",
+        "author_id": "UC9LsM-VCmH5pMJzIMjWQEyg",
+        "text": "Ready for mortal komplaining let’s gooooo",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695174864,
+        "author": "Girth Brooks",
+        "author_id": "UC9LsM-VCmH5pMJzIMjWQEyg",
+        "text": "Ready for mortal komplaining let’s gooooo",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695175074,
+        "author": "Girth Brooks",
+        "author_id": "UC9LsM-VCmH5pMJzIMjWQEyg",
+        "text": "Good evening @nosleeprealvibes and @blastoise91",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695175228,
+        "author": "Willow",
+        "author_id": "UCC5crOIHrVNjz5r94XYBxpA",
+        "text": "@DSPGaming how was dinner",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695175245,
+        "author": "Girth Brooks",
+        "author_id": "UC9LsM-VCmH5pMJzIMjWQEyg",
+        "text": "There",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695175399,
+        "author": "Girth Brooks",
+        "author_id": "UC9LsM-VCmH5pMJzIMjWQEyg",
+        "text": "Loving it",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695175504,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming So basically like Midnight Fight Express where Lies Of P is ALL ORIGINAL ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695175504,
+        "author": "Girth Brooks",
+        "author_id": "UC9LsM-VCmH5pMJzIMjWQEyg",
+        "text": "Same @robie pezzos",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695175561,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Would you put Lies Of P is in the same category as Midnight Fight Express in terms of originality ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695175609,
+        "author": "Girth Brooks",
+        "author_id": "UC9LsM-VCmH5pMJzIMjWQEyg",
+        "text": "@robie pezzos please be nice to me. I’m not trying to start any trouble",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695175707,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming The Spiritual Successor is the PERFECT way to name Lies Of P so far, would you also say for Dark Souls or just for Bloodborne?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695176615,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "Since Raider is the “God Of Lightning” and Kung Lao is the “Blade Hat Master”, is it appropriate to call this duo “LIGHTNING BLADE” ? @DSPGaming ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695176874,
+        "author": "SithAlchemist",
+        "author_id": "UCSyKj7Nkdi_Dwhu-Xe-pWqQ",
+        "text": "MJ*",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695176996,
+        "author": "OSCAR HPOINT",
+        "author_id": "UCgjBS97UKnYKEEKV77R4_Rg",
+        "text": "I Havent been around in a while here's some money!",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1695177142,
+        "author": "Based American Captain Sisko (Regarded!)",
+        "author_id": "UCDjTVmyZyTswmjCsWbDeTlQ",
+        "text": "@DSPGaming how's it going",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695177150,
+        "author": "The Owl Goes Hoot",
+        "author_id": "UCjB7c9Pf5aBGXwxj64H9AKA",
+        "text": "@canadian James tiberius Kirk (reborn!) I love you brother I won’t let these scavengers in chat get you down! ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695177166,
+        "author": "American Jean Luc Picard {Unborn!}",
+        "author_id": "UCDKj0RtxPyQiM3nvnYgWZ-A",
+        "text": "I wish I had money to tip to scrub that Canadians name off the leader board",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695177344,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Can you say AKYUMA BABY :_dspLeft::_dspRight:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695177693,
+        "author": "The Drew Corporation",
+        "author_id": "UCMJsrHjaYdXffTM401tbjrA",
+        "text": "@lunchmeat no. A certain tipper threw his influence around and got good souls banned . That’s all I will say",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695177717,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming The Hat Bros. Can’t be stopped, TOO OP :_dspLUL:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695177895,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Imagine if this was Rated E for everyone lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695178706,
+        "author": "Scar",
+        "author_id": "UCJYnhCAAbVCSRDqlHmh9_tQ",
+        "text": "i wish 2B was here",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695178892,
+        "author": "OSCAR HPOINT",
+        "author_id": "UCgjBS97UKnYKEEKV77R4_Rg",
+        "text": "A Raiden hat for MK nights would be dope!! ",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1695178941,
+        "author": "Richder Belmont",
+        "author_id": "UCvvbM1CBD8_XSqNiLk9vtLg",
+        "text": "could have just said \"haha that would be cool if I had that\" and moved on",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695180270,
+        "author": "Damian Lopez",
+        "author_id": "UCkuHOf4fmaFCESqYyqZBVEw",
+        "text": "The combos are crazy in this game ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1695180643,
+        "author": "Damian Lopez",
+        "author_id": "UCkuHOf4fmaFCESqYyqZBVEw",
+        "text": "What are your top 3 favorite mortal kombat characters from every game? Good game btw ",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1695180772,
+        "author": "Charlie Weiss",
+        "author_id": "UCRoZFpmYM0vJJuUF0T9HAIw",
+        "text": "The MK1 SFX add a lot to the matches. What do you think? ",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1695181072,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "“LAGTALITY”:_dspLUL::_dspLUL::_dspLUL:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695181186,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming The Straw Hat :woman’s_hat: would fit with Raiden & Kung Lao, agreed CHAMP ? :_dspHmm:",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695181518,
+        "author": "Goldennobles",
+        "author_id": "UC3jkQD4CMVKAYfTkT_-tAgg",
+        "text": "Street fighter is way easier than MK",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1695181583,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Hopefully The juggles go more crazier in Tekken 8 than in this one lol ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695181923,
+        "author": "Chillternal",
+        "author_id": "UCiy971_YJ8W-e_9_7knnlPQ",
+        "text": "In Mortal Kombat's fierce domain,I fight with might, no fear, no pain.Combo strikes, a warrior's spell,Victory's roar, in battles I excel.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695181947,
+        "author": "Tay Kasip",
+        "author_id": "UCQDjAaOBApE644unjAgJCJA",
+        "text": "@DSPGaming @Chillternal wrote a MK poem",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695182134,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Great Progress so far CHAMP",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695182515,
+        "author": "Goldennobles",
+        "author_id": "UC3jkQD4CMVKAYfTkT_-tAgg",
+        "text": "Street fighter is the same way brother",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1695183139,
+        "author": "SithAlchemist",
+        "author_id": "UCSyKj7Nkdi_Dwhu-Xe-pWqQ",
+        "text": "Cheesy",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695183252,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming next time Sindel or sub or Scorpion just ask can try play Nitara",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695183292,
+        "author": "Gray_FoxRJ",
+        "author_id": "UCMJHK58DgYdyJ50VOANvTIg",
+        "text": "Quan China dope",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695183462,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming next time Sindel or sub or Scorpion just ask can try play Nitara",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695183786,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@The Blimp yo",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695184402,
+        "author": "Avarice",
+        "author_id": "UC53cUBCyTHrjPLRm3zpFNEQ",
+        "text": " I annoying music ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695184710,
+        "author": "Mishael23s",
+        "author_id": "UC7CwfNcK7xN5AvAQX8uOrUA",
+        "text": "Is the burping a medical condition too?",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1695185893,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 19.95
+    }
+]
