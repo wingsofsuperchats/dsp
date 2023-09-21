@@ -1,0 +1,330 @@
+[
+    {
+        "event": "start",
+        "time": 1695261003,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695261004,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "hello everyone!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695261004,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": ":_dspWassap:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695261359,
+        "author": "Eddie Chill",
+        "author_id": "UCapbaIgreNcEBP5tqq2v3yw",
+        "text": ":musical_notes::musical_notes::smiling_face_with_sunglasses::musical_notes::musical_notes:",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695261617,
+        "author": "redbandit94",
+        "author_id": "UChBM4Wp5XsjyFvzD_-Q8MPw",
+        "text": "really enjoying Lies of P! Good evening DPS!",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1695261778,
+        "author": "Tactical Soap",
+        "author_id": "UCvCgJUwShV6h8KSat4GlkIA",
+        "text": "@dspgaming good evening ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695261891,
+        "author": "The Blimp",
+        "author_id": "UC6rGxrIeWURs1wWK_HSTf5Q",
+        "text": "@dspgaming You reckon Lies of P making your best of year list Phil?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695262666,
+        "author": "Robie Pezzos",
+        "author_id": "UCIgLSU_QuYqjTkpv0b5SkRA",
+        "text": "@Kagome and Dietrich sitting in a tree s -",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695262811,
+        "author": "1Married Man",
+        "author_id": "UCL1DG8SPNjx6ShRXrhasq-g",
+        "text": "i wish my wife was a real woman, like marissa",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695263198,
+        "author": "Cássio Galvão",
+        "author_id": "UCUQBy7Qt6wngadP7b3aKZBg",
+        "text": "you dont know how to defend? c'mon... GG",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695263206,
+        "author": "Saucy Burrito",
+        "author_id": "UCh4fruhlJkbYFx0r-iAWfgQ",
+        "text": "you definitely were",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695263223,
+        "author": "Nao Guise",
+        "author_id": "UC_2q8SHDd_sR6R9Rkh53baA",
+        "text": "oh, I'm mistaken",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695263223,
+        "author": "joey paisano",
+        "author_id": "UCvTMdmQ9KQ4WYEUkdKgfMKA",
+        "text": " Hold on he beat u fair n square ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695263400,
+        "author": "Goldennobles",
+        "author_id": "UC3jkQD4CMVKAYfTkT_-tAgg",
+        "text": "Shoutout OIC. I miss her:crying_face:",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1695263457,
+        "author": "Robie Pezzos",
+        "author_id": "UCIgLSU_QuYqjTkpv0b5SkRA",
+        "text": "him*",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695263537,
+        "author": "gabriel martinez",
+        "author_id": "UCT2BKGO3Qt8VBkj8xf9xk3w",
+        "text": "@DSPGaming hey man, you dont act your age at all when you play this game. hopefully you take this criticism to heart, have a good one",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695263586,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Will you eventually go back to Blanka or Honda ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695263602,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Will you eventually go back to Blanka or Honda ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695264142,
+        "author": "Adam Thiry",
+        "author_id": "UCh1mg75BB1_BwY0oRPZLdUA",
+        "text": "None",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1695265894,
+        "author": "MitPicK",
+        "author_id": "UCjPMOQ9E_LzWQyV0tbCMx3g",
+        "text": "that rashid was pretty good",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695266321,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "Rashid = :airplane_departure::airplane::small_airplane::office_building:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695266410,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Will you eventually go back to playing Blanka & Honda CHAMP ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695266435,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Will you eventually go back to playing Blanka & Honda CHAMP ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695267379,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "The Blaq Coffin is the reason Phil is losing ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695268016,
+        "author": "August Derite",
+        "author_id": "UCYXTdu7VyXCcF1UPqtftEFQ",
+        "text": "None",
+        "usd": 0.73
+    },
+    {
+        "event": "ban",
+        "time": 1695268145,
+        "author": "Soda Cup",
+        "author_id": "UCYs0pzWsLjRElFW_xiIZt9Q",
+        "text": "I love soda pop :grinning_face_with_big_eyes::grinning_face_with_big_eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695268548,
+        "author": "Soda Cup",
+        "author_id": "UCYs0pzWsLjRElFW_xiIZt9Q",
+        "text": "I.looobe",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695268822,
+        "author": "Twirly",
+        "author_id": "UCQsmIWQElBb6fUpv_sjFVcA",
+        "text": "@Robie Pezzos the one that touches me funny?:face-fuchsia-tongue-out:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695268846,
+        "author": "Robie Pezzos",
+        "author_id": "UCIgLSU_QuYqjTkpv0b5SkRA",
+        "text": "@Twirly didn’t cus tell you ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695268886,
+        "author": "Robie Pezzos",
+        "author_id": "UCIgLSU_QuYqjTkpv0b5SkRA",
+        "text": "Bye Willow ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695269015,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming After your SF6 Ranking Lily Stream, I’m gonna catch up on your Lies Of P Playthrough CHAMP:_dspThumbsup::_dspCorrect::_dspLeft::_dspRight:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695269056,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming After your SF6 Ranking Lily Stream, I’m gonna catch up on your Lies Of P Playthrough CHAMP:_dspThumbsup::_dspCorrect::_dspLeft::_dspRight:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695269080,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming After your SF6 Ranking Lily Stream, I’m gonna catch up on your Lies Of P Playthrough CHAMP:_dspThumbsup::_dspCorrect::_dspLeft::_dspRight:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695269184,
+        "author": "Robie Pezzos",
+        "author_id": "UCIgLSU_QuYqjTkpv0b5SkRA",
+        "text": "Clyde Baxter is my baby momma ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695269539,
+        "author": "Robie Pezzos",
+        "author_id": "UCIgLSU_QuYqjTkpv0b5SkRA",
+        "text": "no way is he",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695269748,
+        "author": "Soda Cup",
+        "author_id": "UCYs0pzWsLjRElFW_xiIZt9Q",
+        "text": "Goodnight Phil, I love you :heart_suit:@DSPGaming",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695269756,
+        "author": "Soda Cup",
+        "author_id": "UCYs0pzWsLjRElFW_xiIZt9Q",
+        "text": "Goodnight Phil, I love you :heart_suit:@DSPGaming",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695269805,
+        "author": "Soda Cup",
+        "author_id": "UCYs0pzWsLjRElFW_xiIZt9Q",
+        "text": "Goodnight Phil, I love you :heart_suit:@DSPGaming",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695269917,
+        "author": "Soda Cup",
+        "author_id": "UCYs0pzWsLjRElFW_xiIZt9Q",
+        "text": "Goodnight Phil, I love you :heart_suit:@DSPGaming",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695270860,
+        "author": "Tristan Cross",
+        "author_id": "UCwld6CEgrBLV5CF0k61PuUA",
+        "text": "@Dsp, have a good day off tomorrow with your roommate. I can't wait to see the highlights tomorrow.",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1695271830,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 6.710000000000001
+    }
+]
