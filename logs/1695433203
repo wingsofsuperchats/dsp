@@ -1,0 +1,410 @@
+[
+    {
+        "event": "start",
+        "time": 1695433203,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695433204,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695433204,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "theyd better not be late",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1695433461,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay im gonna post up and then we'll chill a bit early, im here and ready to go",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695433639,
+        "author": "PunkPina",
+        "author_id": "UCxJR35aba5g2BmL8opwbZoQ",
+        "text": "Here's to another successful Master Rank Stream! :raising_hands: Best of luck DSP",
+        "usd": 50.0
+    },
+    {
+        "event": "ban",
+        "time": 1695433856,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming mis sf",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695434549,
+        "author": "redbandit94",
+        "author_id": "UChBM4Wp5XsjyFvzD_-Q8MPw",
+        "text": "to the king! happy weekend!",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1695434871,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Yo CHAMP, good evening and happy Friday ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695434968,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Yo CHAMP, good evening and happy Friday !!! :_dspThumbsup::_dspCorrect::_dspLeft::_dspRight:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695435636,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@NoSleepRealVibes what new u 10-4",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695435830,
+        "author": "Little Ricky Baxter",
+        "author_id": "UC8st0QeedknOMjkgMi0qXlA",
+        "text": "Can I be excused to the bathroom?? :raised_hand::smiling_face_with_sunglasses:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695436023,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@StraitShot Hell No",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695436063,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming wins 9 and l 17 mk1 ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695437497,
+        "author": "SithAlchemist",
+        "author_id": "UCSyKj7Nkdi_Dwhu-Xe-pWqQ",
+        "text": "Does Phil like him and tonic?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695437811,
+        "author": "Derich Ip",
+        "author_id": "UCMA7b2PrCogYK3Gv6vNDykQ",
+        "text": "Put on the gunnar glasses fat as!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695437884,
+        "author": "JUST KLUNKER",
+        "author_id": "UC_42-GhMjX7A67NBSRgFRiA",
+        "text": "Derich is gone hey Phil hey chat ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695437908,
+        "author": "Broseph Josenbaum",
+        "author_id": "UCm_oANDGgTAmD2NCD_ISblQ",
+        "text": "Whats your opinion on Chorizo? Very good but spicy",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1695438560,
+        "author": "Derich Ip",
+        "author_id": "UCdG3gARtFEi6qer1KzKU9Dw",
+        "text": "Cya @DSPGaming It is time for me to go harass p0rnstars on twitter tonight !",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695438858,
+        "author": "Annwyn Moon",
+        "author_id": "UC8261cXX9QcgGWSlKbIKuBw",
+        "text": "You complain about pattern players but you still refuse to play actual good players with Master Honda or Blanka because you are afraid of good players. Also keep spamming the same grab all day scrub",
+        "usd": 0.29
+    },
+    {
+        "event": "ban",
+        "time": 1695438971,
+        "author": "Sandy",
+        "author_id": "UCOE7eEXvyp23nrFvj1EseAQ",
+        "text": "Embarrassing",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695439229,
+        "author": "Annwyn Moon",
+        "author_id": "UC8261cXX9QcgGWSlKbIKuBw",
+        "text": "Do another combo that isn't drive rush into 360 scrub, keep dodging playing Master Blanka and Honda. Also, 20 ARS is literally 50 US cents, learn to convert",
+        "usd": 0.29
+    },
+    {
+        "event": "ban",
+        "time": 1695439374,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Hoping you get close to MASTER or hit MASTER 🙏🏼",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695439640,
+        "author": "Annwyn Moon",
+        "author_id": "UC8261cXX9QcgGWSlKbIKuBw",
+        "text": "Hey everyone, if you want to superchat Phil, use ARS currency and you can send SCs as you would for 100 bucks but it will only cost you 30 cents and Phil will only get to see 10 cents ;)",
+        "usd": 0.29
+    },
+    {
+        "event": "ban",
+        "time": 1695439809,
+        "author": "None",
+        "author_id": "UC8261cXX9QcgGWSlKbIKuBw",
+        "text": "Hey everyone, if you want to superchat Phil, use ARS currency and you can send SCs as you would for 100 bucks but it will only cost you 30 cents and Phil will only get to see 10 cents ;)",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695439809,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Your ARS friend super chatted another “SUPPORTIVE” comment lol:_dspLUL:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695439825,
+        "author": "Wiley Coyote",
+        "author_id": "UC1F32XMD6FDi9-Gcs-SZ8BQ",
+        "text": "nvm",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695440091,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Did CAPCOM give Dhalsim the ability to teleport because he so damn slow ? :_dspFacepalm::_dspPS5:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695440115,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Did CAPCOM give Dhalsim the ability to teleport because he so damn slow ? :_dspFacepalm::_dspPS5:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695440316,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Did CAPCOM give Dhalsim the ability to teleport because he so damn slow ? :_dspFacepalm::_dspPS5:",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695440526,
+        "author": "2B is Cute!",
+        "author_id": "UCpZWGKmOH8xoSaAxnPd5J7w",
+        "text": "I'm still around. I'm just on a break. I don't want to disrupt the stream by being hyper, so I'm just hanging out. Oh I privated my twitter. F trolls",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1695440558,
+        "author": "Broseph Josenbaum",
+        "author_id": "UCm_oANDGgTAmD2NCD_ISblQ",
+        "text": "Tay Kasip, naaaaah :nauseated_face:",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695440743,
+        "author": "Beaujungles",
+        "author_id": "UC87PRzrglNYhPbP4fYyScTA",
+        "text": "can you shoutout my homie Clyde baxter",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695440840,
+        "author": "2B is Cute!",
+        "author_id": "UCpZWGKmOH8xoSaAxnPd5J7w",
+        "text": "OiC demanded I get banned for some reason & I can't compete with her support, I'm just a waitress, so I backed off. Maybe she won't hate me, idk.",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695441211,
+        "author": "2B is Cute!",
+        "author_id": "UCpZWGKmOH8xoSaAxnPd5J7w",
+        "text": "I'm still training for fight nights :_dspThumbsup:",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1695441565,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "5 STAR DIAMOND :gem_stone: is back baby !!! ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695441944,
+        "author": "2B is Cute!",
+        "author_id": "UCpZWGKmOH8xoSaAxnPd5J7w",
+        "text": "hello",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1695442314,
+        "author": "Chillternal",
+        "author_id": "UCiy971_YJ8W-e_9_7knnlPQ",
+        "text": "@Twirly were you really AK",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695442322,
+        "author": "Sook medic",
+        "author_id": "UCK21tbSDw5yAWx4_RwzWLCA",
+        "text": "I have no idea who 2B is, WHO IS THE COON? cartman",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695442330,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "After you get 5 star, call it a night ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695442435,
+        "author": "Chillternal",
+        "author_id": "UCiy971_YJ8W-e_9_7knnlPQ",
+        "text": "!patreon",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695442870,
+        "author": "Jorge Martinez",
+        "author_id": "UC-T-hRctKRmqgczRsMiPh_g",
+        "text": "2b stop begging for attention already its pathetic",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695442870,
+        "author": "Jorge Martinez",
+        "author_id": "UC-T-hRctKRmqgczRsMiPh_g",
+        "text": "2b stop begging for attention already its pathetic",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695443136,
+        "author": "Beaujungles",
+        "author_id": "UC87PRzrglNYhPbP4fYyScTA",
+        "text": "2b he's not reading your sc because you're a troll",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1695443353,
+        "author": "Twirly",
+        "author_id": "UCQsmIWQElBb6fUpv_sjFVcA",
+        "text": "@Monokuma yup OIC is weird one",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695443498,
+        "author": "Overheating MiniPC",
+        "author_id": "UCsUqbxPMczDxAvBEIEW70Hw",
+        "text": "OIC wants to be the only MTF in the DSPverse",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695443852,
+        "author": "Casual",
+        "author_id": "UCVGLP7kA3Lu9IljgYotsjFg",
+        "text": "almost end of stream, even if we donate no hat.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695443965,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming You may not hit MASTER RANKING tonight, but you’re still an on going legend in the gaming community…#KeepOnKeepingOn CHAMP:_dspThumbsup::_dspCorrect::_dspLeft::_dspRight:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695444070,
+        "author": "Twirly",
+        "author_id": "UCQsmIWQElBb6fUpv_sjFVcA",
+        "text": "@Mishael23s I greasy snack:face-fuchsia-tongue-out::face-fuchsia-tongue-out::face-fuchsia-tongue-out:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695444247,
+        "author": "Twirly",
+        "author_id": "UCQsmIWQElBb6fUpv_sjFVcA",
+        "text": "@Monokuma 5 star rank Hogans",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695444658,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming i try li mei she really good i love her u try li mei ",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1695445822,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 72.86
+    }
+]
