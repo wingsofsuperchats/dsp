@@ -1,0 +1,906 @@
+[
+    {
+        "event": "start",
+        "time": 1696038603,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696038604,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696038604,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "hello everyone!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696038604,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "i was testing the joystick, after disabling the extra buttons it seems to be working well at least offline",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696038604,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "wow wow wow",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696038604,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "wait until you guys see the new halloween animations lol",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696038604,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "best ones ever made IMO",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696038604,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "we now have enough that every level of superchat an every level of tip can be a unique halloween animation",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696038661,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "whoopsie, fixed thanks",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696038677,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "i do dress up every year and this will be no exception",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696038693,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "@elGrayZorro congrats, i hear the patch has made it doable for many people who were stuck",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696038855,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "@elGrayZorro glad to hear, ill get it tonight after the stream ends",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696039454,
+        "author": "Adam Jones eats oics brown hole",
+        "author_id": "UCco5aaRmYjjbI441ZGleMOA",
+        "text": "Give your petty gifted subs Jaxx and oic. Go doody",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1696039462,
+        "author": "Richie Dubbz",
+        "author_id": "UC3Uq6pgLJNMG4Ms6X_wdjkA",
+        "text": "@DSPGaming are you cycling between infect and not infect?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696039462,
+        "author": "None",
+        "author_id": "UCco5aaRmYjjbI441ZGleMOA",
+        "text": "Give your petty gifted subs Jaxx and oic. Go doody",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696039810,
+        "author": "Overheating Mini PC",
+        "author_id": "UCdqmjLLDsH6igz1EXT3TUxA",
+        "text": "!schedule",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696039859,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Snake walk can’t escape the corner ? Or maybe her level toxic bubble super ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696039916,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "New Animations ?!! HELL YEAH :_dspPanic:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696040029,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming sup moive good ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696040102,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I hardly rains here in California, so I was like THANK THE HEAVENS when I saw clouds :cloud: ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696040118,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming It hardly rains here in California, so I was like THANK THE HEAVENS when I saw clouds :cloud: ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696040353,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Howard you better not be acting up tonight ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696040377,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Howard you better not be acting up tonight ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696040474,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Howard flint ur being a bad boy tonight",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696040482,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Howard flint ur being a bad boy tonight",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696040547,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Keep in on topic Howard flint before I ban you ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696040595,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "@robbie pezzos calm down little girl ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696041137,
+        "author": "Little Ricky Baxter",
+        "author_id": "UC8st0QeedknOMjkgMi0qXlA",
+        "text": "Clue look look:_dspJasper::_dspJasper::_dspJasper::_dspJasper:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696041477,
+        "author": "Jaxx_Cuxxor aka Adam Jones",
+        "author_id": "UChBR0zy77ozE_RQcOQXowMA",
+        "text": "Everyone be sure to thank me for sending this HUGE POSITIVE contribution to our Master Philip. My worthless life exists only to serve this superior being after working long days at minimum wage.",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696041841,
+        "author": "BloomKit",
+        "author_id": "UCw1Y22aKoOXKLDLS7kJjR4A",
+        "text": "Does your stick have warranty? Get a replacement ",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1696041898,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "@clyde Baxter hey baby",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696041946,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Me and Clyde were sweethearts back in the 80s",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696041971,
+        "author": "Brad Buxer",
+        "author_id": "UCzSmYw3CDEszUpRGZw_vrcA",
+        "text": "lets slow down and play defense bro we gotta keep you out of these up-close scramble situations, also you should quit accepting wifi matches this character cant play in those dogshit connections",
+        "usd": 10.0
+    },
+    {
+        "event": "ban",
+        "time": 1696042149,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Me and Clyde Baxter had so much fun under the bleachers of football games ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696042205,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "My only complaint is Clyde Baxter used a lot of teeth ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696042262,
+        "author": "Chill Pill (HeHim)",
+        "author_id": "UClSIcB4qcmBU9jreOUxnZvA",
+        "text": "Halp!!!!",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696042319,
+        "author": "Adam Thiry",
+        "author_id": "UCh1mg75BB1_BwY0oRPZLdUA",
+        "text": "None",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1696042335,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "@little Ricky Baxter don’t worry Clyde is too busy pleasing me ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696042392,
+        "author": "Brad Buxer",
+        "author_id": "UCzSmYw3CDEszUpRGZw_vrcA",
+        "text": "go to ranked search setting and turn auto-accept off , you can see if it’s wired or wifi before accepting. big difference imo",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1696042456,
+        "author": "Maxamili",
+        "author_id": "UC-0WjH-efG2qvNlZUBlX70Q",
+        "text": "Just start running perfect parry and auto counter DI scripts, Philip. Might help you get a win.",
+        "usd": 5.14
+    },
+    {
+        "event": "ban",
+        "time": 1696042456,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Love u Clyde ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696042529,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde I miss that mouth of yours",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696042732,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "@avarice Clyde is mine forever ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696042796,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "@little Ricky Baxter you can sit on my lap after Clyde is done ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696042837,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "@mishael23s hey I heard Clyde had a thing with you? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696042837,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "@mishael23s hey I heard Clyde had a thing with you? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696042885,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "@little Ricky Baxter come to daddy little boy",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696043039,
+        "author": "Kat is Leaving Dave for Tyrone",
+        "author_id": "UCZkPn6DSjjLFA97LSOVqSuw",
+        "text": "None",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1696043047,
+        "author": "None",
+        "author_id": "UCZkPn6DSjjLFA97LSOVqSuw",
+        "text": "None",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696043055,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde where r u ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696043371,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Where is Clyde ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696043468,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696043517,
+        "author": "Moe Jester",
+        "author_id": "UC1iDQnDFQjQmq0zJzqhDf2g",
+        "text": "I was tipping with my SSI card",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696043759,
+        "author": "hwhatup",
+        "author_id": "UCa1ZlxunJ3UBuSEVU-prUpQ",
+        "text": "Well my tip isn't fake. He can lick a tip.. ayo",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1696043954,
+        "author": "Forest Law",
+        "author_id": "UC1ziI5iQS-wlY_Q7pKRZ60w",
+        "text": "Phill needs money for more Hogans and doordash doods ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696044140,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696044261,
+        "author": "Yoshino_Lover",
+        "author_id": "UCmg6TEfFTZ-Wa7-e4j6HGUw",
+        "text": "@DSPGaming The tip was from me sorry I have no idea why that happenedn. I tipped from my phone on the browser I have no idea why it got frozen.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696044269,
+        "author": "Yoshino_Lover",
+        "author_id": "UCmg6TEfFTZ-Wa7-e4j6HGUw",
+        "text": "@DSPGaming The tip was from me sorry I have no idea why that happenedn. I tipped from my phone on the browser I have no idea why it got frozen.",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696044520,
+        "author": "Maxamili",
+        "author_id": "UC-0WjH-efG2qvNlZUBlX70Q",
+        "text": "Turn on input delay reduction in settings. 8===D",
+        "usd": 2.05
+    },
+    {
+        "event": "ban",
+        "time": 1696044642,
+        "author": "Robie Pezzos",
+        "author_id": "UCIgLSU_QuYqjTkpv0b5SkRA",
+        "text": "@S",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696044812,
+        "author": "Casual",
+        "author_id": "UCVGLP7kA3Lu9IljgYotsjFg",
+        "text": "They made it so anyone can hits masters.",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696044901,
+        "author": "Maxamili",
+        "author_id": "UC-0WjH-efG2qvNlZUBlX70Q",
+        "text": "Turn sub only chat off, coward.",
+        "usd": 2.05
+    },
+    {
+        "event": "ban",
+        "time": 1696044917,
+        "author": "Cool Taste",
+        "author_id": "UC4aD6yQyxdi36aR3uZLehiQ",
+        "text": "My 7 year old son hit master with Lilly last week basically anyone can get master now",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696044949,
+        "author": "Maxamili",
+        "author_id": "UC-0WjH-efG2qvNlZUBlX70Q",
+        "text": "Lololol",
+        "usd": 2.05
+    },
+    {
+        "event": "superchat",
+        "time": 1696044998,
+        "author": "hwhatup",
+        "author_id": "UCa1ZlxunJ3UBuSEVU-prUpQ",
+        "text": ":waving_hand:OG DSP Channel Viewer Here .. Sleeeedgehammer",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696045071,
+        "author": "Declan Black",
+        "author_id": "UCjYIwOnxkACYwhNGBWnEOzw",
+        "text": "Keep up the hard work, DSP. Ignore the haters.",
+        "usd": 1.29
+    },
+    {
+        "event": "ban",
+        "time": 1696045127,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde I miss the times we had",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696045200,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde do you still use so much teeth",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696045208,
+        "author": "Maxamili",
+        "author_id": "UC-0WjH-efG2qvNlZUBlX70Q",
+        "text": "I’m a moron guys :(",
+        "usd": 2.05
+    },
+    {
+        "event": "ban",
+        "time": 1696045241,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Love u Clyde I wish we were together again",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696045314,
+        "author": "Maxamili",
+        "author_id": "UC-0WjH-efG2qvNlZUBlX70Q",
+        "text": "I feel disrespected. I challenge you to a youtuber boxing match.",
+        "usd": 5.14
+    },
+    {
+        "event": "ban",
+        "time": 1696045419,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "I love my baby Clyde ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696045484,
+        "author": "Casual",
+        "author_id": "UCVGLP7kA3Lu9IljgYotsjFg",
+        "text": "anything under master rank is meaningless",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696045986,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I mean hey, if you were able to hit Lily in MASTER, you can DEFINITELY hit A.K.I in MASTER too Phil :_dspThumbsup::_dspCorrect::_dspLeft::_dspRight:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696046221,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I think the leader of the game devs wanted to purposely make Ken broken in SF6, possible theory ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696046439,
+        "author": "Six70two",
+        "author_id": "UCf4K-n3BgVVWKujMoAbqPTw",
+        "text": "Derich is also sick ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696046772,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "FUCK PC Users, they can burn in HELL",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696047071,
+        "author": "Detractor",
+        "author_id": "UCwWDoXaW61G_udTmv24vhDQ",
+        "text": "@DSPGaming Are you team divorce or team health?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696047298,
+        "author": "Maxamili",
+        "author_id": "UC-0WjH-efG2qvNlZUBlX70Q",
+        "text": "I'm a member and I still can't chat :_dspRage:",
+        "usd": 1.47
+    },
+    {
+        "event": "superchat",
+        "time": 1696047427,
+        "author": "Maxamili",
+        "author_id": "UC-0WjH-efG2qvNlZUBlX70Q",
+        "text": "Sundae it's because I've never had to mute my community :_dspLUL:",
+        "usd": 3.68
+    },
+    {
+        "event": "superchat",
+        "time": 1696047525,
+        "author": "Maxamili",
+        "author_id": "UC-0WjH-efG2qvNlZUBlX70Q",
+        "text": "Sith I stream games 4 days a week too my guy",
+        "usd": 1.47
+    },
+    {
+        "event": "superchat",
+        "time": 1696047565,
+        "author": "Declan Black",
+        "author_id": "UCjYIwOnxkACYwhNGBWnEOzw",
+        "text": "Maximili needs a life. Typical hater :unamused_face:",
+        "usd": 1.29
+    },
+    {
+        "event": "ban",
+        "time": 1696047678,
+        "author": "aamph1999",
+        "author_id": "UCLsRK_-Q8jEutfSZOkW6hlw",
+        "text": "Hate army ftw",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696047678,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming i out try liiy or honda or blanka see u tom ton and podcast",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696047751,
+        "author": "Maxamili",
+        "author_id": "UC-0WjH-efG2qvNlZUBlX70Q",
+        "text": "Gray, I have a second channel",
+        "usd": 1.47
+    },
+    {
+        "event": "superchat",
+        "time": 1696048043,
+        "author": "Marc Thomas",
+        "author_id": "UCW5h2qoGSryapnY4ohBcm7g",
+        "text": "Civ 6 Switch on sale for $6? Interested, chat?",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1696048140,
+        "author": "Sundae",
+        "author_id": "UCIdtYEIGCsZpv-d3yCBgonA",
+        "text": "1k kitty",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696048245,
+        "author": "Maxamili",
+        "author_id": "UC-0WjH-efG2qvNlZUBlX70Q",
+        "text": "damn, ok",
+        "usd": 1.47
+    },
+    {
+        "event": "superchat",
+        "time": 1696048431,
+        "author": "The Rager313",
+        "author_id": "UCH7xGtrV0U-qgDw2gCzHhQw",
+        "text": "I sent that 10 its legit, apparently I don't know how to put a name on it. lol",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1696048658,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I say you’re doing great with what you know about A.K.I, plus she’s the only other character that’s close to hitting more ranks and possibly hit MASTER, I mean cmon man you did it with Lily",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049314,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde loves me I can tell ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049371,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "@six70two tell Clyde I want him back in my arms ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049411,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Me and Clyde were in love back in the summer of 1986",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049451,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Love you Clyde we will be again one day",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049468,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Love you Clyde we will be again one day",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049508,
+        "author": "Eddie Steady",
+        "author_id": "UCSvAJ7SVZDbW00b-TKgzHlg",
+        "text": "Trolls get out",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049516,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde you did use a lot of teeth on me :))))",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049549,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "We grew up together Clyde I just want the old days back ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049573,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Please Clyde love me again ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049589,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "I won’t hurt you again Clyde I have matured ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049630,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde remember when me you and mr. Johnson had that threesome in science class ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049638,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde remember when me you and mr. Johnson had that threesome in science class ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049694,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde LOVE ME I LOVE YIU ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049719,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde LOVE ME I LOVE YIU ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049743,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde come back baby ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049775,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "CLYDEEEEEEEEE",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049783,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "CLYDEEEEEEEEE",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696049889,
+        "author": "Chilling like a Rockstar villain",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "I think the biggest problem is your lack of skill ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696049905,
+        "author": "Maxamili",
+        "author_id": "UC-0WjH-efG2qvNlZUBlX70Q",
+        "text": "You got this man. #1 AKI in no time",
+        "usd": 1.47
+    },
+    {
+        "event": "ban",
+        "time": 1696050067,
+        "author": "Clyde Baxter Sucked My cock back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696050083,
+        "author": "Six70two",
+        "author_id": "UCf4K-n3BgVVWKujMoAbqPTw",
+        "text": "YOU CAN HAVE MY WRIST NY TRIBAL CHIEF ",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1696050593,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "Goodnight for Phil ",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1696051630,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 68.03999999999998
+    }
+]
