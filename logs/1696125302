@@ -1,0 +1,266 @@
+[
+    {
+        "event": "start",
+        "time": 1696125302,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696125303,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696125303,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "lets get going!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696125303,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "hello!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696125303,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "ready to relax",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696125303,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "much needed lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696126044,
+        "author": "Jade Mendez (Goth)",
+        "author_id": "UC5eezB9Kq_2zsV3dr-Ee67w",
+        "text": "i drank 2 bottles of robitussan already",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696126052,
+        "author": "Eddie Ready",
+        "author_id": "UCkXiQZuZ-JIqDkwRIXIUKOA",
+        "text": "That's badass @Jade",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696126093,
+        "author": "Eddie Ready",
+        "author_id": "UCkXiQZuZ-JIqDkwRIXIUKOA",
+        "text": "That's badass @Jade",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696126608,
+        "author": "Overheating Mini PC",
+        "author_id": "UCdqmjLLDsH6igz1EXT3TUxA",
+        "text": "He banned two regulars for nothing",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696126979,
+        "author": "Clyde Baxter Sucked My Cawk back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696127019,
+        "author": "Little Ricky Baxter",
+        "author_id": "UC8st0QeedknOMjkgMi0qXlA",
+        "text": "Clyde aim bored",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696127019,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming big news ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696127027,
+        "author": "Clyde Baxter Sucked My Cawk back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde I miss u",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696127084,
+        "author": "Clyde Baxter Sucked My Cawk back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde I love u",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696127148,
+        "author": "Clyde Baxter Sucked My Cawk back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "CLYDE ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696127204,
+        "author": "Eddie Cash",
+        "author_id": "UCgOcVIhEn_RsbbHU9ZFMYfw",
+        "text": "Curated levels are through the roof",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696127784,
+        "author": "Solid Snek",
+        "author_id": "UC5uGrkha-vYQXU0Sju0-5pg",
+        "text": "!curated buttery goodness",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696127889,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming yep big news just done invasion mode",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696128485,
+        "author": "Clyde Baxter Sucked My Cawk back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "@clyde I miss u bby",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696128606,
+        "author": "Clyde Baxter Sucked My Cawk back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Me and Clyde were high school sweethearts in the 80s",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696128678,
+        "author": "Clyde Baxter Sucked My Cawk back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde I love u baby ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696128791,
+        "author": "Clyde Baxter Sucked My Cawk back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696128799,
+        "author": "MrGamemaster11111",
+        "author_id": "UCxkY9PAIdSxqKxlrgEKrEyQ",
+        "text": " so Alan Wake 2 will come with a 60 FPS Performance Mode on despite the game having been built as a 30 FPS experience thoughts?",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1696129500,
+        "author": "Toasty",
+        "author_id": "UCgCl5SpB7hy_Bx74_wtSoeA",
+        "text": "Their",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696130395,
+        "author": "Blastoise91",
+        "author_id": "UChJWG7-7plIMGZLgeJpyxPA",
+        "text": "Jayde :_dspThumbsup:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696132433,
+        "author": "Two Hour Woman 👑",
+        "author_id": "UCLqi4UvGMNe3PXPxnkThyng",
+        "text": "@Have you rode a camel?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696133988,
+        "author": "Ren",
+        "author_id": "UCBtuunfmnmjhI7QjlxaL8Cg",
+        "text": "How's your cats thyroid going, Phil? ",
+        "usd": 2.44
+    },
+    {
+        "event": "ban",
+        "time": 1696134004,
+        "author": "Ren",
+        "author_id": "UCBtuunfmnmjhI7QjlxaL8Cg",
+        "text": "How's your cats thyroid going, Phil? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696134149,
+        "author": "Steve",
+        "author_id": "UCIY-zVmCQOGfV6xQCh-dRSw",
+        "text": "is this content curated?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696134157,
+        "author": "dinodad28",
+        "author_id": "UCT8PyIW9jLWrUj-sou5z2TQ",
+        "text": "how many days is the vest streak at rn",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696134197,
+        "author": "salami",
+        "author_id": "UCh30tUfpROdXUYeH74N_B_w",
+        "text": "I'm a Curationist religiously",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1696135707,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 7.4399999999999995
+    }
+]
