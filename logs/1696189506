@@ -1,0 +1,938 @@
+[
+    {
+        "event": "start",
+        "time": 1696188903,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1696189504,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "start",
+        "time": 1696189506,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696189564,
+        "author": "Solid Snek",
+        "author_id": "UC5uGrkha-vYQXU0Sju0-5pg",
+        "text": "Curation of the disabled's SDI for 15 years and running:wheelchair_symbol:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696189790,
+        "author": "Overheating Mini PC",
+        "author_id": "UCdqmjLLDsH6igz1EXT3TUxA",
+        "text": "How am I wrong?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696190404,
+        "author": "Jacob Marsee",
+        "author_id": "UCdKceIK8zmLvJhKeYXThLzg",
+        "text": "Dude always talking about money",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696190898,
+        "author": "Pizza Rat",
+        "author_id": "UC_fcu1muVHt9ILpbuSDS5vA",
+        "text": "Pall Malls @Magic Man",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696191133,
+        "author": "OSCAR HPOINT",
+        "author_id": "UCgjBS97UKnYKEEKV77R4_Rg",
+        "text": "also gojng to cancel my dspgaming memebership. Adam was right about you.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696191725,
+        "author": "Knead Mooney",
+        "author_id": "UCfmwpX1uoqPDbYLkMRLHOXw",
+        "text": "!tip",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696191822,
+        "author": "Nao Guise",
+        "author_id": "UC_2q8SHDd_sR6R9Rkh53baA",
+        "text": "gas beggar",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696191822,
+        "author": "Nao Guise",
+        "author_id": "UC_2q8SHDd_sR6R9Rkh53baA",
+        "text": "gas beggar",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192120,
+        "author": "The one and true bojangles",
+        "author_id": "UCpglHXmumnRCxoLN7luW8CA",
+        "text": "it's a fake page, the money goes to the video creator",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192403,
+        "author": "PotNoodleBroth",
+        "author_id": "UCZi4QQ-gdT7w4UEjRi7jGtA",
+        "text": "Real Content. Organic. Robust.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192403,
+        "author": "Theodore Roosevelt",
+        "author_id": "UCc3AOBMmFPUIyPpYhEhKYjg",
+        "text": ":cigarette::cigarette::cigarette:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192484,
+        "author": "as ew",
+        "author_id": "UCaycp5tMYu65KYHrFkAr5Kw",
+        "text": "did anyone get that gofundme address? I'd like to donate to that man having issues",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696192492,
+        "author": "Karmic Justice",
+        "author_id": "UCBRSxG6I8TutnywwvygGkKA",
+        "text": "can you ban the guy with a weiner pfp",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192500,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192500,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192508,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192508,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192508,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192508,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192516,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192516,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192524,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192524,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192524,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192524,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192532,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192532,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192532,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192540,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192540,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192540,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192548,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192548,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192556,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192556,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192556,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192556,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192564,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192564,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192564,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192564,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192572,
+        "author": "None",
+        "author_id": "UCBRSxG6I8TutnywwvygGkKA",
+        "text": "can you ban the guy with a weiner pfp",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192572,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192572,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192580,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192580,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192588,
+        "author": "Bart Baxter ",
+        "author_id": "UCuCXLmoHUVfdLsPLpVY-4RA",
+        "text": "Wow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192597,
+        "author": "Eddie Nonsense",
+        "author_id": "UCC2A-XK5cp_ZWd0-1Me3Jvw",
+        "text": "Nobody donate to that fake sad story guy, Phil deserves that money more",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192734,
+        "author": "Jimmy Johnson ",
+        "author_id": "UC4aD6yQyxdi36aR3uZLehiQ",
+        "text": "Hehe",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192758,
+        "author": "Matty Ice",
+        "author_id": "UC79i4xPeIBapp0x5GyWmwDw",
+        "text": "so they pay $20 a month so you can watch maybe half the video?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192798,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts thanks for doing the closet cleanout last year ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192846,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts I wanted to say thanks for doing the closet cleanout last year. thank you !",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192903,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts I really wanted to say thanks for doing the closet cleanout last year. thank you, those streams were a lot of fun !",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192943,
+        "author": "Jimmy Johnson ",
+        "author_id": "UC4aD6yQyxdi36aR3uZLehiQ",
+        "text": "Derich is angry at u Phil for ignoring him ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192976,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts I really wanted to say thanks for doing the closet cleanout last year in the summer, you found most of these ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696192984,
+        "author": "Andy Young",
+        "author_id": "UCpCJYRIQ_aSXkQvEJWOCa4Q",
+        "text": "@DSPGaming do you ever feel weird hearing your own voice? I know alot of youtubers have said they hate hearing their own voices",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696193089,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts do you still have most of these wires?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696193589,
+        "author": "EFANADDICT",
+        "author_id": "UCJ_qZzf2GLt6jRJdvKqfwKQ",
+        "text": "Snort that cope phil",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696193832,
+        "author": "Kuri kuri",
+        "author_id": "UCayBooMfTbDB9X2FOIMBPFg",
+        "text": "Finally you are calling out this guys complete BS, tells you a lot about this douchebag rather than taking criticism & fixing it, he buried it under the rug and stop progress toward a better solution",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1696193896,
+        "author": "Meaningful",
+        "author_id": "UCgMdDVVSKKeZDaX8eIcQNeg",
+        "text": "u always bich about lag but u prefer DELAY netcode",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1696194220,
+        "author": "Daddy Pig 🐷",
+        "author_id": "UCl04TVO01O9tbQRorDmkaFw",
+        "text": "Peterson had a come to Jesus moment when he came home to find his wife being boned by his neighbor. Instead of yelling at her, he asked himself why and he made peace. Now he is a proud cuckold",
+        "usd": 9.99
+    },
+    {
+        "event": "ban",
+        "time": 1696195277,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts BTTF: The Game once was announced at NYCC 2010 and you played it in 2011.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696195309,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts BTTF: The Game once was announced at NYCC 2010 and you played it in February 2011. 1 episode came out in every month. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696195334,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts BTTF: The Game once was announced at NYCC 2010 and you played it in February 2011. 1 episode came out in every month. ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696195358,
+        "author": "Pikachu Hat",
+        "author_id": "UCkVqr9vtAKRJ4OhprNmUJkA",
+        "text": "finished at the gym, wanna spread the love around!",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696195390,
+        "author": "Meaningful",
+        "author_id": "UCgMdDVVSKKeZDaX8eIcQNeg",
+        "text": "laughter and explaining the obvious is meaningful",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1696195398,
+        "author": "None",
+        "author_id": "UCgMdDVVSKKeZDaX8eIcQNeg",
+        "text": "laughter and explaining the obvious is meaningful",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696195447,
+        "author": "Lunchmeat",
+        "author_id": "UCRbPpmhbdRQsjEXfRQUwj8w",
+        "text": "can I get an unban on @dspgaming plox :folded_hands: ",
+        "usd": 1.48
+    },
+    {
+        "event": "ban",
+        "time": 1696195447,
+        "author": "Shot Caller",
+        "author_id": "UC25Ql6gCDkPLYDj6Zh7BvsA",
+        "text": "84 hubner avenue markham Ontario is derichs address",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696195802,
+        "author": "AdaPaliS",
+        "author_id": "UCjTRAcgQUFOgVNMoIXGNjJg",
+        "text": "If you want to be more like Derich look into his X account, some good insight there",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696196392,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts omg dead dolls I see",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696196990,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts meat and pork floss is usually made by stewing or simmering pork in a mixture of soy sauce, sugar, and spices btw",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696197217,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts Hugh Jackman is Australian and will be in Deadpool 3 in 2024",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696197484,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "it is $9.99 on steam @DSPReacts ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696197798,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "what’s the name of the MJ song @DSPReacts ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696197822,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "what’s the name of the MJ song @DSPReacts ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696197846,
+        "author": "Pikachu Hat",
+        "author_id": "UCkVqr9vtAKRJ4OhprNmUJkA",
+        "text": ":grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696197846,
+        "author": "Pikachu Hat",
+        "author_id": "UCkVqr9vtAKRJ4OhprNmUJkA",
+        "text": ":grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face::grinning_squinting_face:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696197911,
+        "author": "Dan Dunce ",
+        "author_id": "UCPBpKMeFt4KtMwm48X4-M6w",
+        "text": "Pooped myself laughing ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696197919,
+        "author": "Dan Dunce ",
+        "author_id": "UCPBpKMeFt4KtMwm48X4-M6w",
+        "text": "Pooped myself laughing ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696197919,
+        "author": "Dan Dunce ",
+        "author_id": "UCPBpKMeFt4KtMwm48X4-M6w",
+        "text": "Pooped myself laughing ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696197927,
+        "author": "Dan Dunce ",
+        "author_id": "UCPBpKMeFt4KtMwm48X4-M6w",
+        "text": "Pooped myself laughing ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696197927,
+        "author": "Dan Dunce ",
+        "author_id": "UCPBpKMeFt4KtMwm48X4-M6w",
+        "text": "Pooped myself laughing ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696198169,
+        "author": "San David",
+        "author_id": "UCdG3gARtFEi6qer1KzKU9Dw",
+        "text": "wife?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696198716,
+        "author": "Andy Young",
+        "author_id": "UCpCJYRIQ_aSXkQvEJWOCa4Q",
+        "text": "@DSPReacts please ban Dan dunce he's using a sexual naked image as his profile picture",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696198749,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "ugh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696198757,
+        "author": "Dan Dunce ",
+        "author_id": "UCPBpKMeFt4KtMwm48X4-M6w",
+        "text": "Derich says ugh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696198757,
+        "author": "Dan Dunce ",
+        "author_id": "UCPBpKMeFt4KtMwm48X4-M6w",
+        "text": "Derich says ugh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696198765,
+        "author": "Dan Dunce ",
+        "author_id": "UCPBpKMeFt4KtMwm48X4-M6w",
+        "text": "Derich says ugh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696198765,
+        "author": "Dan Dunce ",
+        "author_id": "UCPBpKMeFt4KtMwm48X4-M6w",
+        "text": "Derich says ugh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696198765,
+        "author": "Dan Dunce ",
+        "author_id": "UCPBpKMeFt4KtMwm48X4-M6w",
+        "text": "Derich says ugh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696198773,
+        "author": "Dan Dunce ",
+        "author_id": "UCPBpKMeFt4KtMwm48X4-M6w",
+        "text": "Derich says ugh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696198773,
+        "author": "Dan Dunce ",
+        "author_id": "UCPBpKMeFt4KtMwm48X4-M6w",
+        "text": "Derich says ugh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696198789,
+        "author": "Pizza Rat",
+        "author_id": "UC_fcu1muVHt9ILpbuSDS5vA",
+        "text": "Trans kids now",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696198877,
+        "author": "Clyde Baxter Sucked My Cawk back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "People need to stop using nasty pics as their profile pic it’s immature ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696199014,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts what happened to you original switch ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696199047,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts what happened to the bricked switch. did you trade it in?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696199329,
+        "author": "Dropped Inputz",
+        "author_id": "UCc0SC44Wmw8wwsx9ev-9LvA",
+        "text": "This is meaningful",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696199933,
+        "author": "Pizza Rat",
+        "author_id": "UC_fcu1muVHt9ILpbuSDS5vA",
+        "text": "White woman in the trunk",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696199997,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "Cya @DSPReacts I am off to watch tonight’s AEW PPV in Seattle. have a great Sunday ! ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696200029,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "Cya @DSPReacts I am off to watch tonight’s AEW PPV in Seattle. have a great Sunday ! ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696200078,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "Cya @DSPReacts I am off to watch tonight’s AEW PPV in Seattle. have a great Sunday today ! ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696200231,
+        "author": "SewageKing",
+        "author_id": "UCBcaupVfTRf_afQxFPoi6PA",
+        "text": "Skip",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696200368,
+        "author": "Clyde Baxter Sucked My Cawk back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde Baxter what’s good miss u",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696200634,
+        "author": "PhildePhil",
+        "author_id": "UCjcGgPvfNs0vNZJHNS3agiQ",
+        "text": "DSP watches what he wants to watch, just imagine paying a subscription for this :face_with_tears_of_joy::face_with_tears_of_joy: u",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696200698,
+        "author": "Clyde Baxter Sucked My Cawk back in 1986",
+        "author_id": "UCZD7AS1fZSWfKKxnLOgI8Dw",
+        "text": "Clyde Baxter is a great man",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696200948,
+        "author": "KingBCruel",
+        "author_id": "UCG6z8Uo0WRLofNW6vcK-OMw",
+        "text": "BUT MINE WAS ALL BUG AND CRASHES !! IT WAS FUUUUUUUNNNNYYY",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696200948,
+        "author": "KingBCruel",
+        "author_id": "UCG6z8Uo0WRLofNW6vcK-OMw",
+        "text": "BUT MINE WAS ALL BUG AND CRASHES !! IT WAS FUUUUUUUNNNNYYY",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696201101,
+        "author": "Game Genie",
+        "author_id": "UCxHR4fvmlRYeJec8h3gkHkQ",
+        "text": "Der & Ich",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696201109,
+        "author": "Ain’t Nothing To Puff With",
+        "author_id": "UCF4YfLqmfyArkZ9-v_Y3CKw",
+        "text": "Are those guys Derichs fathers ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696201584,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts how many videos were left?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696201769,
+        "author": "Stokes ",
+        "author_id": "UC-6xBTu5RioJLasTjwzl1cw",
+        "text": "Not really ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696201769,
+        "author": "Comedian Mail",
+        "author_id": "UCuG78nHeePD6Z6ATzXO0mFQ",
+        "text": "are you guys still here?",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1696201929,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 29.439999999999998
+    }
+]
