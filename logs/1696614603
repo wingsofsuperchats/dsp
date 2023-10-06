@@ -1,0 +1,586 @@
+[
+    {
+        "event": "start",
+        "time": 1696614603,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696614604,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good morning everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696614677,
+        "author": "Hades",
+        "author_id": "UCxx73WpMqUr84E6OpoH0QbA",
+        "text": "Is anyone here actually a fan of him ",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696614693,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "New release day!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696614798,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "i downloaded ubisoft connect just for this lol",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696614806,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "haven't used it in years",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696615081,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "isnt it literally a budget game?",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696615089,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "i mean i got it for $20 lol",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696616101,
+        "author": "MrGamemaster11111",
+        "author_id": "UCxkY9PAIdSxqKxlrgEKrEyQ",
+        "text": "after 5 months redfall gets a 60 fps patch wow",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1696616223,
+        "author": "People Person",
+        "author_id": "UCpN2H2euD2mGK6UYaCc8cNQ",
+        "text": "@dspgaming my guess is you won’t like the new cod that much . It brought back the sweaty pro level movement stuff so there’s going to be huge skill gaps again ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696617307,
+        "author": "Mango Juul Pods",
+        "author_id": "UCGRrFtphvRMe-SWYnzHwzlA",
+        "text": "@DSPGaming just blatantly ignores any mention of cross play i dont get why?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696617638,
+        "author": "Mango Juul Pods",
+        "author_id": "UCGRrFtphvRMe-SWYnzHwzlA",
+        "text": "\"I'm not part of the FGC\".\" \"I'm not trying to be competitive.\" BUT \"Everyone wants to see me play against the pros/greats.\" MAKE IT MAKE SENSE PHIL. ",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1696617703,
+        "author": "01JGill",
+        "author_id": "UC3TC4fyZQTDFgyWn3Moo8eg",
+        "text": "community whistle blower lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696617703,
+        "author": "Scorpion",
+        "author_id": "UCCczbu1swx556CGlfzXcwJg",
+        "text": "NO NONSENSE PHIL lololooollllllloooool",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696618195,
+        "author": "zendertaker",
+        "author_id": "UC9-YPgODTfdtqzYBiaBsJeg",
+        "text": "DPS wishing you well and thanks for entertaining us, youre my favorite gamer ",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1696618349,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "Lies of Master P",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696618487,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "superfluous",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696618852,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@Fancy Feast like Godzilla movies",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696618877,
+        "author": "I Like Ike",
+        "author_id": "UC-DzyEesj3I6JnJV6TmqPgQ",
+        "text": "Welcome1",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696618950,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "the sleep doctor awaits you",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696619266,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "Darksyde Sports Programming Network",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696619922,
+        "author": "M M",
+        "author_id": "UCq1hhSMIT6DQYmNEnSDeBzQ",
+        "text": "I work for something, I'll contact the FBI right away!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696620464,
+        "author": "Robie Pezzos",
+        "author_id": "UCIgLSU_QuYqjTkpv0b5SkRA",
+        "text": "dang I’m still grey :eyes-purple-crying:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696620480,
+        "author": "Ali Omar",
+        "author_id": "UC9sb9FEt-IqlOS9msobHdbQ",
+        "text": "When are you starting???",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696620537,
+        "author": "Stratos",
+        "author_id": "UCRBq_PRYFEsMl8JEJYE0AkQ",
+        "text": "Pretends not to know who he is. Says his name ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696620707,
+        "author": "Genetix",
+        "author_id": "UCv210AzVHyYkq3VW7m0a-wA",
+        "text": "The donation would be a donation ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696620772,
+        "author": "Robie Pezzos",
+        "author_id": "UCIgLSU_QuYqjTkpv0b5SkRA",
+        "text": "im",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696620918,
+        "author": "Thin-Ice",
+        "author_id": "UCc9MkXPpHw6P_AGY-xtD3Yw",
+        "text": "Side scrollers exposed you for the scammer you are ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696620950,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming this first ac watch live i watch ac videos ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696621306,
+        "author": "DL5fsE",
+        "author_id": "UCdbTwCOjnJ0bSv39nfm1xXA",
+        "text": "HAHAHAHA",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696621314,
+        "author": "DL5fsE",
+        "author_id": "UCdbTwCOjnJ0bSv39nfm1xXA",
+        "text": "HAHAHAHA",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696621598,
+        "author": "Sundae",
+        "author_id": "UCIdtYEIGCsZpv-d3yCBgonA",
+        "text": "@Rebecca adopt me too I'm also a kitteh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696621996,
+        "author": "I Like Ike",
+        "author_id": "UC-DzyEesj3I6JnJV6TmqPgQ",
+        "text": "I asked the DJ to play \"Thugs on the floor\" the other night. He gave me a thumbs up buit never played it. Maybe he miss heard me? :_dspFacepalm:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696622344,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "well I did believe that was a song, and it's not right to trick people",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696622499,
+        "author": "Solid Sn0ke",
+        "author_id": "UCDC9oPQS-qgKYIioVDZEGjg",
+        "text": "are you planning on playing sonic frontiers DLC ",
+        "usd": 2.43
+    },
+    {
+        "event": "superchat",
+        "time": 1696623976,
+        "author": "MidnightClub3",
+        "author_id": "UCTOUYbh_k3oXjrPJ3lscxfA",
+        "text": "Hey Phil, if you could have one character return as dlc for sf6 who would you choose? For me it would be Q from 3rd strike.",
+        "usd": 6.12
+    },
+    {
+        "event": "ban",
+        "time": 1696624883,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "I loved your Scream 5 review @DSPGaming what will be the next Halloween/horror movie you will be reviewing? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696624940,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "I loved your Scream 5 review @DSPGaming ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696625013,
+        "author": "SXE Style",
+        "author_id": "UCJCZo-uOfFlWs_ntYvIfiYA",
+        "text": "Allergies are a sign of poor health and a bad choice for where to settle ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696625296,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@Sundae yo",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696625369,
+        "author": "Mishael23s",
+        "author_id": "UC7CwfNcK7xN5AvAQX8uOrUA",
+        "text": "@Sunday lol",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696625708,
+        "author": "Truth Be Told",
+        "author_id": "UCpF9jL_2NjWvrwJtsiL2j-g",
+        "text": "So only Derich can spam ? Let’s be honest ",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1696625724,
+        "author": "Truth Be Told",
+        "author_id": "UCpF9jL_2NjWvrwJtsiL2j-g",
+        "text": "So only Derich can spam ? Let’s be honest ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696625797,
+        "author": "Knickerbocker Tape",
+        "author_id": "UCyydAQuHl-Mt1XQc_w17BSw",
+        "text": "He runs like derich",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696626144,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming great movie reviews so far this week, I can’t wait for the next one. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696626160,
+        "author": "John Pig",
+        "author_id": "UCZUpm5dFRH-FHAWNyxiv8qg",
+        "text": "Derich what movies do you watch in your free time",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696626168,
+        "author": "tyler",
+        "author_id": "UCBnIowFRnsAlvTBXr-GyBpA",
+        "text": "@John Pig the adult ones",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696626200,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "you can use geometry to solve for some geography",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696626225,
+        "author": "Sundae",
+        "author_id": "UCIdtYEIGCsZpv-d3yCBgonA",
+        "text": "that's a clip lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696626459,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "I heard a Yeti",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696626556,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "it's best to fall on your head",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696626799,
+        "author": "John Pig",
+        "author_id": "UCZUpm5dFRH-FHAWNyxiv8qg",
+        "text": "@DSP why do you like making shit-related jokes?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696627114,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "Animus hiccup",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696627292,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "anyone know if this game is woke?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696627356,
+        "author": "John Pig",
+        "author_id": "UCZUpm5dFRH-FHAWNyxiv8qg",
+        "text": "Cherrypimps time",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696627396,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "Lies of Master P",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696627703,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "bare-handed down that rope? gotta hurt",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696627784,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@Reflection they're trained to die silently",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696627832,
+        "author": "John Pig",
+        "author_id": "UCZUpm5dFRH-FHAWNyxiv8qg",
+        "text": "Great cahntent",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696627896,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@Reflection they're trained to die silently",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696628146,
+        "author": "BULLY HUNTER_69",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "what!?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696628146,
+        "author": "BULLY HUNTER_69",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "what!?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696628573,
+        "author": "Matt Snacks",
+        "author_id": "UCFCXEM7yWoQqvzX3zdT_T4Q",
+        "text": "Oh the cameras on",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696628581,
+        "author": "redbandit94",
+        "author_id": "UChBM4Wp5XsjyFvzD_-Q8MPw",
+        "text": "Burnell 2024",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1696628904,
+        "author": "BULLY HUNTER_69",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "bro",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696631829,
+        "author": "BULLY HUNTER_69",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "huh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696631894,
+        "author": "BULLY HUNTER_69",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "Assasin Punk 2077 1.0",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696632039,
+        "author": "BULLY HUNTER_69",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "what?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696632417,
+        "author": "M M",
+        "author_id": "UCq1hhSMIT6DQYmNEnSDeBzQ",
+        "text": "@Daxmagain if you want to watch middle eastern assassins just watch the news on Europe like France or Germany,",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696633135,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming just done watch lost judgement now yakuza 4",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696633247,
+        "author": "Broseph Josenbaum",
+        "author_id": "UCm_oANDGgTAmD2NCD_ISblQ",
+        "text": "GhostofJay lol. We wuz Mesopotamian Kangz.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696633280,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@Broseph Josenbaum cool",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1696634234,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 24.54
+    }
+]
