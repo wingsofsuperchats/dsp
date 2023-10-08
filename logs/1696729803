@@ -1,0 +1,218 @@
+[
+    {
+        "event": "start",
+        "time": 1696729803,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696729804,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696729804,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "yeah i have no idea whats after this current boss",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696729804,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "if theres more dungeon then probably not",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696729804,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "well i have Monday night lined up if we dont",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696729844,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "hello all! just gonna use the restroom and then we can chill before i start up",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1696729844,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "brb",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696730770,
+        "author": "Willow",
+        "author_id": "UCC5crOIHrVNjz5r94XYBxpA",
+        "text": "@DSPGaming how was dinner",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696730851,
+        "author": "MrGamemaster11111",
+        "author_id": "UCxkY9PAIdSxqKxlrgEKrEyQ",
+        "text": "dsp hi its funny regarding assassin's creed fans are never happy first they hated the rpgs now they want the rpgs back from what i been reading ",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1696734942,
+        "author": "M M",
+        "author_id": "UCq1hhSMIT6DQYmNEnSDeBzQ",
+        "text": "@San David I do not matter, save your unrelated questions for qna tomorrow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696735748,
+        "author": "Willow",
+        "author_id": "UCC5crOIHrVNjz5r94XYBxpA",
+        "text": "@DSPGaming did you had a spray fan in connecticut",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696736078,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Moonsword ?!! Maybe it’s the MASAMUNE (Chrono Trigger reference lol)",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696736167,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Is Carlo (Pinocchio) almost a full human now or not yet ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696736231,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming What chapter are you on now CHAMP ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696736384,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Good afternoon CHAMP, way to beat that tough ass boss ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696736562,
+        "author": "spawnkiller",
+        "author_id": "UCBZFLrGHDnPgOdmT4_YQkCg",
+        "text": "do you remember shadow of the damned game.",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696736876,
+        "author": "spawnkiller",
+        "author_id": "UCBZFLrGHDnPgOdmT4_YQkCg",
+        "text": "I never played a souls type game before,should play it so I can get used to controlls.",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696737013,
+        "author": "spawnkiller",
+        "author_id": "UCBZFLrGHDnPgOdmT4_YQkCg",
+        "text": "I was talking about this game. it looks difficult ",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1696737134,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming You look like Sephiroth or Dante with the hair and coat ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696737182,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming You look like Sephiroth or Dante with the hair and coat ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696737271,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I predict one more major stream of this LEGENDARY game and that’s it ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696737440,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming This is why you’re my favorite youtuber, you keep it real unlike todays streamers…keep up your OG ways in todays YouTube CHAMP",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696737512,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming see ya tom podcast n tom ton ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696738157,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming if you told the truth before in any moments that you lied, does that affect Carlo’s chances of becoming a real boy ?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696739196,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming There’s a move similar to that hand from Persona 4 Golden called “Hand Of God”",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696739712,
+        "author": "The Blimp",
+        "author_id": "UC6rGxrIeWURs1wWK_HSTf5Q",
+        "text": "@canadian james tiberius kirk Derichs used to only using one arm",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1696741037,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 14.0
+    }
+]
