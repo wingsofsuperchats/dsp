@@ -1,0 +1,746 @@
+[
+    {
+        "event": "start",
+        "time": 1697046303,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1697046304,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good morning",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1697046304,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "no real news today, so we'll talk about current games and then chill with q&a until we get bored",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1697046475,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "playlist broke again lol",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1697046483,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "@tyler okay, no problem",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1697046483,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "didnt know about that",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1697046661,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good morning all!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1697046815,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "quiet in here today",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1697047560,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay just gonna brush my teeth to get rid of this coffee taste and then we'll begin so brb!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1697047560,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697048663,
+        "author": "Asian lady sitting",
+        "author_id": "UCzyvSUgjwtvuWw-j78CHlrw",
+        "text": "The games are 100% tax write offs ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697048720,
+        "author": "The Unoffended Gamer",
+        "author_id": "UCO-Zruq3FuJveHGhSDobUrg",
+        "text": "Where’s doody when you need him?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697049020,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "they're watching DSP with spanish captions",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1697049514,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "!suggestion",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697051025,
+        "author": "D Lo",
+        "author_id": "UC9EsOEfu5NrE5JHzSM_aifA",
+        "text": "You say you want $100 a day right? I'm confused why you were upset last night",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697051154,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "wow, they're very commited",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697051163,
+        "author": "Lord Prince Albert",
+        "author_id": "UCp4v_7i6KU3tnuFl_y01e4Q",
+        "text": "was gorillapimp one of scumbags? he was funny lol",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1697051373,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "we're talking about practice...",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697051462,
+        "author": "CursedNothic",
+        "author_id": "UC4W8-GM4eK3TBxGGbtBWciA",
+        "text": "Time to profit from these trolls. Install text to speech superchats and let the trolls pay to hate. You'll be laughing all the way to the bank. ",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697051884,
+        "author": "Pikachu Hat",
+        "author_id": "UCkVqr9vtAKRJ4OhprNmUJkA",
+        "text": "what if we did a few retro rpg streams? like Quest 64. Trolls hate those. true supporters will stay nice and chill worked with with Chrono Trigger. ",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1697052092,
+        "author": "Rupps",
+        "author_id": "UCedwny9CbXmTNivK07YQcFg",
+        "text": "I want to start going to SF6 locals but don't like crowded spaces, how did you deal with it going to tournaments?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697052229,
+        "author": "Lord Prince Albert",
+        "author_id": "UCp4v_7i6KU3tnuFl_y01e4Q",
+        "text": "what if you host a tribunal segment on your live stream where the chat can decide if we should ban certain viewers or not? six70two's time is coming.",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697052473,
+        "author": "RadicalJawz Funny Moments",
+        "author_id": "UCUuBeGcl4X7P8YBjsWo1OGQ",
+        "text": "Hi Phil. Talk 2morrow I pressed unsub by accident ",
+        "usd": 2.05
+    },
+    {
+        "event": "superchat",
+        "time": 1697052636,
+        "author": "RadicalJawz Funny Moments",
+        "author_id": "UCUuBeGcl4X7P8YBjsWo1OGQ",
+        "text": "Didn’t work sorry ",
+        "usd": 2.05
+    },
+    {
+        "event": "ban",
+        "time": 1697052652,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@RadicalJawz Funny Moments IS A TROJAN HORSE",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697052660,
+        "author": "BULLY HUNTER_69",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "Radical Jaws can you confirm with a SC",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697052700,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "Trolls: 1 @RadicalJawz Funny Moments : 0",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697052733,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@SF6Blanka yo",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697052757,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@plumgorl is it true what they say?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697052790,
+        "author": "plumgorl",
+        "author_id": "UCcrasGbbjI4J6pkWTZCsjaQ",
+        "text": "@Clyde Baxter big ups brother ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697052830,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@plumgorl is it true what they say?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697053073,
+        "author": "Pikachu Hat",
+        "author_id": "UCkVqr9vtAKRJ4OhprNmUJkA",
+        "text": "I personally think, and this is just my opinion, you shouldn't be allowed to chat in stream until you support at least once, per stream. ",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1697053089,
+        "author": "Pikachu Hat",
+        "author_id": "UCkVqr9vtAKRJ4OhprNmUJkA",
+        "text": "I personally think, and this is just my opinion, you shouldn't be allowed to chat in stream until you support at least once, per stream. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697053097,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@addthegamer per usual",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697053130,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@addthegamer per usual",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697053154,
+        "author": "Eddie Yeti",
+        "author_id": "UCzAB9KVDiPq1dUashycA75w",
+        "text": "Chat should be shut down permanently",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697053251,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "\"the blind stares of a million pairs of eyes...\"",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697053299,
+        "author": "Six70Two",
+        "author_id": "UC8DpTkWZhGTZNJYxr4-nN0Q",
+        "text": "You say stop counting dollars but still have goals",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1697053316,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "1mm",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697053340,
+        "author": "None",
+        "author_id": "UC8DpTkWZhGTZNJYxr4-nN0Q",
+        "text": "You say stop counting dollars but still have goals",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697053364,
+        "author": "Zeledon",
+        "author_id": "UCeibl68wYKTWc08Z8ZaK4Ng",
+        "text": "Just want magic 8 Ball!! Phil always be yourself!!!",
+        "usd": 10.0
+    },
+    {
+        "event": "ban",
+        "time": 1697053388,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "in honor of 1mm, I'll change my name to 1 Pump Chump",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697053428,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "an 8-ball of coke",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697053477,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@Rebecca tu @Dan Theman ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697053663,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "open chat while Phil shats",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697053703,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "it seems I'm being monetized",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697053719,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "it seems I'm being monetized",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697053824,
+        "author": "Willow",
+        "author_id": "UCC5crOIHrVNjz5r94XYBxpA",
+        "text": "@DSPGaming when did you first had the 8 ball",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697053873,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@Daxmagain beefcast",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697054608,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@DSPGaming nice! a live a capella version",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697054648,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming okay see ya just say hi but u see me ton ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697054737,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming okay see ya just say hi but u see me ton",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697055126,
+        "author": "Soups",
+        "author_id": "UCYi6jDPX1A8UPCQkj-axwWg",
+        "text": ":woman_police_officer: 👮🏻‍♂ :woman_police_officer:👮🏻‍♂:woman_police_officer:👮🏻‍♂:police_car_light::oncoming_police_car::oncoming_police_car::oncoming_police_car::police_car::police_car::police_car::police_car: @Willow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697055126,
+        "author": "Soups",
+        "author_id": "UCYi6jDPX1A8UPCQkj-axwWg",
+        "text": ":woman_police_officer: 👮🏻‍♂ :woman_police_officer:👮🏻‍♂:woman_police_officer:👮🏻‍♂:police_car_light::oncoming_police_car::oncoming_police_car::oncoming_police_car::police_car::police_car::police_car::police_car: @Willow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697055435,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697055500,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697055549,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697055549,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "lol",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697055759,
+        "author": "Charlie Weiss",
+        "author_id": "UCRoZFpmYM0vJJuUF0T9HAIw",
+        "text": "Regarding the long-time viewers contacting you about trolling on multi-player nite streams, why not ask one of those viewers to mod for you @ nite? ",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1697055921,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "Diablo's Creed",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697056027,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@Willow you should be a mod, I'd love it!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697056067,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@Willow you should be a mod, I'd love it!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697056230,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming This hazy :fog: like atmosphere is tripping my eyes, but cool at the same time ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697056302,
+        "author": "Zeledon",
+        "author_id": "UCeibl68wYKTWc08Z8ZaK4Ng",
+        "text": "For Jasper :_dspJasper:",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1697056561,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming This almost looks like the COD hawk eye view when playing zombies remember ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697057506,
+        "author": "Lazuras7",
+        "author_id": "UCKiX87ynssYuBVkOo2UHY_A",
+        "text": "banned in under 5 minutes lmao ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697058446,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "I'll send a letter of recommendation for Willow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697058454,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "I'll send a letter of recommendation for Willow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697058454,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "I'll send a letter of recommendation for Willow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697058462,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "I'll send a letter of recommendation for Willow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697058462,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "I'll send a letter of recommendation for Willow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697058470,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "I'll send a letter of recommendation for Willow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697058478,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "I'll send a letter of recommendation for Willow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697058486,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "I'll send a letter of recommendation for Willow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697058494,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "I'll send a letter of recommendation for Willow",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697058632,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "Nightbot probably lives in his parents' basement",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697058833,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "he can climb bare walls, but can't climb a tree, lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697058930,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@Purple Aki a king without a crown",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697059003,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "Nightbot made some lewd and lascivious comments to Willow, in the past",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697059220,
+        "author": "nota snake",
+        "author_id": "UCoofGc6qfuaOImTblEPa3VQ",
+        "text": "do you think we can get ghost knife again",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697059309,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@Willow not sure, I may have to double check my facts",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697059374,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@Willow not sure, I may have to double check my facts",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697059890,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@1InchMan life imitating art",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697060020,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "Phil should wear a burka for this playthrough",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697060578,
+        "author": "Knickerbocker Tape",
+        "author_id": "UCyydAQuHl-Mt1XQc_w17BSw",
+        "text": "We know you watch different movies than those, stop lying @derich lp",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697060658,
+        "author": "Knickerbocker Tape",
+        "author_id": "UCyydAQuHl-Mt1XQc_w17BSw",
+        "text": "Hey @derich lp should i add milfs take miami 3 to my watch list ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697061312,
+        "author": "Paul Lee",
+        "author_id": "UCWagLBkQtymoA20glQFGjgw",
+        "text": "That’s embarrassing game design ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697061441,
+        "author": "Sea Shepherd",
+        "author_id": "UCjVtnvkejtPFYKP65pnqvQg",
+        "text": "How do you feel about Six70two firing upon the Gaza Strip?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697063827,
+        "author": "Broseph Josenbaum",
+        "author_id": "UCm_oANDGgTAmD2NCD_ISblQ",
+        "text": "Sub Saharan Africans in Iraq?? Can a historian confirm this happened?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697063908,
+        "author": "Broseph Josenbaum",
+        "author_id": "UCm_oANDGgTAmD2NCD_ISblQ",
+        "text": "How was the bubble blow today? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697064787,
+        "author": "Broseph Josenbaum",
+        "author_id": "UCm_oANDGgTAmD2NCD_ISblQ",
+        "text": "They hate dogs.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697065489,
+        "author": "John",
+        "author_id": "UCSY8B0v5HgSr5LKWlB0nHYQ",
+        "text": "@DSPGaming When you retire from making content, what will your tweet be on Twitter?",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1697066234,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 48.080000000000005
+    }
+]
