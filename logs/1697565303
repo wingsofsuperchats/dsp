@@ -1,0 +1,418 @@
+[
+    {
+        "event": "start",
+        "time": 1697565303,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1697565303,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good morning everyone!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1697565853,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay just gonna use the restroom and then we'll begin, brb",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697566667,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "Sonic Superstar :_dspThumbsup::_dspCorrect::_dspLeft::_dspRight:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697566692,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "Sonic Superstars :_dspThumbsup::_dspCorrect::_dspLeft::_dspRight:",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697567470,
+        "author": "Rob v",
+        "author_id": "UC8KjCPCoHUs41OmicXzOk3A",
+        "text": "L8 again? U chris? Dont u wear sonic medal 4 tips?",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1697567478,
+        "author": "None",
+        "author_id": "UC8KjCPCoHUs41OmicXzOk3A",
+        "text": "L8 again? U chris? Dont u wear sonic medal 4 tips?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697568036,
+        "author": "KingBCruel",
+        "author_id": "UCG6z8Uo0WRLofNW6vcK-OMw",
+        "text": "ngl",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697568399,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@Robie Pezzos yo",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697568407,
+        "author": "pacmanpowerghost",
+        "author_id": "UCuWqDqt8rzIQ5Njq9ErI0TA",
+        "text": "@DSPGaming how can you complain about people going back to a hard save when you used Devine Pulse in FIRE EMBLEM 3 HOUSES",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697568714,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming how jason or freddy",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697568810,
+        "author": "Soups",
+        "author_id": "UCYi6jDPX1A8UPCQkj-axwWg",
+        "text": "@Amolitory don’t be woke ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697569367,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming i love see world tour",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697570241,
+        "author": "DuperCuts",
+        "author_id": "UCKBsta4abN0Qlk-3k5qqsJA",
+        "text": "@Gothy Senpai lol loser",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697570792,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming sup on christmas jim carrey grinch ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697570873,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming sup on christmas jim carrey grinch ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697571100,
+        "author": "🇨🇴Juan David Ortega Laverde (Colombia) ",
+        "author_id": "UCQHQWU3QA6-w0y1KC4m8rMQ",
+        "text": "@DSPGaming 17 days my birthday",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697571157,
+        "author": "tyler",
+        "author_id": "UCBnIowFRnsAlvTBXr-GyBpA",
+        "text": "Big ups phil keep up the great work ",
+        "usd": 4.0
+    },
+    {
+        "event": "ban",
+        "time": 1697571513,
+        "author": "The Grinch",
+        "author_id": "UCAHV9b9XiovuKZXCBMv6dJg",
+        "text": "@DSPGaming can we talk about your shirt from yesterday",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697572338,
+        "author": "Bobblehead Dwarf",
+        "author_id": "UC53fl3V12LsRAo75pKYZ9yw",
+        "text": "@dspgaming I'm a little confused. I thought that it was ok to lose members? You told us over the past week to tip so that you can pay your bills and buy games? Have the tips not been enough? :disappointed_face: ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697572338,
+        "author": "Frank",
+        "author_id": "UCfwCrhNvH9MWGP-t8rQfrvA",
+        "text": "legit question dude",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697573811,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@Sundae Baka Mitai :_dspEww:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697573892,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I’m enjoying the gameplay Phil, a little new with certain things but definitely cool :_dspThumbsup::_dspCorrect::_dspSonic:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697575598,
+        "author": "SithAlchemist",
+        "author_id": "UCSyKj7Nkdi_Dwhu-Xe-pWqQ",
+        "text": "Lmfao",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697575914,
+        "author": "Ghemicals",
+        "author_id": "UC_qrPVx0eNOI7xgS52VkL_A",
+        "text": "I think u have to make him hit himself",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697576092,
+        "author": "Sundae",
+        "author_id": "UCIdtYEIGCsZpv-d3yCBgonA",
+        "text": "@NoSleepRealVibes all whaat",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697576254,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming Lots of Bonus Stages too :_dspHmm:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697576351,
+        "author": "NoSleepRealVibes",
+        "author_id": "UCysyQ_-E_M9d8hlaeOzBkuA",
+        "text": "@DSPGaming I’m loving it, just gotta get used to the soundtrack…it’s ok but could be better ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697576627,
+        "author": "FinalLaugh87",
+        "author_id": "UCsK616KuOgX5wo_nHsPrKxA",
+        "text": "Gotta Go Fast!!! Get a chili dog in you and finish strong. ",
+        "usd": 58.0
+    },
+    {
+        "event": "ban",
+        "time": 1697576805,
+        "author": "fat beauty",
+        "author_id": "UCs2dhj8FArLaBub3kJw9qXw",
+        "text": "they HAVE TO be separate. You guys just dont understand",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697577401,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming how was Sonic in the 1990s? were there a lot of toys, tv shows?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697577466,
+        "author": "Richie Dubbz",
+        "author_id": "UC3Uq6pgLJNMG4Ms6X_wdjkA",
+        "text": "sonic too hard??",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697577579,
+        "author": "Two Hour Woman 👑",
+        "author_id": "UCLqi4UvGMNe3PXPxnkThyng",
+        "text": "@Seanicorn because it's a children's game, there could be kids in the chat. That's why Derich has come along",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697577732,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming how was Sonic in the 1990s? were there a lot of toys, tv shows? if yes, did you have any as a kid?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697577797,
+        "author": "BULLY HUNTER_69",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": ":_dspSonic::_dspSonic::_dspSonic:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697577861,
+        "author": "SithAlchemist",
+        "author_id": "UCSyKj7Nkdi_Dwhu-Xe-pWqQ",
+        "text": "Lnfao",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697578152,
+        "author": "Hindenburger ",
+        "author_id": "UCjaPdtnJzuio8cFF9_-GWZA",
+        "text": "Champion Ryu this or starfield for game of the year?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697578152,
+        "author": "Hindenburger ",
+        "author_id": "UCjaPdtnJzuio8cFF9_-GWZA",
+        "text": "Champion Ryu this or starfield for game of the year?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697578184,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming I found The Hateful Truth Ep. 53 - Sonic Generations from November 3, 2011 and you are wearing that same hat. Hat is over a decade old ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697578483,
+        "author": "Hindenburger ",
+        "author_id": "UCjaPdtnJzuio8cFF9_-GWZA",
+        "text": "Champion Ryu jasper is always home silly",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697578483,
+        "author": "Hindenburger ",
+        "author_id": "UCjaPdtnJzuio8cFF9_-GWZA",
+        "text": "Champion Ryu jasper is always home silly",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697578556,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming the hat came with the game? I didn’t see it in the release day unboxing ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697578653,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming the hat came with the game? I didn’t see it in the release day unboxing video. that video you also unboxed Uncharted 3 and LOTR",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697578661,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming the hat came with the game? I didn’t see it in the release day unboxing",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697578798,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming the hat came with the game? I didn’t see it in that release day unboxing vide where you also unboxed Uncharted 3 and LOTR ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697579129,
+        "author": "Champion Ryu",
+        "author_id": "UCyRL0nOnXjJmnCUoUUgahHg",
+        "text": "@Mary Good question but we know why...",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697580532,
+        "author": "redbandit94",
+        "author_id": "UChBM4Wp5XsjyFvzD_-Q8MPw",
+        "text": "heres to the GOAT",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1697581644,
+        "author": "tyler",
+        "author_id": "UCBnIowFRnsAlvTBXr-GyBpA",
+        "text": "Tyrone snake",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697581869,
+        "author": "tyler",
+        "author_id": "UCBnIowFRnsAlvTBXr-GyBpA",
+        "text": "what dik",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697582973,
+        "author": "Tony Grosz",
+        "author_id": "UCLzjtqKN5lSzP4_4vIwi0BQ",
+        "text": "Whats your favorite Sonic music track of all time?",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1697583682,
+        "author": "Moe Bender",
+        "author_id": "UC-RGzpkLXrEt_rqv4TNlvcg",
+        "text": "Man this game has some nice graphics. Gonna have to check out that R34 later. Lol",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1697585295,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 67.98
+    }
+]
