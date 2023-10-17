@@ -1,0 +1,146 @@
+[
+    {
+        "event": "start",
+        "time": 1697507403,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697507404,
+        "author": "Bob Doctor",
+        "author_id": "UCQU8nrYEjP4_FrvoNO-wLTA",
+        "text": "Late ",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1697507404,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening everyone!",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697508437,
+        "author": "Klein_BallZDeep69",
+        "author_id": "UCj2yapYWtK7w_P4zjgxNSLA",
+        "text": "Skyrim (missions) + fallout (guns) = Star-field ",
+        "usd": 1.9
+    },
+    {
+        "event": "ban",
+        "time": 1697509107,
+        "author": "doggie",
+        "author_id": "UCr96SZUR-r_NeDrhw4t-L1g",
+        "text": "@DSPGaming the new format is a solid 9 if you want to try it",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1697511270,
+        "author": "Give Me Balance",
+        "author_id": "UCzpTIAQ8VTQPwP4hkB8QDTQ",
+        "text": "I hope TES6 isn't like this game shame on Bethesda",
+        "usd": 2.44
+    },
+    {
+        "event": "superchat",
+        "time": 1697511302,
+        "author": "Gabriel the Blessed ",
+        "author_id": "UCnz7MhTfiVO4SvvOcvYCk5Q",
+        "text": "Glad you play all these games so I dont have to!!",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1697511601,
+        "author": "Broseph Josenbaum",
+        "author_id": "UCm_oANDGgTAmD2NCD_ISblQ",
+        "text": "Sam’s gonna hit on you now. Gross. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697512932,
+        "author": "Broseph Josenbaum",
+        "author_id": "UCm_oANDGgTAmD2NCD_ISblQ",
+        "text": "My chats are so much more calm with certain watchers muted, cough, cough. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697513424,
+        "author": "SithAlchemist",
+        "author_id": "UCSyKj7Nkdi_Dwhu-Xe-pWqQ",
+        "text": "“If he does, he dies”",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697513876,
+        "author": "Broseph Josenbaum",
+        "author_id": "UCm_oANDGgTAmD2NCD_ISblQ",
+        "text": "Weapon engineering is the best, imo. Gotta work on crafting and upgrades though. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697514287,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming Season 6",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697514626,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming Pokemon Horizons: The Series is the current season with main character Liko. no more Ash Ketchum",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697514917,
+        "author": "Jayde Rasmussen",
+        "author_id": "UCvj74hFWYr61-_HKScy2XfQ",
+        "text": "@DSPGaming tu for eve and raz and king ghidorah in u pokemon scarlet",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697515078,
+        "author": "Sandy",
+        "author_id": "UCOE7eEXvyp23nrFvj1EseAQ",
+        "text": "I gotta go, see all of you tomorrow night, ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697515570,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming Cya and have a great streaming week btw. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1697516482,
+        "author": "Broseph Josenbaum",
+        "author_id": "UCm_oANDGgTAmD2NCD_ISblQ",
+        "text": "Phil pulled an Israel with the collateral damage ",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1697517970,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 6.34
+    }
+]
