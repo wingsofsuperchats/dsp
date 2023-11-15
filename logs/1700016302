@@ -1,0 +1,314 @@
+[
+    {
+        "event": "start",
+        "time": 1700016302,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1700016303,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700016303,
+        "author": "lol u wut",
+        "author_id": "UCaRnQTycOTOj-ZSdwWRXJMg",
+        "text": "Where is the excuse machine",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1700016303,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "we've got a new dancing animation now for $20 tips",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1700016521,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "man its getting cold, hard to figure out what to do with my office window now",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700016601,
+        "author": "Magurosan",
+        "author_id": "UC73cxNXpS_PlQbPaQbfeWyQ",
+        "text": "Put a star on the sill and then close it ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700017367,
+        "author": "Magurosan",
+        "author_id": "UC73cxNXpS_PlQbPaQbfeWyQ",
+        "text": "He didn’t beat zstar",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700017617,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming great premiere stream of Like A Dragon: Gaiden earlier today. can’t wait for more tomorrow. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700017705,
+        "author": "alebrije",
+        "author_id": "UCnDaPq0uiFoSCgxd2n9PVBA",
+        "text": "its been an awesome playthrough so far",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700017721,
+        "author": "Hot Latina",
+        "author_id": "UCEZLHxZujsK7Hif8fQzGwAg",
+        "text": "u and wings should get in a lobby together",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700017915,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming I don’t really mind if you play Robocop or Super Mario RPG, feel like playing what you want to play. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700017931,
+        "author": "Husker",
+        "author_id": "UCDK5s1PvYU7oIM7MKG-8qZA",
+        "text": "Ok ty!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700018100,
+        "author": "JAKE HUSDON",
+        "author_id": "UCJZJibJWD4juuKbPV2lZZgA",
+        "text": "DOODYSTREAMS IS AWESOME",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1700018108,
+        "author": "lyciversoul",
+        "author_id": "UCvLH1PJlS-WO35hEDLcjJNA",
+        "text": "does it upset you that you are skipping the game that's gonna win GOTY for most gaming figures and influencers. Baulders Gate 3",
+        "usd": 20.0
+    },
+    {
+        "event": "ban",
+        "time": 1700018173,
+        "author": "CharlesDgaf",
+        "author_id": "UCaxe3s7Xp_vSO0I_hck7x3A",
+        "text": "“Family” lmao ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1700018326,
+        "author": "Jared Walsh",
+        "author_id": "UCF4Od1OWjRNuCN-XoieH5eg",
+        "text": "will you Play Baldur's Gate 3 Some off time vs diablo 4 in some time Next year when there is no games available if you ever have time to play it.",
+        "usd": 3.65
+    },
+    {
+        "event": "superchat",
+        "time": 1700018705,
+        "author": "N-Gin & TonicTM",
+        "author_id": "UCsoswg5t4XhKShYc4lKpa_A",
+        "text": "Man, I'm in love with this TTK, very Black Ops 4-esc. Its nice not dying in 0.5 milliseconds because I got sneezed on.",
+        "usd": 12.49
+    },
+    {
+        "event": "ban",
+        "time": 1700020606,
+        "author": "Jake “Single Chip”",
+        "author_id": "UCD560KRfZEUfbKTNUoLc70Q",
+        "text": "this is why I don't stream, I'm afraid I'd be as interactive as dave over there in his nice shirt",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700020638,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming awesome 4.75 K/D Ratio",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700020743,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming I am watching the stream and posting ads",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1700021661,
+        "author": "BungoExpress",
+        "author_id": "UC82mb2d0E55ZVQ-iamZ7ieA",
+        "text": "I bet detractors make vid saying you were stunned on rust...predictable",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1700022121,
+        "author": "biggmackk",
+        "author_id": "UChRpYfnOQlOOWNMqbmTU58A",
+        "text": "cozy cod streams for the win",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1700022201,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming oh last time you had the Juggernaut music on and that video got claimed? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700022387,
+        "author": "Darkxlaw",
+        "author_id": "UCyp_gswBXhQY-59S5s8mtUw",
+        "text": "Stop being lazy and tip everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700022395,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@Apollo360XD what size Coke Zero?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700022403,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@Apollo360XD what size Coke Zero?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700022475,
+        "author": "thirdeyegaming Kkw",
+        "author_id": "UC5pB4HYwzBJ86GcE7SV_NVA",
+        "text": "pay piggssss",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700022483,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@Apollo360XD oh, so a 2 liter?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700022483,
+        "author": "Kryonice",
+        "author_id": "UCnRAVvZfPCKtVrkOdbwU7_w",
+        "text": "oink oink",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700022580,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@Apollo360XD oh, lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700022612,
+        "author": "jjns06",
+        "author_id": "UCHMOWjdeflQQW-rdSkTT7XA",
+        "text": "@Apollo360XD oh, lol",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1700024329,
+        "author": "ASHER VERSE",
+        "author_id": "UCcaRQe_addIYXRsm7S8zTnQ",
+        "text": "im slappin yo crooked nose back in place",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1700024828,
+        "author": "John Snow",
+        "author_id": "UCsct3ckTWjg4romtQX6c4AQ",
+        "text": "Beg hype",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1700025336,
+        "author": "Geoff Keighley Likes Big P3nis",
+        "author_id": "UCRw14lvmL2FdxPfaJNZN3gw",
+        "text": "None",
+        "usd": 0.99
+    },
+    {
+        "event": "ban",
+        "time": 1700025368,
+        "author": "None",
+        "author_id": "UCRw14lvmL2FdxPfaJNZN3gw",
+        "text": "None",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1700026117,
+        "author": "Jon",
+        "author_id": "UC7HDVE0T6EbbqAtDLnneBjA",
+        "text": "as an outdoorsman myself, i approve of thisas an outdoorsman myself, i approve of this",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1700026198,
+        "author": "DSP Is The Goat",
+        "author_id": "UC3y5STEx-FBueiu5CiwUsUg",
+        "text": "None",
+        "usd": 9.99
+    },
+    {
+        "event": "ban",
+        "time": 1700026302,
+        "author": "Anime knight",
+        "author_id": "UCwrCSYAdquMlxI6HQG_8S5w",
+        "text": " wage quit ",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1700027257,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 56.120000000000005
+    }
+]
