@@ -1,0 +1,730 @@
+[
+    {
+        "event": "start",
+        "time": 1701629102,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1701629103,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good morning everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1701629103,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "what a weird day today. im making react content all day, no gaming at all",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1701629103,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "and half the day its off stream",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1701629652,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay restroom so brb, then we begin!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701631197,
+        "author": "BRIDGERIFF89",
+        "author_id": "UCuFbuCS2h_ivV3Fohw5XG6g",
+        "text": "youve said you dont play for money???? wtf is iths",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701631423,
+        "author": "The savage",
+        "author_id": "UCXp3h_r-QANTeYYXeHKDMGw",
+        "text": "they aren't all the same though. Forgive had over 750,000 people watching it on twitch yesterday",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701631942,
+        "author": "ReggiePumped",
+        "author_id": "UCHfkracxmHDm2iz-zcfMY-Q",
+        "text": "derich?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701632176,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming it says December 6 at 9 AM PT",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701632637,
+        "author": "Affectionate Frog",
+        "author_id": "UC4Wf4-FGIQettXXP9WJoqcA",
+        "text": "@DSPGaming why won't you tell us about your stroke? The evidence is literally written all over your face. You would get more pity bucks as well",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701633266,
+        "author": "Witcher",
+        "author_id": "UCbqMXax6YNmH_UR6dB0tmGA",
+        "text": "You know the podcast I’m referring to ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701633331,
+        "author": "The savage",
+        "author_id": "UCXp3h_r-QANTeYYXeHKDMGw",
+        "text": "@dspgaming instead of doing an entire podcast on support wouldn't a sponsor on the border or a 1.5 minute add be less intrusive?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701633541,
+        "author": "Mango Flavored Twitter Feed",
+        "author_id": "UC3iooTzORCw4bDyfPsy3QeQ",
+        "text": "of course it's just me and the kids now after the father left but that's fine",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701633815,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming for the Tiermaker I have: S, A, B, C, and D. Should I add two more columns: Never watched and Really bad? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701634001,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming for the Tiermaker I have: S, A, B, C, and D. Should I add two more columns: Never watched and Really bad? ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1701634495,
+        "author": "dcjrsrt10",
+        "author_id": "UCCCrkzG7P24SA-rHvPEvk3A",
+        "text": "ive been binge watching your react channel. ",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1701634973,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming I loved him in Home Alone 2",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701635005,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming you have a Tim Curry animation right?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1701635062,
+        "author": "Wearymark",
+        "author_id": "UC92iGMNcWy2SxPwxYLuQcHA",
+        "text": "any chance of playing baulders gate 3?",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1701635118,
+        "author": "LilShakeandBake",
+        "author_id": "UCbX8u4CsEnNnkGeKKWV_MXQ",
+        "text": "Balders Gate 3 is a no go",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701635368,
+        "author": "Marc Thomas",
+        "author_id": "UCW5h2qoGSryapnY4ohBcm7g",
+        "text": "Everything has value in one way or another. TANSTAAFL!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701635384,
+        "author": "Marc Thomas",
+        "author_id": "UCW5h2qoGSryapnY4ohBcm7g",
+        "text": "Everything has value in one way or another. TANSTAAFL!",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1701635417,
+        "author": "MrGamemaster11111",
+        "author_id": "UCxkY9PAIdSxqKxlrgEKrEyQ",
+        "text": "hi dsp have you played xenoblade chronicles?",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1701635449,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming how did you watch the 1940s Christmas movies? was it VHS, renting off of Blockbuster?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701635497,
+        "author": "",
+        "author_id": "UCE6iX2tftS6EAEmA1us-kPQ",
+        "text": "@DSPGaming I'm a devout catholic I'm just curious if you go to church regularly you can say yes or no bro",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701635812,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPGaming Sam Raimi plans on doing evil dead movies regularly, did you like evil dead? ",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1701636029,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "cra",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1701636029,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "i think i set it up wrong lol",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1701636037,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "i think its leading to the wrong stream",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1701636061,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "there is this weird glitched stream from ages ago that never goes away and i think i clicked on that one by mistake lol",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1701636061,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "yeah thats no tit",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1701636069,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "well let me set up the real one",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1701636077,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "ill post up and tweet out about it etc",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1701636694,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 6.0
+    },
+    {
+        "event": "start",
+        "time": 1701636697,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1701636697,
+        "author": "MrGamemaster11111",
+        "author_id": "UCxkY9PAIdSxqKxlrgEKrEyQ",
+        "text": "hi dsp i asked about xenoblade cause im playing it right now they did a switch port in 2020, it can be grindy and 2 hard if u dont turn on causal mode",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1701636778,
+        "author": "Eggpicker",
+        "author_id": "UCZjXYSN-PtQQqSFx7mXu46w",
+        "text": "lolcowlive live in 7 minz",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1701636835,
+        "author": "Kathleen Powell",
+        "author_id": "UCXcXkTN2zkM7vfZHi2MYzIA",
+        "text": "I'm not into the reacting & see you tomorrow",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1701637279,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts that guy is Steven He. he is Asian-Irish and he is best known for saying Emotional Damage. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701637279,
+        "author": "Night Man",
+        "author_id": "UCjc9fOm70_4MNtWtQkni8Ww",
+        "text": "is that derich?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701637288,
+        "author": "Fed Roger",
+        "author_id": "UCvN0tCscYZl-dKs1oxPiiDw",
+        "text": ":cat-orange-whistling:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701637320,
+        "author": "DSP ENTERPRISES 2ND ACCT",
+        "author_id": "UCAhYeHqQBkdeInGwGUOR3kw",
+        "text": "derich is off limits",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701637377,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "neck phones @DSPReacts ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701637530,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts a little background on this guy, Steven He is a Chinese-Irish comedian",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701637732,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts Steven He started his YouTube channel in 2019. Before this, known for performing short comedy skits on TikTok. Since then, he became known for the Internet meme \"emotional damage. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701637772,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts Steven He started his YouTube channel in 2019. Before this, known for performing short comedy skits on TikTok. Since then, he became known for the Internet meme \"emotional damage\". ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701637797,
+        "author": "BULLY HUNTER_69",
+        "author_id": "UCp0J9MeBVGviSZ0aJeagx8A",
+        "text": "Derich please",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701637942,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts CBC is Canada and it is the Canadian Broadcasting Corporation. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701637974,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts btw CBC is Canada and it is the Canadian Broadcasting Corporation.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701637983,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts CBC is Canada and it is the Canadian Broadcasting Corporation.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701638128,
+        "author": "#Justice4LisaLou",
+        "author_id": "UCod55aK9-u6Km7EQevVLQlw",
+        "text": "he doesn't deseve you lisalou. #justiceforlisalou",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701638225,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts its called A Charlie Brown Christmas",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701638313,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts I see the grinch. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701638329,
+        "author": "Great Value Zordon",
+        "author_id": "UCzPteIbbtVSCQKrRk4ye9gw",
+        "text": "Have you asked team youtube to get the newer playbutton? Good job btw @DSPReacts ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701638402,
+        "author": "Great Value Zordon",
+        "author_id": "UCzPteIbbtVSCQKrRk4ye9gw",
+        "text": "Have you asked team youtube to get the newer playbutton? Good job btw @DSPReacts ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701638434,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts Assassin’s Creed 2 was November 17, 2009. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701638466,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts Assassin’s Creed 2 was November 17, 2009. the official release date",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701638515,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts Assassin’s Creed 2 was November 17, 2009. the official release date. so 14 years ago ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701638555,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts AC2 came out on Nov 17, 2009 and you played it in HD",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701639023,
+        "author": "lonelyapple",
+        "author_id": "UCBTUQKsGXAhiCyyMd6Mb2tQ",
+        "text": "Beg segment",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701639071,
+        "author": "I'mCummyElizabeth",
+        "author_id": "UCYRyr30GZTay3qonbyYUL7g",
+        "text": "Loving the content , Mr. Phil",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701639686,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts Lángos is a typical Hungarian food. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701639775,
+        "author": "RonnieTheJohnnie",
+        "author_id": "UCwrt3R37IyB18HPl1qLiGxA",
+        "text": "gonna tell us what almonds mean derich?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701639985,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts Käsespätzle is (German Cheese Spaetzle) btw. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701640041,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts ever had Spaetzle before? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701640186,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts new super Mario bros U was in November 2012 btw. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701640581,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts we don’t have Daiso but we have Oomomo which is also a Japanese company. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701640637,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts we don’t have Daiso but we have Oomomo which is also a Japanese store. there are a lot of Oomomos.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701640774,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts we don’t have Daiso but we have Oomomo which is also a Japanese store. there are a lot of Oomomos and they have snacks also ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701640951,
+        "author": "Prime509er",
+        "author_id": "UCAa_i7TtiWk5aVrgaYoImZw",
+        "text": "5",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701641072,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts in Toronto we have Oomomo which is also a Japanese store. they have snacks also and it’s very similar to Daiso. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701641113,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts I wanted to share that in Toronto we have Oomomo which is also a Japanese store. they have snacks also and it’s very similar to Daiso. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701641129,
+        "author": "Knee-Grow",
+        "author_id": "UCynsnSjV_BaryY2rniOjmRQ",
+        "text": "jesus theres so long clips and so much commentary, I'm surprised any clips at all",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701641137,
+        "author": "Knee-Grow",
+        "author_id": "UCynsnSjV_BaryY2rniOjmRQ",
+        "text": "jesus theres so long clips and so much commentary, I'm surprised any clips at all",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701642039,
+        "author": "AAWinnerMichaelCaine",
+        "author_id": "UCdBchOljDtYO_wCwPAViBsg",
+        "text": "that's a woman?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701642233,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts Ceres is a dwarf planet",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701642297,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts Proxima Centauri is a small, low-mass star located 4.2465 light-years away from the Sun in the southern constellation of Centaurus.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701642313,
+        "author": "Derich Ip",
+        "author_id": "UCKJnpYCPMLgmP9s63Rgf52g",
+        "text": "@DSPReacts Proxima Centauri is a small, low-mass star located 4.2465 light-years away from the Sun in the southern constellation of Centaurus.",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1701643546,
+        "author": "Ketan Joshi",
+        "author_id": "UCFJBMWnIRz7_msQblt6dvRQ",
+        "text": "Why am I toxic?? :grinning_face_with_sweat:",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1701644287,
+        "author": "Eggpicker",
+        "author_id": "UCZjXYSN-PtQQqSFx7mXu46w",
+        "text": "$o $nort burnell iz authentic but mr bea$t i$nt? intere$ting",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701644287,
+        "author": "Eggpicker",
+        "author_id": "UCZjXYSN-PtQQqSFx7mXu46w",
+        "text": "$o $nort burnell iz authentic but mr bea$t i$nt? intere$ting",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701644472,
+        "author": "Eggpicker",
+        "author_id": "UCZjXYSN-PtQQqSFx7mXu46w",
+        "text": "lol... like l@$t night...",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701644521,
+        "author": "Eggpicker",
+        "author_id": "UCZjXYSN-PtQQqSFx7mXu46w",
+        "text": "'i only made $10, no one likez cod'",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701644585,
+        "author": "Meatball Man",
+        "author_id": "UCOpgy5LJra1lDU_wqoNduOw",
+        "text": ":face-green-smiling:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701644714,
+        "author": "Bull from Night Court",
+        "author_id": "UCOOWlItRCFdFtcYVvXznqtQ",
+        "text": "I dont care",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701644835,
+        "author": "Eggpicker",
+        "author_id": "UCZjXYSN-PtQQqSFx7mXu46w",
+        "text": ":cat-orange-whistling:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701645664,
+        "author": "Eggpicker",
+        "author_id": "UCZjXYSN-PtQQqSFx7mXu46w",
+        "text": ":cat-orange-whistling: i like $now dayz",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701645664,
+        "author": "Eggpicker",
+        "author_id": "UCZjXYSN-PtQQqSFx7mXu46w",
+        "text": ":cat-orange-whistling: i like $now dayz",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701647540,
+        "author": "JD TV",
+        "author_id": "UCkfJbStrLMaPICjjrI6SPbA",
+        "text": "No, you take probiotics when you are pooping too much and that helps to regenerate the bacteria in the stomach. @DSPReacts",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1701647790,
+        "author": "JD TV",
+        "author_id": "UCkfJbStrLMaPICjjrI6SPbA",
+        "text": "No, you take probiotics when you are pooping too much and that helps to regenerate the bacteria in the stomach. @DSPReacts",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1701648850,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 24.0
+    }
+]
